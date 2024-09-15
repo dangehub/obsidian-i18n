@@ -14,7 +14,7 @@ jobs:
           
       - name: Checkout Gitee repository
         run: |
-          git clone https://song_of_light:${{ secrets.GITEE_ACCESS_TOKEN }}@gitee.com/song_of_light/obsidian-i18n-translation.git
+          git clone https://ob-i18n:${{ secrets.GITEE_ACCESS_TOKEN }}@gitee.com/ob-i18n/obsidian-i18n-translation.git
           
       - name: Set up Python
         uses: actions/setup-python@v2
