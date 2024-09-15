@@ -11,7 +11,7 @@ jobs:
       - name: Checkout Gitee repository
         uses: actions/checkout@v2
         with:
-          repository: your-gitee-username/your-gitee-repo
+          repository: song_of_light/obsidian-i18n-translation
           ref: master  # 或者您想要检出的分支名
           fetch-depth: 0  # 获取所有历史记录
       
