@@ -9,17 +9,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Gitee repository
-        uses: actions/checkout@v2
-        with:
-          repository: song_of_light/obsidian-i18n-translation
-          ref: master  # 或者您想要检出的分支名
-          fetch-depth: 0  # 获取所有历史记录
+        run: |
+          git clone https://${{ secrets.GITEE_USERNAME }}:${{ secrets.GITEE_PASSWORD }}@gitee.com/song_of_light/obsidian-i18n-translation.git
+          cd obsidian-i18n-translation
       
-      - name: Configure Gitee credentials
+      - name: Configure Git
         run: |
           git config --global user.name "曲淡歌"
           git config --global user.email "623009848@qq.com"
-          git remote set-url origin https://${{ secrets.GITEE_USERNAME }}:${{ secrets.GITEE_PASSWORD }}@gitee.com/your-gitee-username/your-gitee-repo.git
       
       - name: Run your action
         run: |
