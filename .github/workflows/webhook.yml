@@ -8,7 +8,19 @@ jobs:
   run-action:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout Gitee repository
+        uses: actions/checkout@v2
+        with:
+          repository: your-gitee-username/your-gitee-repo
+          ref: master  # 或者您想要检出的分支名
+          fetch-depth: 0  # 获取所有历史记录
+      
+      - name: Configure Gitee credentials
+        run: |
+          git config --global user.name "曲淡歌"
+          git config --global user.email "623009848@qq.com"
+          git remote set-url origin https://${{ secrets.GITEE_USERNAME }}:${{ secrets.GITEE_PASSWORD }}@gitee.com/your-gitee-username/your-gitee-repo.git
+      
       - name: Run your action
         run: |
           echo "Action triggered by webhook"
