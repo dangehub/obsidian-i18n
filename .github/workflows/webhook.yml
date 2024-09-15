@@ -10,7 +10,7 @@ jobs:
     steps:
       - name: Checkout Gitee repository
         run: |
-          git clone https://${{ secrets.GITEE_USERNAME }}:${{ secrets.GITEE_PASSWORD }}@gitee.com/song_of_light/obsidian-i18n-translation.git
+          git clone https://song_of_light:${{ secrets.GITEE_PASSWORD }}@gitee.com/song_of_light/obsidian-i18n-translation.git
           cd obsidian-i18n-translation
 
       - name: Set up Python
@@ -31,6 +31,5 @@ jobs:
       - name: Run Auto PR script
         env:
           GITEE_ACCESS_TOKEN: ${{ secrets.GITEE_ACCESS_TOKEN }}
-          GITEE_USERNAME: ${{ secrets.GITEE_USERNAME }}
         run: |
           python auto_pr.py
