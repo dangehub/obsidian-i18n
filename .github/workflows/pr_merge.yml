@@ -14,6 +14,6 @@ jobs:
           
       - name: Checkout Gitee repository
         run: |
-          git clone https://ob-i18n:${{ secrets.qudange_GITEE_ACCESS_TOKEN }}@gitee.com/zero--two/obsidian-i18n-translation.git
+          git clone https://song_of_light:${{ secrets.qudange_GITEE_ACCESS_TOKEN }}@gitee.com/zero--two/obsidian-i18n-translation.git
           
 
