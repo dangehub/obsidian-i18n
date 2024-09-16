@@ -18,4 +18,4 @@ jobs:
           
       - name: Checkout Gitee repository
         run: |
-          git clone https://gitee.com/song_of_light/weixin-chat.git
+          git clone https://github.com/dangehub/obsidian-i18n.git
