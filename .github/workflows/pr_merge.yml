@@ -1,0 +1,19 @@
+name: Webhook Trigger Auto PR
+
+on:
+  repository_dispatch:
+    types: [pr_merge]
+
+jobs:
+  run-auto-pr:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clean workspace
+        run: |
+          rm -rf *
+          
+      - name: Checkout Gitee repository
+        run: |
+          git clone https://ob-i18n:${{ secrets.qudange_GITEE_ACCESS_TOKEN }}@gitee.com/zero--two/obsidian-i18n-translation.git
+          
+
