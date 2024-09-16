@@ -1,4 +1,4 @@
-name: Webhook Trigger Auto PR
+name: PR Megered Webhook Trigger Update Directory
 
 on:
   repository_dispatch:
