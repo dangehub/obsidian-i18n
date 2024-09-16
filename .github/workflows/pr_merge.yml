@@ -34,6 +34,7 @@ jobs:
       
       - name: Commit and push changes
         run: |
+          cd obsidian-i18n-translation
           git config --global user.email "14901693+ob-i18n@user.noreply.gitee.com"
           git config --global user.name "ob-i18n"
           git add zh-cn/directory.json
