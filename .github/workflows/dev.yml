@@ -1,0 +1,21 @@
+name: Manual test
+
+on:
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: '触发原因'
+        required: false
+        default: '手动触发'
+
+jobs:
+  run-auto-pr:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clean workspace
+        run: |
+          rm -rf *
+          
+      - name: Checkout Gitee repository
+        run: |
+          git clone https://gitee.com/ob-i18n/obsidian-i18n-translation.git
