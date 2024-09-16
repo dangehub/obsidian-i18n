@@ -18,4 +18,4 @@ jobs:
           
       - name: Checkout Gitee repository
         run: |
-          git clone https://gitee.com/ob-i18n/obsidian-i18n-translation.git
+          git clone git@gitee.com:ob-i18n/obsidian-i18n-translation.git
