@@ -28,8 +28,8 @@ jobs:
       
       - name: Commit and push changes
         run: |
-          git config --local user.email "14901693+ob-i18n@user.noreply.gitee.com"
-          git config --local user.name "ob-i18n"
+          git config --global user.email "14901693+ob-i18n@user.noreply.gitee.com"
+          git config --global user.name "ob-i18n"
           git add zh-cn/directory.json
           git commit -m "Update directory.json via GitHub Action" || echo "No changes to commit"
           git push
