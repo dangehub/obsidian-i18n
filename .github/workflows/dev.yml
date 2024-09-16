@@ -9,7 +9,7 @@ on:
         default: '手动触发'
 
 jobs:
-  run-auto-pr:
+  test:
     runs-on: ubuntu-latest
     steps:
       - name: Clean workspace
