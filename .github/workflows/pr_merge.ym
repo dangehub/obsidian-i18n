@@ -11,7 +11,7 @@ on:
         default: '手动触发'
 
 jobs:
-  run-auto-pr:
+  PR-merged-update:
     runs-on: ubuntu-latest
     steps:
       - name: Clean workspace
