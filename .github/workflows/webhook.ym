@@ -28,8 +28,8 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --global user.name "曲淡歌"
-          git config --global user.email "623009848@qq.com"
+          git config --global user.name "ob-i18n"
+          git config --global user.email "14901693+ob-i18n@user.noreply.gitee.com"
 
       - name: Debug and run Auto PR script
         env:
@@ -40,7 +40,7 @@ jobs:
           echo "Directory contents:"
           ls -R
           echo "Changing to obsidian-i18n-translation directory:"
-          cd obsidian-i18n-translation
+          cd obsidian-i18n-translation/zh-cn
           echo "New current directory:"
           pwd
           echo "New directory contents:"
