@@ -38,7 +38,7 @@ jobs:
           git config --global user.email "14901693+ob-i18n@user.noreply.gitee.com"
           git config --global user.name "ob-i18n"
           git add zh-cn/directory.json
-          git add zh-cn/ingore.json
+          git add zh-cn/ignore.json
           git commit -m "Update directory.json and ingore.json via GitHub Action" || echo "No changes to commit"
           git push
           
