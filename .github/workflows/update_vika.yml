@@ -35,4 +35,6 @@ jobs:
       - name: Run update script
         env:
           VIKA_API_KEY: ${{ secrets.VIKA_API_KEY }}
-        run: python zh-cn/update_vika.py
+        run: |
+          cd obsidian-i18n-translation
+          python zh-cn/update_vika.py
