@@ -1,6 +1,8 @@
 name: Update vika regularly
 
 on:
+  schedule:
+    - cron: '0 */6 * * *'  # 每6小时运行一次
   workflow_dispatch:
     inputs:
       reason:
@@ -24,8 +26,13 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: '3.x'
-      
-      - name: Run update_dir.py
+
+      - name: Install dependencies
         run: |
-          cd obsidian-i18n-translation
-          python zh-cn/update_vika.py
+          python -m pip install --upgrade pip
+          pip install requests tqdm
+      
+      - name: Run update script
+        env:
+          VIKA_API_KEY: ${{ secrets.VIKA_API_KEY }}
+        run: python zh-cn/update_vika.py
