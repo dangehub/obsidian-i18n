@@ -9,7 +9,7 @@ on:
         default: '手动触发'
 
 jobs:
-  Update-vika-regularly:
+  sync-gitee-regularly:
     runs-on: ubuntu-latest
     steps:
       - name: Clean workspace
