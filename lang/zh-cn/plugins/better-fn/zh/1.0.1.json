@@ -1,0 +1,20 @@
+{
+    "manifest": {
+        "id": "better-fn",
+        "author": "无名氏",
+        "version": "1.0.0",
+        "pluginVersion": "1.0.1"
+    },
+    "description": {
+        "original": "Footnote popover for Obsidian",
+        "translation": "Footnote popover for Obsidian"
+    },
+    "dict": {
+        ".setName(\"Show reference\")": ".setName(\"Show reference\")",
+        ".setName(\"Smooth transition\")": ".setName(\"Smooth transition\")",
+        ".setDesc(\"Show reference section at the buttom of document\")": ".setDesc(\"Show reference section at the buttom of document\")",
+        ".appendText(\"Allow smooth transition between popovers\")": ".appendText(\"Allow smooth transition between popovers\")",
+        ".appendText(\"Note: if enabled, only one popover can be shown at a time\")": ".appendText(\"Note: if enabled, only one popover can be shown at a time\")",
+        ".innerText = \"\"": ".innerText = \"\""
+    }
+}
