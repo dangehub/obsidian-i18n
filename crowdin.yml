@@ -1,3 +1,3 @@
 files:
-  - source: /lang/zh-cn/plugins/obsidian-style-settings/1.0.9.json
-    translation: /lang/zh-cn/plugins/obsidian-style-settings/%language%/1.json
+  - source: /lang/zh-cn/plugins/*/1.0.9.json
+    translation: /%original_path%/%two_letters_code%/%original_file_name%.j
