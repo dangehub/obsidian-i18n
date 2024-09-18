@@ -1,6 +1,6 @@
 import { Setting } from "obsidian";
 import BaseSetting from "./base-setting";
-import { languages } from 'src/data/data'
+import { LANGUAGES } from 'src/data/data'
 import { t } from "src/lang/inxdex";
 
 export default class I18nNdtApi extends BaseSetting {
@@ -8,10 +8,11 @@ export default class I18nNdtApi extends BaseSetting {
 		let temp_ndt_lang = '';
 		let temp_ndt_url = '';
 		const i18nNdtApis = new Setting(this.containerEl);
+		if (!(this.settings.I18N_MODE_NDT)) i18nNdtApis.setClass('i18n_display-none');
 		i18nNdtApis.setName(t('SETTING_NDT_APIS'));
 		i18nNdtApis.setDesc(t('SETTING_NDT_APIS_DESC'));
 		i18nNdtApis.addDropdown(cb => cb
-			.addOptions(languages)
+			.addOptions(LANGUAGES)
 			.setValue('')
 			.onChange(async (value) => {
 				temp_ndt_lang = value;
