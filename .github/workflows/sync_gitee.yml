@@ -30,7 +30,7 @@ jobs:
 
       - name: Copy files from Gitee to Github
         run: |
-          cp -r obsidian-i18n-translation/zh-cn/* obsidian-i18n/lang/zh-cn/*
+          cp -rf obsidian-i18n-translation/zh-cn/* obsidian-i18n/lang/zh-cn/
 
       - name: Commit and push
         run: |
