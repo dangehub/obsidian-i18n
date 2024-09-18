@@ -25,7 +25,7 @@
         "(createEl(\"strong\",{text:`${de(\"Default:\")} `})": "(createEl(\"strong\",{text:`${de(\"Default:\")} `})",
         "(createEl(\"strong\",{text:\"Default (light): \"})": "(createEl(\"strong\",{text:\"Default (light): \"})",
         "(createEl(\"strong\",{text:\"Default (dark): \"})": "(createEl(\"strong\",{text:\"Default (dark): \"})",
-        ".createEl(\"a\",{text:\"Click here for details and examples.\",href:\"https://github.com/mgmeyers/obsidian-style-settings#obsidian-style-settings-plugin\"})": ".createEl(\"a\",{text:\"Click here for details and examples.\",href:\"https://github.com/mgmeyers/obsidian-style-settings#obsidian-style-settings-plugin\"})",
+        ".createEl(\"a\",{text:\"Click here for details and examples.\",href:\"https://github.com/mgmeyers/obsidian-style-settings#obsidian-style-settings-plugin\"})": ".createEl(\"a\",{text:\"点击此处获得更多细节.\",href:\"https://github.com/mgmeyers/obsidian-style-settings#obsidian-style-settings-plugin\"})",
         ".innerText=`\n\t\t\tbody.css-settings-manager {\n\t\t\t\t${n.reduce((i,l)=>i+`": ".innerText=`\n\t\t\tbody.css-settings-manager {\n\t\t\t\t${n.reduce((i,l)=>i+`"
     }
 }
