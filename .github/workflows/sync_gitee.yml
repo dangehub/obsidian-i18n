@@ -22,7 +22,7 @@ jobs:
           repository: dangehub/obsidian-i18n
           path: obsidian-i18n
           ref: main
-          token: ${{ secrets.GITHUB_ACCESS_TOKEN }}
+          token: ${{ secrets.myGITHUB_ACCESS_TOKEN }}
         
       - name: Checkout Gitee repository
         run: |
