@@ -11,7 +11,7 @@
   },
   "dict": {
     ".setDesc(\"Show reference section at the buttom of document\"": ".setDesc(\"在文档底部显示参考部分\"",
-    ".setName(\"Show reference\"": ".setName(\"显示参考\"",
+    ".setName(\"Show reference\"": "2333",
     ".setName(\"Smooth transition\"": ".setName(\"平滑过渡\"",
     ".setName(\"Show reference\")": ".setName(\"显示参考\")",
     ".setDesc(\"Show reference section at the buttom of document\")": ".setDesc(\"在笔记底部显示参考部分\")",
