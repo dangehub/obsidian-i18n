@@ -52,7 +52,7 @@
         ".error(`Failed to create file: '${normalizedPath}'`, err)": ".error(`Failed to create file: '${normalizedPath}'`, err)",
         ".error(\n          \"BRAT: validateRepository\",\n          repositoryPath,\n          getBetaManifest,\n          reportIssues\n        )": ".error(\n          \"BRAT: validateRepository\",\n          repositoryPath,\n          getBetaManifest,\n          reportIssues\n        )",
         ".error(\"Failed to load settings:\", error)": ".error(\"Failed to load settings:\", error)",
-        "name: \"Plugins: Add a beta plugin for testing\"": "name: \"Plugins: Add a beta plugin for testing\"",
+        "name: \"Plugins: Add a beta plugin for testing\"": "name: \"插件：添加测试的 beta 插件\"",
         "name: \"Plugins: Add a beta plugin with frozen version based on a release tag\"": "name: \"Plugins: Add a beta plugin with frozen version based on a release tag\"",
         "name: \"Plugins: Check for updates to all beta plugins and UPDATE\"": "name: \"Plugins: Check for updates to all beta plugins and UPDATE\"",
         "name: \"Plugins: Only check for updates to beta plugins, but don't Update\"": "name: \"Plugins: Only check for updates to beta plugins, but don't Update\"",
