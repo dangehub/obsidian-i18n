@@ -10,17 +10,19 @@
         "translation": "该插件帮助您在文件资源管理器中查看每个文件夹下的笔记数量"
     },
     "dict": {
-        ".setName('Show All Numbers')": ".setName('显示所有数字')",
-        ".setName('Add Root Folder')": ".setName('添加根文件夹')",
-        ".setName('Show Only Markdown Notes')": ".setName('仅显示Markdown笔记')",
-        ".setName('Filter List')": ".setName('筛选列表')",
-        ".setName('Enable Blacklist')": ".setName('启用黑名单')",
-        ".setDesc('Turn on this option if you want to see the number of notes even after you expand the collapsed folders')": ".setDesc('如果您希望在展开折叠的文件夹后仍然看到笔记数量，请开启此选项。')",
-        ".setDesc('By default, there is no root folder provided by Obsidian. It is moved to drop-down menu to switch between vaults. ' +\n            'Enable this option if you want to see root folder and its count in the file explorer')": ".setDesc('默认情况下，Obsidian 没有提供根文件夹。它被移动到下拉菜单中，以便在保险库之间切换。 ' +\n            '如果希望在文件资源管理器中显示根文件夹及其计数，请启用此选项。')",
-        ".setDesc('Turn off this option to choose file that should be counted')": ".setDesc('关闭此选项以选择应被计数的文件。')",
-        ".setDesc('Turn on this option to use Filter List to exclude files')": ".setDesc('开启此选项以使用筛选列表排除文件。')",
-        ".setPlaceholder('Leave it empty to count all types of files')": ".setPlaceholder('保持空白以计算所有类型的文件。')",
-        ".appendText('Extension list to include/exclude file during counting')": ".appendText('在计数过程中包含/排除文件的扩展名列表')",
-        ".appendText('Separated by comma')": ".appendText('用逗号分隔')"
+        ".setName(\"Choose highlight method\")": ".setName(\"选择高亮方法\")",
+        ".setName(\"Choose highlight style\")": ".setName(\"选择高亮样式\")",
+        ".setName(\"Choose highlight colors\")": ".setName(\"选择高亮颜色\")",
+        ".setDesc(`Choose between highlighting with inline CSS or CSS classes. Please note that there are pros and cons to both choices. Inline CSS will keep you from being reliant on external CSS files if you choose to export your notes. CSS classes are more flexible and easier to customize.`)": ".setDesc(`请选择使用内联 CSS 还是 CSS 类进行高亮。请注意，两种选择都有优缺点。内联 CSS 可以让你在导出笔记时不必依赖外部 CSS 文件。CSS 类更灵活且易于定制。`)",
+        ".setDesc(`Depending on your design aesthetic, you may want to customize the style of your highlights. Choose from an assortment of different highlighter styles by using the dropdown. Depending on your theme, this plugin's CSS may be overriden.`)": ".setDesc(`根据您的设计审美，您可能需要自定义高亮的样式。通过下拉菜单选择不同的高亮风格。根据您的主题，此插件的 CSS 可能会被覆盖。`)",
+        ".setDesc(`Create new highlight colors by providing a color name and using the color picker to set the hex code value. Don't forget to save the color before exiting the color picker. Drag and drop the highlight color to change the order for your highlighter component.`)": ".setDesc(`通过提供颜色名称并使用颜色选择器设置十六进制代码值来创建新的高亮颜色。不要忘记在退出颜色选择器前保存颜色。拖放高亮颜色以更改高亮组件的顺序。`)",
+        ".setPlaceholder(\"Color name\")": ".setPlaceholder(\"颜色名称\")",
+        ".setPlaceholder(\"Color hex code\")": ".setPlaceholder(\"颜色十六进制代码\")",
+        ".setTooltip(\"Save\")": ".setTooltip(\"保存\")",
+        ".setTooltip(\"Remove\")": ".setTooltip(\"移除\")",
+        ".appendText(\"If you like this Plugin and are considering donating to support continued development, use the buttons below!\")": ".appendText(\"如果你喜欢这个插件并考虑捐款支持持续开发，请使用下方的按钮！\")",
+        ".createEl(\"h1\", { text: \"Highlightr\" })": ".createEl(\"h1\", { text: \"Highlightr\" })",
+        ".createEl(\"p\", { text: \"Created by \" })": ".createEl(\"p\", { text: \"创建于\" })",
+        ".createEl(\"a\", {\n            text: \"Chetachi 👩🏽‍💻\",\n            href: \"https://github.com/chetachiezikeuzor\",\n        });\n        containerEl.createEl(\"h2\", { text: \"Plugin Settings\" })": ".createEl(\"a\", {\n            text: \"Chetachi 👩🏽‍💻\",\n            href: \"https://github.com/chetachiezikeuzor\",\n        });\n        containerEl.createEl(\"h2\", { text: \"插件设置\" })"
     }
 }
