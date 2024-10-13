@@ -1,13 +1,13 @@
 {
     "manifest": {
-        "id": "remember-cursor-position",
-        "author": "里安",
-        "version": "1.0.0",
+        "id": "obsidian-style-settings",
+        "author": "曲淡歌",
+        "version": "1.0.1",
         "pluginVersion": "1.0.9"
     },
     "description": {
-        "original": "Remember cursor and scroll position for each note",
-        "translation": "记住每个笔记的光标和滚动位置"
+        "original": "Offers controls for adjusting theme, plugin, and snippet CSS variables.",
+        "translation": "提供调整主题、插件和代码片段 CSS 变量的控制选项。"
     },
     "dict": {
         ".setName('Data file name')": ".setName('数据文件名称')",

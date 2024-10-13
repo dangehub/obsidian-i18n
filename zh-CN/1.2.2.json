@@ -1,13 +1,13 @@
 {
     "manifest": {
-        "id": "highlightr-plugin",
-        "author": "曲淡歌",
+        "id": "file-explorer-note-count",
+        "author": "里安",
         "version": "1.0.0",
         "pluginVersion": "1.2.2"
     },
     "description": {
-        "original": "A minimal and aesthetically pleasing highlighting menu that makes color-coded highlighting much easier with a configurable assortment of highlight colors 🎨.",
-        "translation": "一个简约且美观的高亮菜单，使彩色高亮更加容易，提供可配置的高亮颜色选择 🎨。"
+        "original": "The plugin helps you to see the number of notes under each folder within the file explorer.",
+        "translation": "该插件帮助您在文件资源管理器中查看每个文件夹下的笔记数量"
     },
     "dict": {
         ".setName(\"Choose highlight method\")": ".setName(\"选择高亮方法\")",

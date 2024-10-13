@@ -1,13 +1,13 @@
 {
     "manifest": {
-        "id": "obsidian-pandoc",
+        "id": "obsidian-emoji-toolbar",
         "author": "曲淡歌",
         "version": "1.0.0",
         "pluginVersion": "0.4.1"
     },
     "description": {
-        "original": "This is a Pandoc export plugin for Obsidian. It provides commands to export to formats like DOCX, ePub and PDF.",
-        "translation": "提供导出到DOCX、ePub和PDF等格式的命令。"
+        "original": "Quickly search for and insert emojis into your notes.",
+        "translation": "在笔记中快速搜索和插入表情符号。"
     },
     "dict": {
         ".setName(\"Custom CSS file for HTML output\")": ".setName(\"用于HTML输出的自定义CSS文件\")",

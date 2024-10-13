@@ -1,13 +1,13 @@
 {
   "manifest": {
-    "id": "obsidian-custom-frames",
+    "id": "floating-toc",
     "author": "宇桐非",
     "version": "2.4.7",
     "pluginVersion": "2.4.7"
   },
   "description": {
-    "original": "A plugin that turns web apps into panes using iframes with custom styling. Also comes with presets for Google Keep, Todoist and more.",
-    "translation": "A plugin that turns web apps into panes using iframes with custom styling. Also comes with presets for Google Keep, Todoist and more."
+    "original": "This is a floating Toc plugin that  hovers a table of content  containing a header level on the notes sidebar.",
+    "translation": "This is a floating Toc plugin that  hovers a table of content  containing a header level on the notes sidebar."
   },
   "dict": {
     ".setButtonText(\"Show Settings\")": ".setButtonText(\"显示设置\")",

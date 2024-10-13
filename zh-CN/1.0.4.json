@@ -1,13 +1,13 @@
 {
   "manifest": {
-    "id": "obsidian-copy-block-link",
-    "author": "Fendi",
-    "version": "2024-09-15",
+    "id": "global-proxy",
+    "author": "曲淡歌",
+    "version": "1.0.0",
     "pluginVersion": "1.0.4"
   },
   "description": {
-    "original": "Get links to blocks and headings from Obsidian's right click menu",
-    "translation": "从Obsidian的右键菜单中获取块和标题的链接"
+    "original": "Use network proxy throughout Obsidian according to the rules configured in this plugin.",
+    "translation": "根据此插件中配置的规则在整个 Obsidian 中使用网络代理。"
   },
   "dict": {
     "(isHeading ? \"Copy link to heading\"": "(isHeading ? \"复制标题链接\"",

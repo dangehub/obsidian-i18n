@@ -1,13 +1,13 @@
 {
   "manifest": {
-    "id": "cmdr",
-    "author": "里安",
-    "version": "1.0.0",
+    "id": "buttons",
+    "author": "里安&Fendi",
+    "version": "2024-09-15",
     "pluginVersion": "0.5.1"
   },
   "description": {
-    "original": "Customize your workspace by adding commands everywhere, create Macros and supercharge your mobile toolbar.",
-    "translation": "通过在各处添加命令来定制您的工作区，创建宏并增强您的移动工具栏。"
+    "original": "Create Buttons in your Obsidian notes to run commands, open links, and insert templates",
+    "translation": "在您的 Obsidian 笔记中创建按钮以运行命令、打开链接和插入模板"
   },
   "dict": {
     ".setText(\"Macro Builder\")": ".setText(\"宏构建器\")",
