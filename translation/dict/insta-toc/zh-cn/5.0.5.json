@@ -5,18 +5,18 @@
   },
   "description": {
     "original": "Simultaneously generate, update, and maintain a table of contents for your notes.",
-    "translation": "Simultaneously generate, update, and maintain a table of contents for your notes."
+    "translation": "同时生成、更新并维护笔记的目录。"
   },
   "dict": {
-    ".log(\"Loading Insta TOC Plugin\")": ".log(\"Loading Insta TOC Plugin\")",
-    ".log(\"Unloading Insta TOC Plugin\")": ".log(\"Unloading Insta TOC Plugin\")",
-    ".setName(\"List bullet style\")": ".setName(\"List bullet style\")",
-    ".setName(\"Indentation width\")": ".setName(\"Indentation width\")",
-    ".setName(\"Update delay\")": ".setName(\"Update delay\")",
-    ".setName(\"Excluded characters\")": ".setName(\"Excluded characters\")",
-    ".setDesc(\"Select the global list bullet type.\")": ".setDesc(\"Select the global list bullet type.\")",
-    ".setDesc(\"Select the global indentation size.\")": ".setDesc(\"Select the global indentation size.\")",
-    ".setDesc(\"The delay for each TOC update.\")": ".setDesc(\"The delay for each TOC update.\")",
-    ".setDesc(\"Characters to exclude in headings.\")": ".setDesc(\"Characters to exclude in headings.\")"
+    ".log(\"Loading Insta TOC Plugin\")": ".log(\"正在加载 Insta TOC 插件\")",
+    ".log(\"Unloading Insta TOC Plugin\")": ".log(\"正在卸载 Insta TOC 插件\")",
+    ".setName(\"List bullet style\")": ".setName(\"列表项目符号样式\")",
+    ".setName(\"Indentation width\")": ".setName(\"缩进宽度\")",
+    ".setName(\"Update delay\")": ".setName(\"更新延迟\")",
+    ".setName(\"Excluded characters\")": ".setName(\"排除的字符\")",
+    ".setDesc(\"Select the global list bullet type.\")": ".setDesc(\"选择全局列表项目符号类型。\")",
+    ".setDesc(\"Select the global indentation size.\")": ".setDesc(\"选择全局缩进大小。\")",
+    ".setDesc(\"The delay for each TOC update.\")": ".setDesc(\"每次目录更新的延迟时间。\")",
+    ".setDesc(\"Characters to exclude in headings.\")": ".setDesc(\"标题中需要排除的字符。\")"
   }
 }
