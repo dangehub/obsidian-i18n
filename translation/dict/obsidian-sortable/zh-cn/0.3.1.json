@@ -8,8 +8,8 @@
     "translation": "Wiki-like table sorting."
   },
   "dict": {
-    ".log(\"Sortable: loading plugin...\")": ".log(\"Sortable: loading plugin...\")",
-    ".log(\"Sortable: loaded plugin.\")": ".log(\"Sortable: loaded plugin.\")",
-    ".log(\"Sortable: unloaded plugin.\")": ".log(\"Sortable: unloaded plugin.\")"
+    ".log(\"Sortable: loading plugin...\")": ".log(\"Sortable：加载插件中...\")",
+    ".log(\"Sortable: loaded plugin.\")": ".log(\"Sortable：插件加载完成。\")",
+    ".log(\"Sortable: unloaded plugin.\")": ".log(\"Sortable：插件已卸载。\")"
   }
 }
