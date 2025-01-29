@@ -8,18 +8,18 @@
     "translation": ""
   },
   "dict": {
-    ".log('loading ' + this.manifest.name)": ".log('loading ' + this.manifest.name)",
-    ".log('unloading ' + this.manifest.name)": ".log('unloading ' + this.manifest.name)",
-    "name: 'Sort alphabetically with checkboxes'": "name: 'Sort alphabetically with checkboxes'",
-    "name: 'Sort current list alphabetically with checkboxes'": "name: 'Sort current list alphabetically with checkboxes'",
-    "name: 'Sort alphabetically'": "name: 'Sort alphabetically'",
-    "name: 'Sort current list alphabetically'": "name: 'Sort current list alphabetically'",
-    "name: 'Sort current list by checkboxes'": "name: 'Sort current list by checkboxes'",
-    "name: 'Sort by length of line'": "name: 'Sort by length of line'",
-    "name: 'Sort headings'": "name: 'Sort headings'",
-    "name: 'Reverse lines'": "name: 'Reverse lines'",
-    "name: 'Shuffle lines'": "name: 'Shuffle lines'",
-    "name: 'Sort current list recursively'": "name: 'Sort current list recursively'",
-    "name: 'Sort current list recursively with checkboxes'": "name: 'Sort current list recursively with checkboxes'"
+    ".log('loading ' + this.manifest.name)": ".log('加载中 ' + this.manifest.name)",
+    ".log('unloading ' + this.manifest.name)": ".log('卸载中 ' + this.manifest.name)",
+    "name: 'Sort alphabetically with checkboxes'": "name: '按字母顺序排列（包含复选框）'",
+    "name: 'Sort current list alphabetically with checkboxes'": "name: '按字母顺序排列当前列表（包含复选框）'",
+    "name: 'Sort alphabetically'": "name: '按字母顺序排列'",
+    "name: 'Sort current list alphabetically'": "name: '按字母顺序排列当前列表'",
+    "name: 'Sort current list by checkboxes'": "name: '按复选框排列当前列表'",
+    "name: 'Sort by length of line'": "name: '按行长度排序'",
+    "name: 'Sort headings'": "name: '排序标题'",
+    "name: 'Reverse lines'": "name: '反转行顺序'",
+    "name: 'Shuffle lines'": "name: '随机打乱行顺序'",
+    "name: 'Sort current list recursively'": "name: '递归排序当前列表'",
+    "name: 'Sort current list recursively with checkboxes'": "name: '递归排序当前列表（包含复选框）'"
   }
 }
