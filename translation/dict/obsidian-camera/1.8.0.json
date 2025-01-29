@@ -1,0 +1,24 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "1.8.0"
+  },
+  "description": {
+    "original": "Camera plugin for Obsidian",
+    "translation": "Camera plugin for Obsidian"
+  },
+  "dict": {
+    "Notice(`Adding new ${isImage ? \"Image\" : \"Video\"} to vault...`)": "Notice(`Adding new ${isImage ? \"Image\" : \"Video\"} to vault...`)",
+    "Notice(`Saved to ${filePath}`)": "Notice(`Saved to ${filePath}`)",
+    ".log(error)": ".log(error)",
+    "name: \"Open camera modal / File Picker\"": "name: \"Open camera modal / File Picker\"",
+    "text: \"Loading..\"": "text: \"Loading..\"",
+    "text: \"Start recording\"": "text: \"Start recording\"",
+    "text: \"Switch Camera\"": "text: \"Switch Camera\"",
+    "text: \"Take a snap\"": "text: \"Take a snap\"",
+    "text: \"Obsidian-Camera settings\"": "text: \"Obsidian-Camera settings\"",
+    ".setName(\"Folder Path\")": ".setName(\"Folder Path\")",
+    ".setDesc(\"Folder where the videos and snaps should be saved\")": ".setDesc(\"Folder where the videos and snaps should be saved\")",
+    ".setPlaceholder(\"Enter your secret\")": ".setPlaceholder(\"Enter your secret\")"
+  }
+}
