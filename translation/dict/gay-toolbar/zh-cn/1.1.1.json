@@ -5,24 +5,24 @@
   },
   "description": {
     "original": "Colorful, customizable toolbar, designed for mobile.",
-    "translation": "Colorful, customizable toolbar, designed for mobile."
+    "translation": "彩色、可定制的工具栏，专为移动端设计。"
   },
   "dict": {
-    ".setName(\"Mobile only\")": ".setName(\"Mobile only\")",
-    ".setDesc(\"Restart to apply changes\")": ".setDesc(\"Restart to apply changes\")",
-    ".setPlaceholder(\"Choose a command to add\")": ".setPlaceholder(\"Choose a command to add\")",
-    ".setPlaceholder(\"Choose an icon\")": ".setPlaceholder(\"Choose an icon\")",
-    ".createEl(\"h2\", { text: \"Gay Toolbar Settings\" })": ".createEl(\"h2\", { text: \"Gay Toolbar Settings\" })",
-    "{ label: \"Columns\", name: \"numCols\"": "{ label: \"Columns\", name: \"numCols\"",
-    "{ label: \"Rows\", name: \"numRows\"": "{ label: \"Rows\", name: \"numRows\"",
-    "{ label: \"Row height\", name: \"rowHeight\"": "{ label: \"Row height\", name: \"rowHeight\"",
-    "{ label: \"Gap\", name: \"gridGap\"": "{ label: \"Gap\", name: \"gridGap\"",
-    "{ label: \"Padding\", name: \"gridPadding\"": "{ label: \"Padding\", name: \"gridPadding\"",
-    "{ label: \"Long-press delay\", name: \"pressDelayMs\"": "{ label: \"Long-press delay\", name: \"pressDelayMs\"",
-    ": \"Background\" })": ": \"Background\" })",
-    "children: \"Custom CSS\"": "children: \"Custom CSS\"",
-    "children: \"Mobile only\"": "children: \"Mobile only\"",
-    "\"Buy me a plane ticket\"": "\"Buy me a plane ticket\"",
-    "children: \"Delete\"": "children: \"Delete\""
+    ".setName(\"Mobile only\")": ".setName(\"仅移动端\")",
+    ".setDesc(\"Restart to apply changes\")": ".setDesc(\"重新启动以应用更改\")",
+    ".setPlaceholder(\"Choose a command to add\")": ".setPlaceholder(\"选择要添加的命令\")",
+    ".setPlaceholder(\"Choose an icon\")": ".setPlaceholder(\"选择一个图标\")",
+    ".createEl(\"h2\", { text: \"Gay Toolbar Settings\" })": ".createEl(\"h2\", { text: \"Gay 工具栏设置\" })",
+    "{ label: \"Columns\", name: \"numCols\"": "{ label: \"列数\", name: \"numCols\"",
+    "{ label: \"Rows\", name: \"numRows\"": "{ label: \"行数\", name: \"numRows\"",
+    "{ label: \"Row height\", name: \"rowHeight\"": "{ label: \"行高\", name: \"rowHeight\"",
+    "{ label: \"Gap\", name: \"gridGap\"": "{ label: \"按钮间距\", name: \"gridGap\"",
+    "{ label: \"Padding\", name: \"gridPadding\"": "{ label: \"上下边距\", name: \"gridPadding\"",
+    "{ label: \"Long-press delay\", name: \"pressDelayMs\"": "{ label: \"长按延迟\", name: \"pressDelayMs\"",
+    ": \"Background\" })": ": \"背景\" })",
+    "children: \"Custom CSS\"": "children: \"自定义 CSS\"",
+    "children: \"Mobile only\"": "children: \"仅移动端\"",
+    "\"Buy me a plane ticket\"": "\"给我买张机票\"",
+    "children: \"Delete\"": "children: \"删除\""
   }
 }
