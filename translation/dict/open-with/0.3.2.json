@@ -1,0 +1,23 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "0.3.2"
+  },
+  "description": {
+    "original": "This Plugin allows you to add multiple other programs to open notes with.",
+    "translation": "This Plugin allows you to add multiple other programs to open notes with."
+  },
+  "dict": {
+    "containerEl.createEl('h2', { text: 'Open with Plugin' });": "containerEl.createEl('h2', { text: 'Open with Plugin' });",
+    ".setName(\"Add new application\")": ".setName(\"Add new application\")",
+    ".setDesc(\"Add a new application to open files with. You need to use the application path or command (for example \\\"code\\\" for VSCode) and arguments need to be comma seperated.\")": ".setDesc(\"Add a new application to open files with. You need to use the application path or command (for example \\\"code\\\" for VSCode) and arguments need to be comma seperated.\")",
+    "cb.setPlaceholder(\"Display Name\");": "cb.setPlaceholder(\"Display Name\");",
+    "cb.setPlaceholder(\"Path/Command\");": "cb.setPlaceholder(\"Path/Command\");",
+    "cb.setPlaceholder(\"Arguments (optional)\");": "cb.setPlaceholder(\"Arguments (optional)\");",
+    "name: \"Open File with \" + name,": "name: \"Open File with \" + name,",
+    "new obsidian.Notice(\"Display Name & Path/Command are always neccessary.\");": "new obsidian.Notice(\"Display Name & Path/Command are always neccessary.\");",
+    "new obsidian.Notice(\"You need to restart Obsidian for these changes to take effect.\");": "new obsidian.Notice(\"You need to restart Obsidian for these changes to take effect.\");",
+    ".setName('Show \"Show in system explorer\" in File-Menu')": ".setName('Show \"Show in system explorer\" in File-Menu')",
+    ".setDesc('Show the enhanced \"Show in system explorer\" command in File-Menus')": ".setDesc('Show the enhanced \"Show in system explorer\" command in File-Menus')"
+  }
+}
