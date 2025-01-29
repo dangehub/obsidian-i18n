@@ -1,0 +1,43 @@
+{
+  "manifest": {
+    "translationVersion": 1737461557418,
+    "pluginVersion": "0.2.11"
+  },
+  "description": {
+    "original": "This is a sample plugin for Obsidian. It allows you to open and annotate PDF and EPUB files.",
+    "translation": "This is a sample plugin for Obsidian. It allows you to open and annotate PDF and EPUB files."
+  },
+  "dict": {
+    ".setName(\"Custom Default Path\")": ".setName(\"Custom Default Path\")",
+    ".setName(\"Epub reader mode\")": ".setName(\"Epub reader mode\")",
+    ".setName(\"Font Size\")": ".setName(\"Font Size\")",
+    ".setName(\"Use Annotation Mode By Default\")": ".setName(\"Use Annotation Mode By Default\")",
+    ".setName(\"Include Prefix\")": ".setName(\"Include Prefix\")",
+    ".setName(\"Include Postfix\")": ".setName(\"Include Postfix\")",
+    ".setName(\"Highlight highlighted text\")": ".setName(\"Highlight highlighted text\")",
+    ".setName(\"Use Dark Mode By Default\")": ".setName(\"Use Dark Mode By Default\")",
+    ".setName(\"Sepia\")": ".setName(\"Sepia\")",
+    ".setName(\"Contrast\")": ".setName(\"Contrast\")",
+    ".setName(\"Brightness\")": ".setName(\"Brightness\")",
+    ".setName(\"Annotate.tv resource URL\")": ".setName(\"Annotate.tv resource URL\")",
+    ".setName(\"Enable Debug Logging\")": ".setName(\"Enable Debug Logging\")",
+    ".setDesc(`Base font size in percents. Current: ${this.plugin.settings.epubSettings.fontSize}%`)": ".setDesc(`Base font size in percents. Current: ${this.plugin.settings.epubSettings.fontSize}%`)",
+    ".setDesc(\"Whether to use annotation mode by default when opening a note with annotation-target\")": ".setDesc(\"Whether to use annotation mode by default when opening a note with annotation-target\")",
+    ".setDesc(\"Whether to include the %%PREFIX%% region of the annotation markdown. Allows you to see some text before the highlighted region.\")": ".setDesc(\"Whether to include the %%PREFIX%% region of the annotation markdown. Allows you to see some text before the highlighted region.\")",
+    ".setDesc(\"Whether to include the %%POSTFIX%% region of the annotation markdown. Allows you to see some text after the highlighted region.\")": ".setDesc(\"Whether to include the %%POSTFIX%% region of the annotation markdown. Allows you to see some text after the highlighted region.\")",
+    ".setDesc(\"Whether to wrap the %%HIGHLIGHT%% region text in == ==, so that the text becomes highlighted. Useful for distinguishing the highlight from the pre- and postfix.\")": ".setDesc(\"Whether to wrap the %%HIGHLIGHT%% region text in == ==, so that the text becomes highlighted. Useful for distinguishing the highlight from the pre- and postfix.\")",
+    ".setDesc(\"Whether to use dark mode by default when opening pdfs/epubs.\")": ".setDesc(\"Whether to use dark mode by default when opening pdfs/epubs.\")",
+    ".setDesc(\"The amount of sepia in dark mode\")": ".setDesc(\"The amount of sepia in dark mode\")",
+    ".setDesc(\"The amount of contrast in dark mode\")": ".setDesc(\"The amount of contrast in dark mode\")",
+    ".setDesc(\"The amount of brightness in dark mode\")": ".setDesc(\"The amount of brightness in dark mode\")",
+    ".setDesc(\"Not bundled with the plugin due to potential copyright issues.\")": ".setDesc(\"Not bundled with the plugin due to potential copyright issues.\")",
+    ".setDesc(\"If this is enabled, more things are printed to the console.\")": ".setDesc(\"If this is enabled, more things are printed to the console.\")",
+    ".createEl(\"h2\",{text:\"Annotator Settings\"})": ".createEl(\"h2\",{text:\"Annotator Settings\"})",
+    ".createEl(\"h3\",{text:\"Annotation Target Settings\"})": ".createEl(\"h3\",{text:\"Annotation Target Settings\"})",
+    ".createEl(\"h3\",{text:\"Epub Reader Settings\"})": ".createEl(\"h3\",{text:\"Epub Reader Settings\"})",
+    ".createEl(\"h3\",{text:\"Annotation Markdown Settings\"})": ".createEl(\"h3\",{text:\"Annotation Markdown Settings\"})",
+    ".createEl(\"h3\",{text:\"Dark Mode Settings\"})": ".createEl(\"h3\",{text:\"Dark Mode Settings\"})",
+    ".createEl(\"h3\",{text:\"Annotate.TV settings\"})": ".createEl(\"h3\",{text:\"Annotate.TV settings\"})",
+    ".createEl(\"h3\",{text:\"Developer Settings\"})": ".createEl(\"h3\",{text:\"Developer Settings\"})"
+  }
+}
