@@ -1,0 +1,23 @@
+{
+  "manifest": {
+    "translationVersion": 1730720427084,
+    "pluginVersion": "0.2.2"
+  },
+  "description": {
+    "original": "Typewriter-style scrolling which keeps the view centered in the editor.",
+    "translation": "Typewriter-style scrolling which keeps the view centered in the editor."
+  },
+  "dict": {
+    "name: 'Toggle On/Off'": "name: 'Toggle On/Off'",
+    "name: 'Toggle Zen Mode On/Off'": "name: 'Toggle Zen Mode On/Off'",
+    ".setName(\"Toggle Typewriter Scrolling\")": ".setName(\"Toggle Typewriter Scrolling\")",
+    ".setName(\"Center offset\")": ".setName(\"Center offset\")",
+    ".setName(\"Zen Mode\")": ".setName(\"Zen Mode\")",
+    ".setName(\"Zen Opacity\")": ".setName(\"Zen Opacity\")",
+    ".setDesc(\"Turns typewriter scrolling on or off globally\")": ".setDesc(\"Turns typewriter scrolling on or off globally\")",
+    ".setDesc(\"Positions the typewriter text at the specified percentage of the screen\")": ".setDesc(\"Positions the typewriter text at the specified percentage of the screen\")",
+    ".setDesc(\"Darkens non-active lines in the editor so you can focus on what you're typing\")": ".setDesc(\"Darkens non-active lines in the editor so you can focus on what you're typing\")",
+    ".setDesc(\"The opacity of unfocused lines in zen mode\")": ".setDesc(\"The opacity of unfocused lines in zen mode\")",
+    ".innerText = \"body{--zen-opacity: \"": ".innerText = \"body{--zen-opacity: \""
+  }
+}
