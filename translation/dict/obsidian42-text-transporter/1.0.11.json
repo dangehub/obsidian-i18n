@@ -1,0 +1,40 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "1.0.11"
+  },
+  "description": {
+    "original": "Advanced text tools for working with text in your vault",
+    "translation": "Advanced text tools for working with text in your vault"
+  },
+  "dict": {
+    ".setName(\"Alias Placeholder\")": ".setName(\"Alias Placeholder\")",
+    ".setDesc(\"Placeholder text used for an aliased block reference.\")": ".setDesc(\"Placeholder text used for an aliased block reference.\")",
+    "text: \"Bookmarks\"": "text: \"Bookmarks\"",
+    ".setName(\"Bookmarks\")": ".setName(\"Bookmarks\")",
+    ".setDesc(\n      `Predefined destinations within files that appear at the top of the file selector. \n\t\t\t\t\t\tEach line represents one bookmark. The line starts with the path to the file (ex: directory1/subdirectory/filename.md) \n\t\t\t\t\t\tIf just the file path is provided, the file contents will be shown for insertion.\n\t\t\t\t\t\tIf after the file name there is a semicolon followed by either: TOP BOTTOM or text to find in the document as an insertion point. Example:\n\n\t\t\t\t\t\tdirectory1/subdirectory/filename1.md;TOP  directory1/subdirectory/filename2.md;BOTTOM  directory1/subdirectory/filename3.md;# Inbox\n\t\t\t\t\t\tOptionally DNPTODAY or DNPTOMORROW can be used in the place of a file name to default to today's or tomorrows Daily Notes Page.\n\t\t\t\t\t\t`": ".setDesc(\n      `Predefined destinations within files that appear at the top of the file selector. \n\t\t\t\t\t\tEach line represents one bookmark. The line starts with the path to the file (ex: directory1/subdirectory/filename.md) \n\t\t\t\t\t\tIf just the file path is provided, the file contents will be shown for insertion.\n\t\t\t\t\t\tIf after the file name there is a semicolon followed by either: TOP BOTTOM or text to find in the document as an insertion point. Example:\n\n\t\t\t\t\t\tdirectory1/subdirectory/filename1.md;TOP  directory1/subdirectory/filename2.md;BOTTOM  directory1/subdirectory/filename3.md;# Inbox\n\t\t\t\t\t\tOptionally DNPTODAY or DNPTOMORROW can be used in the place of a file name to default to today's or tomorrows Daily Notes Page.\n\t\t\t\t\t\t`",
+    "text: \"Additional documentation  for bookmarks.\"": "text: \"Additional documentation  for bookmarks.\"",
+    "text: \"Context Menu Commands: Enable/Disable\"": "text: \"Context Menu Commands: Enable/Disable\"",
+    "caption: \"Quick Capture\",": "caption: \"Quick Capture\",",
+    "caption: \"Select current line/expand to block\",": "caption: \"Select current line/expand to block\",",
+    "caption: \"Select block - previous\",": "caption: \"Select block - previous\",",
+    "caption: \"Select block - next\",": "caption: \"Select block - next\",",
+    "caption: \"Select current line/expand up into previous block\",": "caption: \"Select current line/expand up into previous block\",",
+    "caption: \"Select current line/expand down into next block\",": "caption: \"Select current line/expand down into next block\",",
+    "caption: \"Replace link with text\",": "caption: \"Replace link with text\",",
+    "caption: \"Replace link with text & alias\",": "caption: \"Replace link with text & alias\",",
+    "caption: \"Copy block embeds from this selection\",": "caption: \"Copy block embeds from this selection\",",
+    "caption: \"Copy block embeds as an alias\",": "caption: \"Copy block embeds as an alias\",",
+    "caption: \"Copy line/selection to another file\",": "caption: \"Copy line/selection to another file\",",
+    "caption: \"Push line/selection to another file\",": "caption: \"Push line/selection to another file\",",
+    "caption: \"Push line/selection to another file as a block embed\",": "caption: \"Push line/selection to another file as a block embed\",",
+    "caption: \"Send link of current note to a file\",": "caption: \"Send link of current note to a file\",",
+    "caption: \"Send link of current note to the Clipboard\",": "caption: \"Send link of current note to the Clipboard\",",
+    "caption: \"Copy line(s) from another file\",": "caption: \"Copy line(s) from another file\",",
+    "caption: \"Pull line(s) from another file\",": "caption: \"Pull line(s) from another file\",",
+    "caption: \"Pull Line(s) from another file as block embeds\",": "caption: \"Pull Line(s) from another file as block embeds\",",
+    "caption: \"Add a New Bookmark from this file\",": "caption: \"Add a New Bookmark from this file\",",
+    "caption: \"Open a bookmarked file\",": "caption: \"Open a bookmarked file\",",
+    "caption: \"Remove a Bookmark\",": "caption: \"Remove a Bookmark\","
+  }
+}
