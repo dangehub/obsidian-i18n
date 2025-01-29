@@ -1,0 +1,30 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "2.4.7"
+  },
+  "description": {
+    "original": "This is a floating Toc plugin that  hovers a table of content  containing a header level on the notes sidebar.",
+    "translation": "This is a floating Toc plugin that  hovers a table of content  containing a header level on the notes sidebar."
+  },
+  "dict": {
+    ".setButtonText(\"\\u{1F3A8} Open style settings\")": ".setButtonText(\"\\u{1F3A8} Open style settings\")",
+    ".setTooltip(\"pin\")": ".setTooltip(\"pin\")",
+    ".setTooltip(\"Scroll to Top\")": ".setTooltip(\"Scroll to Top\")",
+    ".setTooltip(\"Scroll to Bottom\")": ".setTooltip(\"Scroll to Bottom\")",
+    ".setTooltip(\"copy to clipboard\")": ".setTooltip(\"copy to clipboard\")",
+    ".appendText(\"If you like this Plugin and are considering donating to support continued development, use the button below!\")": ".appendText(\"If you like this Plugin and are considering donating to support continued development, use the button below!\")",
+    ".createEl(\"h1\",{text:\"Obsidian Floating TOC \"})": ".createEl(\"h1\",{text:\"Obsidian Floating TOC \"})",
+    ".createEl(\"span\",{text:\"\"}).createEl(\"a\",{text:\"Author: Cuman \\u2728\",href:\"https://github.com/cumany\"})": ".createEl(\"span\",{text:\"\"}).createEl(\"a\",{text:\"Author: Cuman \\u2728\",href:\"https://github.com/cumany\"})",
+    ".createEl(\"span\",{text:\"\"}).createEl(\"a\",{text:\"Readme:\\u4E2D\\u6587\",href:\"https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian%E7%A4%BE%E5%8C%BA%E6%8F%92%E4%BB%B6/floating-toc/\"})": ".createEl(\"span\",{text:\"\"}).createEl(\"a\",{text:\"Readme:\\u4E2D\\u6587\",href:\"https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian%E7%A4%BE%E5%8C%BA%E6%8F%92%E4%BB%B6/floating-toc/\"})",
+    ".createEl(\"span\",{text:\"\"}).createEl(\"a\",{text:\"|English  \",href:\"https://github.com/cumany/obsidian-floating-toc-plugin/blob/master/README.md\"})": ".createEl(\"span\",{text:\"\"}).createEl(\"a\",{text:\"|English  \",href:\"https://github.com/cumany/obsidian-floating-toc-plugin/blob/master/README.md\"})",
+    ".createEl(\"div\",{text:\"\\u{1F511}TIPS:\"})": ".createEl(\"div\",{text:\"\\u{1F511}TIPS:\"})",
+    ".createEl(\"div\",{text:\"\\u{1F514} Notice: Please click the button again,If the floating-toc option is not found in the style settings\"})": ".createEl(\"div\",{text:\"\\u{1F514} Notice: Please click the button again,If the floating-toc option is not found in the style settings\"})",
+    ".createEl(\"span\",{text:\"\"}).createEl(\"a\",{text:\"Please install or enable the style-settings plugin\",href:\"obsidian://show-plugin?id=obsidian-style-settings\"})": ".createEl(\"span\",{text:\"\"}).createEl(\"a\",{text:\"Please install or enable the style-settings plugin\",href:\"obsidian://show-plugin?id=obsidian-style-settings\"})",
+    "name:\"Pinning the Floating TOC panel\"": "name:\"Pinning the Floating TOC panel\"",
+    "name:\"Hide/Show the Floating TOC panel\"": "name:\"Hide/Show the Floating TOC panel\"",
+    "name:\"Scroll to Bottom\"": "name:\"Scroll to Bottom\"",
+    "name:\"Scroll to Top\"": "name:\"Scroll to Top\"",
+    "name:\"Toggle Floating TOC Position (left/right)\"": "name:\"Toggle Floating TOC Position (left/right)\""
+  }
+}
