@@ -1,0 +1,46 @@
+{
+  "manifest": {
+    "translationVersion": 1736509145008,
+    "pluginVersion": "1.0.0"
+  },
+  "description": {
+    "original": "Finds images in the vault that are not linked to any notes. Either lists, or deletes them.",
+    "translation": "Finds images in the vault that are not linked to any notes. Either lists, or deletes them."
+  },
+  "dict": {
+    "Notice(`Found ${a.length} orphaned images. Note created or updated with details.`)": "Notice(`Found ${a.length} orphaned images. Note created or updated with details.`)",
+    "Notice(\"All images are linked!\")": "Notice(\"All images are linked!\")",
+    "Notice(`Deleted orphaned image: ${s}`)": "Notice(`Deleted orphaned image: ${s}`)",
+    "Notice(\"Failed to delete the orphaned image.\")": "Notice(\"Failed to delete the orphaned image.\")",
+    "Notice(\"No orphaned images found to delete.\")": "Notice(\"No orphaned images found to delete.\")",
+    "Notice(`Note \"${g}\" created or updated with orphaned images.`)": "Notice(`Note \"${g}\" created or updated with orphaned images.`)",
+    "Notice(\"Failed to create or update note with orphaned images.\")": "Notice(\"Failed to create or update note with orphaned images.\")",
+    ".log(\"Loading Find Orphaned Images Plugin\")": ".log(\"Loading Find Orphaned Images Plugin\")",
+    ".log(\"Unloading Find Orphaned Images Plugin\")": ".log(\"Unloading Find Orphaned Images Plugin\")",
+    ".error(\"Failed to delete the image:\",d)": ".error(\"Failed to delete the image:\",d)",
+    ".error(\"Failed to create or update note:\",a)": ".error(\"Failed to create or update note:\",a)",
+    "name:\"Find Orphaned Images\"": "name:\"Find Orphaned Images\"",
+    "text:\"Create a Report or Delete the Images?\"": "text:\"Create a Report or Delete the Images?\"",
+    "text:\"Find Orphaned Images Settings\"": "text:\"Find Orphaned Images Settings\"",
+    ".setButtonText(\"Create\")": ".setButtonText(\"Create\")",
+    ".setButtonText(\"Delete\")": ".setButtonText(\"Delete\")",
+    ".setName(\"Embed Images\")": ".setName(\"Embed Images\")",
+    ".setName(\"Text Links\")": ".setName(\"Text Links\")",
+    ".setName(\"Delete Orphaned Images\")": ".setName(\"Delete Orphaned Images\")",
+    ".setName(\"Show Sidebar Button\")": ".setName(\"Show Sidebar Button\")",
+    ".setDesc(\"Create a report with embedded images. This will display the images in the note.\")": ".setDesc(\"Create a report with embedded images. This will display the images in the note.\")",
+    ".setDesc(\"Create a report with text links to the images. This will not display the images in the note.\")": ".setDesc(\"Create a report with text links to the images. This will not display the images in the note.\")",
+    ".setDesc(\"Delete the X images found in the vault. X is the max delete count, defined in the settings.\")": ".setDesc(\"Delete the X images found in the vault. X is the max delete count, defined in the settings.\")",
+    ".setDesc(\"Comma-separated list of image extensions to look for.\")": ".setDesc(\"Comma-separated list of image extensions to look for.\")",
+    ".setDesc(\"Maximum number of orphaned images to delete (-1 for no limit).\")": ".setDesc(\"Maximum number of orphaned images to delete (-1 for no limit).\")",
+    ".setDesc(\"Enable or disable the sidebar button to find orphaned images.\")": ".setDesc(\"Enable or disable the sidebar button to find orphaned images.\")",
+    ".setPlaceholder(\"Enter image extensions\")": ".setPlaceholder(\"Enter image extensions\")",
+    ".setPlaceholder(\"-1\")": ".setPlaceholder(\"-1\")",
+    ".setName(\"Image extensions\")": ".setName(\"Image extensions\")",
+    ".setName(\"Max delete count\")": ".setName(\"Max delete count\")",
+    ".setName(\"Move to Trash\")": ".setName(\"Move to Trash\")",
+    ".setDesc(\"If enabled, orphaned images will be moved to the system trash instead of deleted.\")": ".setDesc(\"If enabled, orphaned images will be moved to the system trash instead of deleted.\")",
+    ".setName(\"Image Extensions\")": ".setName(\"Image Extensions\")",
+    ".setName(\"Max Delete Count\")": ".setName(\"Max Delete Count\")"
+  }
+}
