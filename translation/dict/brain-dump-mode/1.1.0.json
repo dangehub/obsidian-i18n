@@ -1,0 +1,21 @@
+{
+  "manifest": {
+    "translationVersion": 1732103871765,
+    "pluginVersion": "1.1.0"
+  },
+  "description": {
+    "original": "Done is better than perfect. Complete your first-messy-draft before you make it perfect. Your delete key will be DISABLED and all you can do is JUST BURN YOUR KEYBOARDS🔥",
+    "translation": "Done is better than perfect. Complete your first-messy-draft before you make it perfect. Your delete key will be DISABLED and all you can do is JUST BURN YOUR KEYBOARDS🔥"
+  },
+  "dict": {
+    "Notice(`Brain Dump Mode \\u{1F525} Backspace DISABLED`)": "Notice(`Brain Dump Mode \\u{1F525} Backspace DISABLED`)",
+    ".setName(\"Enable brain dump mode\")": ".setName(\"Enable brain dump mode\")",
+    ".setName(\"Enable shark mode\")": ".setName(\"Enable shark mode\")",
+    ".setName(\"Your speed goal (minute)\")": ".setName(\"Your speed goal (minute)\")",
+    ".setName(\"Speed measure window (milliseconds)\")": ".setName(\"Speed measure window (milliseconds)\")",
+    ".setDesc(\"If turned on, delete key will be disabled\")": ".setDesc(\"If turned on, delete key will be disabled\")",
+    ".setDesc(\"Escape from the shark by typing fast \\u{1F988}\")": ".setDesc(\"Escape from the shark by typing fast \\u{1F988}\")",
+    ".setDesc(\"How fast can you type?\")": ".setDesc(\"How fast can you type?\")",
+    ".setDesc(\"Lower, the harder.\")": ".setDesc(\"Lower, the harder.\")"
+  }
+}
