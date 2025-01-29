@@ -1,0 +1,34 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "0.6.2"
+  },
+  "description": {
+    "original": "Create date-links based on natural language",
+    "translation": "Create date-links based on natural language"
+  },
+  "dict": {
+    ".setName(\"Date\")": ".setName(\"Date\")",
+    ".setName(\"Date Format\")": ".setName(\"Date Format\")",
+    ".setName(\"Add as link?\")": ".setName(\"Add as link?\")",
+    ".setName(\"Date format\")": ".setName(\"Date format\")",
+    ".setName(\"Week starts on\")": ".setName(\"Week starts on\")",
+    ".setName(\"Time format\")": ".setName(\"Time format\")",
+    ".setName(\"Separator\")": ".setName(\"Separator\")",
+    ".setName(\"Enable date autosuggest\")": ".setName(\"Enable date autosuggest\")",
+    ".setName(\"Add dates as link?\")": ".setName(\"Add dates as link?\")",
+    ".setName(\"Trigger phrase\")": ".setName(\"Trigger phrase\")",
+    ".setDesc(\"Moment format to be used\")": ".setDesc(\"Moment format to be used\")",
+    ".setDesc(\"Output format for parsed dates\")": ".setDesc(\"Output format for parsed dates\")",
+    ".setDesc(\"Which day to consider as the start of the week\")": ".setDesc(\"Which day to consider as the start of the week\")",
+    ".setDesc(\"Format for the hotkeys that include the current time\")": ".setDesc(\"Format for the hotkeys that include the current time\")",
+    ".setDesc(\"Separator between date and time for entries that have both\")": ".setDesc(\"Separator between date and time for entries that have both\")",
+    ".setDesc(`Input dates with natural language. Open the suggest menu with ${this.plugin.settings.autocompleteTriggerPhrase}`)": ".setDesc(`Input dates with natural language. Open the suggest menu with ${this.plugin.settings.autocompleteTriggerPhrase}`)",
+    ".setDesc(\"If enabled, dates created via autosuggest will be wrapped in [[wikilinks]]\")": ".setDesc(\"If enabled, dates created via autosuggest will be wrapped in [[wikilinks]]\")",
+    ".setDesc(\"Character(s) that will cause the date autosuggest to open\")": ".setDesc(\"Character(s) that will cause the date autosuggest to open\")",
+    ".setPlaceholder(\"Separator is empty\")": ".setPlaceholder(\"Separator is empty\")",
+    ".createEl(\"h3\", {\n            text: \"Parser settings\",\n        })": ".createEl(\"h3\", {\n            text: \"Parser settings\",\n        })",
+    ".createEl(\"h3\", {\n            text: \"Hotkey formatting settings\",\n        })": ".createEl(\"h3\", {\n            text: \"Hotkey formatting settings\",\n        })",
+    ".createEl(\"h3\", {\n            text: \"Date Autosuggest\",\n        })": ".createEl(\"h3\", {\n            text: \"Date Autosuggest\",\n        })"
+  }
+}
