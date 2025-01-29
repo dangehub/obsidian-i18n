@@ -5,12 +5,12 @@
   },
   "description": {
     "original": "用装饰来装扮你的编辑器，这些装饰可以标记你的每一个标题。",
-    "translation": "用装饰来装扮你的编辑器，这些装饰可以标记你的每一个标题。"
+    "translation": "用能够标记你每个标题的装饰来装扮你的编辑器。"
   },
   "dict": {
-    "text:\"Appearance\"": "text:\"Appearance\"",
-    ".setName(\"Show before line numbers\")": ".setName(\"Show before line numbers\")",
-    ".setDesc(\"Toggle whether the heading markers are shown before or after the line numbers in the gutter.\")": ".setDesc(\"Toggle whether the heading markers are shown before or after the line numbers in the gutter.\")",
+    "text:\"Appearance\"": "text:\"外观\"",
+    ".setName(\"Show before line numbers\")": ".setName(\"在行号之前显示\")",
+    ".setDesc(\"Toggle whether the heading markers are shown before or after the line numbers in the gutter.\")": ".setDesc(\"切换标题标记是显示在边距中的行号之前还是之后。.\")",
     ".setTitle(`Heading ${d}`)": ".setTitle(`Heading ${d}`)"
   }
 }
