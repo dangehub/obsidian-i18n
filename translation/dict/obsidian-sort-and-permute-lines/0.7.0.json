@@ -1,0 +1,25 @@
+{
+  "manifest": {
+    "translationVersion": 1733639144362,
+    "pluginVersion": "0.7.0"
+  },
+  "description": {
+    "original": "",
+    "translation": ""
+  },
+  "dict": {
+    ".log('loading ' + this.manifest.name)": ".log('loading ' + this.manifest.name)",
+    ".log('unloading ' + this.manifest.name)": ".log('unloading ' + this.manifest.name)",
+    "name: 'Sort alphabetically with checkboxes'": "name: 'Sort alphabetically with checkboxes'",
+    "name: 'Sort current list alphabetically with checkboxes'": "name: 'Sort current list alphabetically with checkboxes'",
+    "name: 'Sort alphabetically'": "name: 'Sort alphabetically'",
+    "name: 'Sort current list alphabetically'": "name: 'Sort current list alphabetically'",
+    "name: 'Sort current list by checkboxes'": "name: 'Sort current list by checkboxes'",
+    "name: 'Sort by length of line'": "name: 'Sort by length of line'",
+    "name: 'Sort headings'": "name: 'Sort headings'",
+    "name: 'Reverse lines'": "name: 'Reverse lines'",
+    "name: 'Shuffle lines'": "name: 'Shuffle lines'",
+    "name: 'Sort current list recursively'": "name: 'Sort current list recursively'",
+    "name: 'Sort current list recursively with checkboxes'": "name: 'Sort current list recursively with checkboxes'"
+  }
+}

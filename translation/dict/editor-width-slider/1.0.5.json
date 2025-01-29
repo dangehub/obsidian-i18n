@@ -1,0 +1,25 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "1.0.5"
+  },
+  "description": {
+    "original": "Customize Obsidian's editor width with a slider for a tailored editing experience.",
+    "translation": "Customize Obsidian's editor width with a slider for a tailored editing experience."
+  },
+  "dict": {
+    ".log(\"Slider value:\", value)": ".log(\"Slider value:\", value)",
+    ".log(\"test\")": ".log(\"test\")",
+    ".log(\"2\")": ".log(\"2\")",
+    ".log(\"1.1\")": ".log(\"1.1\")",
+    ".log(\"1.2\")": ".log(\"1.2\")",
+    ".error(\"Error:\", e.message)": ".error(\"Error:\", e.message)",
+    ".setText(\"Editor width must be a number from 0 to 100!\")": ".setText(\"Editor width must be a number from 0 to 100!\")",
+    ".setName(\"Slider Width\")": ".setName(\"Slider Width\")",
+    ".setName(\"Slider Default Percentage\")": ".setName(\"Slider Default Percentage\")",
+    ".setName(\"Note:\")": ".setName(\"Note:\")",
+    ".setDesc(\"How wide do you want your slider to be?\")": ".setDesc(\"How wide do you want your slider to be?\")",
+    ".setDesc(\"What do you want the default percentage of the slider to be?\")": ".setDesc(\"What do you want the default percentage of the slider to be?\")",
+    ".setPlaceholder(\"Slider width in px\")": ".setPlaceholder(\"Slider width in px\")"
+  }
+}

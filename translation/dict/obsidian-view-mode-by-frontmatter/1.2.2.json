@@ -1,0 +1,37 @@
+{
+  "manifest": {
+    "translationVersion": 1736155437045,
+    "pluginVersion": "1.2.2"
+  },
+  "description": {
+    "original": "This plugin allows to force the view mode and editing mode for a note by using front matter",
+    "translation": "This plugin allows to force the view mode and editing mode for a note by using front matter"
+  },
+  "dict": {
+    ".setName(\"Ignore opened files\")": ".setName(\"Ignore opened files\")",
+    ".setName(\"Debounce timeout in milliseconds\")": ".setName(\"Debounce timeout in milliseconds\")",
+    ".setDesc(`Debounce timeout is the time in milliseconds after which the view mode is set. Set \"0\" to disable debouncing (default value is \"300\"). If you experience issues with the plugin, try increasing this value.`)": ".setDesc(`Debounce timeout is the time in milliseconds after which the view mode is set. Set \"0\" to disable debouncing (default value is \"300\"). If you experience issues with the plugin, try increasing this value.`)",
+    ".setDesc(\"Add new folder\")": ".setDesc(\"Add new folder\")",
+    ".setDesc(\"Add new file\")": ".setDesc(\"Add new file\")",
+    ".setPlaceholder(\"Example: folder1/templates\")": ".setPlaceholder(\"Example: folder1/templates\")",
+    ".setPlaceholder(`Example: \" - All$\" or \"1900-01\")`)": ".setPlaceholder(`Example: \" - All$\" or \"1900-01\")`)",
+    ".setTooltip(\"Add another folder to the list\")": ".setTooltip(\"Add another folder to the list\")",
+    ".setTooltip(\"Delete\")": ".setTooltip(\"Delete\")",
+    ".setTooltip(\"Add another file to the list\")": ".setTooltip(\"Add another file to the list\")",
+    ".error(\"ForceViewMode: This folder already has a template associated with\", newFolder)": ".error(\"ForceViewMode: This folder already has a template associated with\", newFolder)",
+    ".error(\"ForceViewMode: Pattern already exists\", value)": ".error(\"ForceViewMode: Pattern already exists\", value)",
+    ".setName(\"Ignore force view when not in frontmatter\")": ".setName(\"Ignore force view when not in frontmatter\")",
+    ".setDesc(\"Never change the view mode on a note which was already open.\")": ".setDesc(\"Never change the view mode on a note which was already open.\")",
+    ".setDesc(\"Never change the view mode on a note that was opened from another one in a certain view mode\")": ".setDesc(\"Never change the view mode on a note that was opened from another one in a certain view mode\")",
+    ".append(\"Changing the view mode can be done through the key \", desc.createEl(\"code\", { text: \"obsidianUIMode\" }), \", which can have the value \", desc.createEl(\"code\", { text: \"source\" }), \" or \", desc.createEl(\"code\", { text: \"preview\" }), \".\", desc.createEl(\"br\"), \"Changing the editing mode happens by declaring the key \", desc.createEl(\"code\", { text: \"obsidianEditingMode\" }), \"; it takes \", desc.createEl(\"code\", { text: \"live\" }), \" or \", desc.createEl(\"code\", { text: \"source\" }), \" as value.\")": ".append(\"Changing the view mode can be done through the key \", desc.createEl(\"code\", { text: \"obsidianUIMode\" }), \", which can have the value \", desc.createEl(\"code\", { text: \"source\" }), \" or \", desc.createEl(\"code\", { text: \"preview\" }), \".\", desc.createEl(\"br\"), \"Changing the editing mode happens by declaring the key \", desc.createEl(\"code\", { text: \"obsidianEditingMode\" }), \"; it takes \", desc.createEl(\"code\", { text: \"live\" }), \" or \", desc.createEl(\"code\", { text: \"source\" }), \" as value.\")",
+    ".append(\"Specify a view mode for notes in a given folder.\", folderDesc.createEl(\"br\"), \"Note that this will force the view mode on all the notes in the folder, even if they have a different view mode set in their frontmatter.\", folderDesc.createEl(\"br\"), \"Precedence is from bottom (highest) to top (lowest), so if you have child folders specified, make sure to put them below their parent folder.\")": ".append(\"Specify a view mode for notes in a given folder.\", folderDesc.createEl(\"br\"), \"Note that this will force the view mode on all the notes in the folder, even if they have a different view mode set in their frontmatter.\", folderDesc.createEl(\"br\"), \"Precedence is from bottom (highest) to top (lowest), so if you have child folders specified, make sure to put them below their parent folder.\")",
+    "createHeader(\"Folders\")": "createHeader(\"Folders\")",
+    "createHeader(\"Files\")": "createHeader(\"Files\")",
+    ".append(\"Specify a view mode for notes with specific patterns (regular expression; example \\\" - All$\\\" for all notes ending with \\\" - All\\\" or \\\"1900-01\\\" for all daily notes starting with \\\"1900-01\\\"\", filesDesc.createEl(\"br\"), \"Note that this will force the view mode, even if it have a different view mode set in its frontmatter.\", filesDesc.createEl(\"br\"), \"Precedence is from bottom (highest) to top (lowest).\", filesDesc.createEl(\"br\"), \"Notice that configuring a file pattern will override the folder configuration for the same file.\")": ".append(\"Specify a view mode for notes with specific patterns (regular expression; example \\\" - All$\\\" for all notes ending with \\\" - All\\\" or \\\"1900-01\\\" for all daily notes starting with \\\"1900-01\\\"\", filesDesc.createEl(\"br\"), \"Note that this will force the view mode, even if it have a different view mode set in its frontmatter.\", filesDesc.createEl(\"br\"), \"Precedence is from bottom (highest) to top (lowest).\", filesDesc.createEl(\"br\"), \"Notice that configuring a file pattern will override the folder configuration for the same file.\")",
+    "\"default\"": "\"default\"",
+    "\"obsidianUIMode: preview\"": "\"obsidianUIMode: preview\"",
+    "\"obsidianUIMode: source\"": "\"obsidianUIMode: source\"",
+    "\"obsidianEditingMode: live\"": "\"obsidianEditingMode: live\"",
+    "\"obsidianEditingMode: source\"": "\"obsidianEditingMode: source\""
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "manifest": {
+    "translationVersion": 1737000466208,
+    "pluginVersion": "0.7.12"
+  },
+  "description": {
+    "original": "An experimental Obsidian plugin that adds additional control to queries",
+    "translation": "An experimental Obsidian plugin that adds additional control to queries"
+  },
+  "dict": {
+    "Notice(\"Search results copied to clipboard.\")": "Notice(\"Search results copied to clipboard.\")",
+    "Notice(\"Failed to copy search results.\")": "Notice(\"Failed to copy search results.\")",
+    "Notice(\"Failed to copy backlinks.\")": "Notice(\"Failed to copy backlinks.\")",
+    ".log(\"EmbeddedQueryControlPlugin: onunload\")": ".log(\"EmbeddedQueryControlPlugin: onunload\")",
+    ".error(\"Error in Component.addChild around patch:\",i)": ".error(\"Error in Component.addChild around patch:\",i)",
+    ".error(\"Error in searchView.addChild around patch:\",i)": ".error(\"Error in searchView.addChild around patch:\",i)",
+    ".error(\"Error: _SearchHeaderDOM is undefined. Cannot create headerDom.\")": ".error(\"Error: _SearchHeaderDOM is undefined. Cannot create headerDom.\")",
+    ".error(\"Failed to copy search results:\",T)": ".error(\"Failed to copy search results:\",T)",
+    ".error(`Invalid sort option: ${f}`)": ".error(`Invalid sort option: ${f}`)",
+    ".error(\"Error in SearchResultDOM.startLoader around patch:\",O)": ".error(\"Error in SearchResultDOM.startLoader around patch:\",O)",
+    ".error(\"Error in EmbeddedSearch.onload:\",i)": ".error(\"Error in EmbeddedSearch.onload:\",i)",
+    ".error(\"Error in Backlink.onload:\",i)": ".error(\"Error in Backlink.onload:\",i)",
+    ".error(\"Failed to copy backlinks:\",u)": ".error(\"Failed to copy backlinks:\",u)",
+    ".setName(\"Collapse query results by default\")": ".setName(\"Collapse query results by default\")",
+    ".setName(\"Show additional query result context by default\")": ".setName(\"Show additional query result context by default\")",
+    ".setName(\"Hide query title by default\")": ".setName(\"Hide query title by default\")",
+    ".setName(\"Hide query results by default\")": ".setName(\"Hide query results by default\")",
+    ".setName(\"Render results as Markdown by default\")": ".setName(\"Render results as Markdown by default\")",
+    ".setName(\"Default query result sort order\")": ".setName(\"Default query result sort order\")",
+    ".setName(\"Render Markdown\")": ".setName(\"Render Markdown\")"
+  }
+}

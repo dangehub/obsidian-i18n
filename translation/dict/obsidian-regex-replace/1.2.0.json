@@ -1,0 +1,28 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "1.2.0"
+  },
+  "description": {
+    "original": "Find and replace text using regular expressions.",
+    "translation": "Find and replace text using regular expressions."
+  },
+  "dict": {
+    "Notice('Nothing to search for!')": "Notice('Nothing to search for!')",
+    "Notice(resultString)": "Notice(resultString)",
+    ".log('RegexFiRe: ' + logString)": ".log('RegexFiRe: ' + logString)",
+    "name: 'Find and Replace using regular expressions'": "name: 'Find and Replace using regular expressions'",
+    "text: 'Regular Expression Settings'": "text: 'Regular Expression Settings'",
+    "text: 'General Settings'": "text: 'General Settings'",
+    ".setText('Regex Find/Replace')": ".setText('Regex Find/Replace')",
+    ".setText('/' + regexFlags);\n            }\n            else {\n                findRegexFlags.setText('')": ".setText('/' + regexFlags);\n            }\n            else {\n                findRegexFlags.setText('')",
+    ".setButtonText('Cancel')": ".setButtonText('Cancel')",
+    ".setButtonText('Replace All')": ".setButtonText('Replace All')",
+    ".setName('Case Insensitive')": ".setName('Case Insensitive')",
+    ".setName('Process \\\\n as line break')": ".setName('Process \\\\n as line break')",
+    ".setName('Prefill Find Field')": ".setName('Prefill Find Field')",
+    ".setDesc('When using regular expressions, apply the \\'/i\\' modifier for case insensitive search)')": ".setDesc('When using regular expressions, apply the \\'/i\\' modifier for case insensitive search)')",
+    ".setDesc('When \\'\\\\n\\' is used in the replace field, a \\'line break\\' will be inserted accordingly')": ".setDesc('When \\'\\\\n\\' is used in the replace field, a \\'line break\\' will be inserted accordingly')",
+    ".setDesc('Copy the currently selected text (if any) into the \\'Find\\' text field. This setting is only applied if the selection does not contain linebreaks')": ".setDesc('Copy the currently selected text (if any) into the \\'Find\\' text field. This setting is only applied if the selection does not contain linebreaks')"
+  }
+}

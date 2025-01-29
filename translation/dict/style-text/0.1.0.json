@@ -1,0 +1,43 @@
+{
+  "manifest": {
+    "translationVersion": 1730126149567,
+    "pluginVersion": "0.1.0"
+  },
+  "description": {
+    "original": "Apply custom CSS styles to selected text in your Obsidian Notes.",
+    "translation": "Apply custom CSS styles to selected text in your Obsidian Notes."
+  },
+  "dict": {
+    "name: \"Super Big\"": "name: \"Super Big\"",
+    "name: \"Super Big Yellow Highlight\"": "name: \"Super Big Yellow Highlight\"",
+    "name: \"Big\"": "name: \"Big\"",
+    "name: \"Big Green Highlight\"": "name: \"Big Green Highlight\"",
+    "name: \"Large\"": "name: \"Large\"",
+    "name: \"Large Yellow\"": "name: \"Large Yellow\"",
+    "name: \"Large Orange\"": "name: \"Large Orange\"",
+    "name: \"Large Red\"": "name: \"Large Red\"",
+    "name: \"Green Highlight\"": "name: \"Green Highlight\"",
+    "name: \"Yellow Highlight\"": "name: \"Yellow Highlight\"",
+    "name: \"Remove Style\"": "name: \"Remove Style\"",
+    "name: `${style.name}`": "name: `${style.name}`",
+    "text: \"Created by \"": "text: \"Created by \"",
+    "text: \"Juanjo Arranz\"": "text: \"Juanjo Arranz\"",
+    "text: \"CSS styles to be applied to the selected text.\"": "text: \"CSS styles to be applied to the selected text.\"",
+    "text: \"Name\"": "text: \"Name\"",
+    "text: \"Style\"": "text: \"Style\"",
+    "text: \"Add Style\"": "text: \"Add Style\"",
+    "text: \"Usage with the Command Palette:\"": "text: \"Usage with the Command Palette:\"",
+    "text: \"Select text on the editor\"": "text: \"Select text on the editor\"",
+    "text: \"Open the Command Palette: <Ctrl> or <Cmd> + <P>\"": "text: \"Open the Command Palette: <Ctrl> or <Cmd> + <P>\"",
+    "text: 'Look up the Style to apply: \"Style Text ...\"'": "text: 'Look up the Style to apply: \"Style Text ...\"'",
+    "text: \"Choose the Style: <Enter>\"": "text: \"Choose the Style: <Enter>\"",
+    "text: \"Remove Applied Styles:\"": "text: \"Remove Applied Styles:\"",
+    "text: \"Select the styled text on the editor\"": "text: \"Select the styled text on the editor\"",
+    "text: 'Look up: \"Style Remove\"'": "text: 'Look up: \"Style Remove\"'",
+    "text: \"Press <Enter>\"": "text: \"Press <Enter>\"",
+    ".setTooltip(\"Move up\")": ".setTooltip(\"Move up\")",
+    ".setTooltip(\"Move down\")": ".setTooltip(\"Move down\")",
+    ".setTooltip(\"Remove Style\")": ".setTooltip(\"Remove Style\")",
+    ".setTitle(\"Remove Style\")": ".setTitle(\"Remove Style\")"
+  }
+}

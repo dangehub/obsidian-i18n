@@ -1,0 +1,33 @@
+{
+  "manifest": {
+    "translationVersion": 1732798157141,
+    "pluginVersion": "0.5.0"
+  },
+  "description": {
+    "original": "Add context menu items to search the internet within Obsidian.",
+    "translation": "Add context menu items to search the internet within Obsidian."
+  },
+  "dict": {
+    ".log('loading search-on-internet')": ".log('loading search-on-internet')",
+    ".log(\"SOI: Opening URL \" + url)": ".log(\"SOI: Opening URL \" + url)",
+    ".log('unloading search-on-internet')": ".log('unloading search-on-internet')",
+    "name: 'Perform search'": "name: 'Perform search'",
+    ".setButtonText('Add Search')": ".setButtonText('Add Search')",
+    ".setName('Open in iframe')": ".setName('Open in iframe')",
+    ".setName('Name')": ".setName('Name')",
+    ".setName('Encode')": ".setName('Encode')",
+    ".setName('Tags')": ".setName('Tags')",
+    ".setDesc('If set to true, this will open your searches in an iframe within Obsidian. ' +\n            'Otherwise, it will open in your default browser.')": ".setDesc('If set to true, this will open your searches in an iframe within Obsidian. ' +\n            'Otherwise, it will open in your default browser.')",
+    ".setDesc('Name of the search. Click the cross to delete the search.')": ".setDesc('Name of the search. Click the cross to delete the search.')",
+    ".setDesc('If set to true, this will encode raw text to be used in URLs. ' +\n                'Otherwise, it will not encode your query.')": ".setDesc('If set to true, this will encode raw text to be used in URLs. ' +\n                'Otherwise, it will not encode your query.')",
+    ".setDesc('URL to open when executing the search. ' +\n                'Use {{query}} to refer to the query, which is either the selected text, or the title of a note.')": ".setDesc('URL to open when executing the search. ' +\n                'Use {{query}} to refer to the query, which is either the selected text, or the title of a note.')",
+    ".setDesc('Only add search to notes with these comma-separated tags. Leave empty to use all tags.')": ".setDesc('Only add search to notes with these comma-separated tags. Leave empty to use all tags.')",
+    ".setPlaceholder('Search name')": ".setPlaceholder('Search name')",
+    ".setPlaceholder('Search query')": ".setPlaceholder('Search query')",
+    ".setPlaceholder('')\n                    .setValue(search.tags.join(', ')": ".setPlaceholder('')\n                    .setValue(search.tags.join(', ')",
+    ".setTooltip('Delete')": ".setTooltip('Delete')",
+    ".setTitle('Open in IFrame')": ".setTitle('Open in IFrame')",
+    ".setTitle('Search on ' + searchsetting.name)\n                    .setIcon('search')": ".setTitle('Search on ' + searchsetting.name)\n                    .setIcon('search')",
+    ".setTitle(\"Search \" + search.name).setIcon('search')": ".setTitle(\"Search \" + search.name).setIcon('search')"
+  }
+}

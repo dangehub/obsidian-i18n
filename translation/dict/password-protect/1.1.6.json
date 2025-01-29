@@ -1,0 +1,45 @@
+{
+  "manifest": {
+    "translationVersion": 1730373976833,
+    "pluginVersion": "1.1.6"
+  },
+  "description": {
+    "original": "Password protect your notes.",
+    "translation": "Password protect your notes."
+  },
+  "dict": {
+    "Notice(\"Please set a password!\")": "Notice(\"Please set a password!\")",
+    "Notice(\"Wrong password!\")": "Notice(\"Wrong password!\")",
+    "Notice(\"Changed password!\")": "Notice(\"Changed password!\")",
+    "Notice(\"Password correct!\")": "Notice(\"Password correct!\")",
+    "Notice(\"There are no hidden files.\")": "Notice(\"There are no hidden files.\")",
+    ".log(\"Password Protect Plugin Launched!\")": ".log(\"Password Protect Plugin Launched!\")",
+    ".log(\"Making - \" + file.path + \" - hidden!\")": ".log(\"Making - \" + file.path + \" - hidden!\")",
+    ".log(childFile.name + \" is hidden!\")": ".log(childFile.name + \" is hidden!\")",
+    "name: \"Turn all hidden files to Markdown\"": "name: \"Turn all hidden files to Markdown\"",
+    "text: \"Please enter password\"": "text: \"Please enter password\"",
+    "text: \"Please set a password\"": "text: \"Please set a password\"",
+    "text: \"Passwords doesn't match\"": "text: \"Passwords doesn't match\"",
+    "text: `Hidden files and folders`": "text: `Hidden files and folders`",
+    "text: \"Current password is wrong\"": "text: \"Current password is wrong\"",
+    ".setButtonText(\"Submit\")": ".setButtonText(\"Submit\")",
+    ".setButtonText(`Manage`)": ".setButtonText(`Manage`)",
+    ".setButtonText(\"Change password\")": ".setButtonText(\"Change password\")",
+    ".setButtonText(\"Show/hide files\")": ".setButtonText(\"Show/hide files\")",
+    ".setName(\"Password\")": ".setName(\"Password\")",
+    ".setName(\"Confirm password\")": ".setName(\"Confirm password\")",
+    ".setName(`Hidden files and folders`)": ".setName(`Hidden files and folders`)",
+    ".setName(\"Current password\")": ".setName(\"Current password\")",
+    ".setName(\"New password\")": ".setName(\"New password\")",
+    ".setName(\"Change password\")": ".setName(\"Change password\")",
+    ".setName(\"Show/hide files\")": ".setName(\"Show/hide files\")",
+    ".setDesc(`Add or remove files and folders from the list that are being hidden.`)": ".setDesc(`Add or remove files and folders from the list that are being hidden.`)",
+    ".setDesc(`Change the password by entering current password.`)": ".setDesc(`Change the password by entering current password.`)",
+    ".setDesc(`Toggle showing and hiding of files or folders.`)": ".setDesc(`Toggle showing and hiding of files or folders.`)",
+    ".setTooltip(`Remove`)": ".setTooltip(`Remove`)",
+    ".setTitle(`Unhide folder`)": ".setTitle(`Unhide folder`)",
+    ".setTitle(`Hide folder`)": ".setTitle(`Hide folder`)",
+    ".setTitle(`Unhide file`)": ".setTitle(`Unhide file`)",
+    ".setTitle(`Hide file`)": ".setTitle(`Hide file`)"
+  }
+}

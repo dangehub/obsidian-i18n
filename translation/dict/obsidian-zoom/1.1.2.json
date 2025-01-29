@@ -1,0 +1,30 @@
+{
+  "manifest": {
+    "translationVersion": 1730720480244,
+    "pluginVersion": "1.1.2"
+  },
+  "description": {
+    "original": "Zoom into heading and lists.",
+    "translation": "Zoom into heading and lists."
+  },
+  "dict": {
+    "name: \"Zoom in\"": "name: \"Zoom in\"",
+    "name: \"Zoom out the entire document\"": "name: \"Zoom out the entire document\"",
+    ".setName(\"Debug mode\"": ".setName(\"Debug mode\"",
+    ".setName(\"Zooming in when clicking on the bullet\"": ".setName(\"Zooming in when clicking on the bullet\"",
+    ".setDesc(\"Open DevTools (Command+Option+I or Control+Shift+I) to copy the debug logs.\"": ".setDesc(\"Open DevTools (Command+Option+I or Control+Shift+I) to copy the debug logs.\"",
+    "Notice(`In order to zoom, you must first enable \"Fold heading\" and \"Fold indent\" under Settings -> Editor`)": "Notice(`In order to zoom, you must first enable \"Fold heading\" and \"Fold indent\" under Settings -> Editor`)",
+    ".log(\"LimitSelectionOnZoomingIn:limitSelectionOnZoomingIn\", \"limiting selection\", newSelection.toJSON()": ".log(\"LimitSelectionOnZoomingIn:limitSelectionOnZoomingIn\", \"limiting selection\", newSelection.toJSON()",
+    ".log(\"LimitSelectionWhenZoomedIn:limitSelectionWhenZoomedIn\", \"limiting selection\", newSelection.toJSON()": ".log(\"LimitSelectionWhenZoomedIn:limitSelectionWhenZoomedIn\", \"limiting selection\", newSelection.toJSON()",
+    ".log(\"KeepOnlyZoomedContent:keepOnlyZoomedContentVisible\", \"keep only zoomed content visible\", effect.value.from, effect.value.to)": ".log(\"KeepOnlyZoomedContent:keepOnlyZoomedContentVisible\", \"keep only zoomed content visible\", effect.value.from, effect.value.to)",
+    ".log(\"KeepOnlyZoomedContent:showAllContent\", \"show all content\")": ".log(\"KeepOnlyZoomedContent:showAllContent\", \"show all content\")",
+    " log(method, ...args)": " log(method, ...args)",
+    ".log(method, ...args)": ".log(method, ...args)",
+    ".log(`Loading obsidian-zoom`)": ".log(`Loading obsidian-zoom`)",
+    ".log(`Unloading obsidian-zoom`)": ".log(`Unloading obsidian-zoom`)",
+    ".setName(\"Zooming in when clicking on the bullet\")": ".setName(\"Zooming in when clicking on the bullet\")",
+    ".setName(\"Debug mode\")": ".setName(\"Debug mode\")",
+    ".setDesc(\"Open DevTools (Command+Option+I or Control+Shift+I) to copy the debug logs.\")": ".setDesc(\"Open DevTools (Command+Option+I or Control+Shift+I) to copy the debug logs.\")",
+    ".innerText = \">\"": ".innerText = \">\""
+  }
+}

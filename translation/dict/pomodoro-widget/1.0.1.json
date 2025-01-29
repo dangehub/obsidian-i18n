@@ -1,0 +1,26 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "1.0.1"
+  },
+  "description": {
+    "original": "Provides a widget based on a pomodoro kitchen timer. It's designed to be haptic, and has a constant ticking sound, and an alarm sound that can be toggled.",
+    "translation": "Provides a widget based on a pomodoro kitchen timer. It's designed to be haptic, and has a constant ticking sound, and an alarm sound that can be toggled."
+  },
+  "dict": {
+    ".log(this.settings.timerToggleLocation)": ".log(this.settings.timerToggleLocation)",
+    "name: \"Toggle timer / stopwatch\"": "name: \"Toggle timer / stopwatch\"",
+    ".setButtonText(\"Reset widget\")": ".setButtonText(\"Reset widget\")",
+    ".setName(\"Default timer time\")": ".setName(\"Default timer time\")",
+    ".setName(\"Ticking enabled\")": ".setName(\"Ticking enabled\")",
+    ".setName(\"Ticking volume\")": ".setName(\"Ticking volume\")",
+    ".setName(\"Ticking speed\")": ".setName(\"Ticking speed\")",
+    ".setName(\"Alarm volume\")": ".setName(\"Alarm volume\")",
+    ".setName(\"Widget toggle location\")": ".setName(\"Widget toggle location\")",
+    ".setName(\"Reset widget position and anchor\")": ".setName(\"Reset widget position and anchor\")",
+    ".setDesc(\"The initial value of the timer, and the value the timer resets to after ringing.\")": ".setDesc(\"The initial value of the timer, and the value the timer resets to after ringing.\")",
+    ".innerText = `25:00`": ".innerText = `25:00`",
+    ".innerText = \"00:00:00\"": ".innerText = \"00:00:00\"",
+    ".innerText = \"SET\"": ".innerText = \"SET\""
+  }
+}

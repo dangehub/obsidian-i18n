@@ -1,0 +1,17 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "0.15.5"
+  },
+  "description": {
+    "original": "Add beautiful image layouts to your notes",
+    "translation": "Add beautiful image layouts to your notes"
+  },
+  "dict": {
+    ".log(f.detail.type)": ".log(f.detail.type)",
+    ".log(\"unloading plugin\")": ".log(\"unloading plugin\")",
+    "link:\"https://via.placeholder.com/640x480\"": "link:\"https://via.placeholder.com/640x480\"",
+    ".setName(\"Should Overlay Permanently\")": ".setName(\"Should Overlay Permanently\")",
+    ".setDesc(\"Image overlays don't require hovering\")": ".setDesc(\"Image overlays don't require hovering\")"
+  }
+}

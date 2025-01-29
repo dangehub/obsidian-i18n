@@ -1,0 +1,15 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "0.0.17"
+  },
+  "description": {
+    "original": "Create/manage your daily, weekly, and monthly notes",
+    "translation": "Create/manage your daily, weekly, and monthly notes"
+  },
+  "dict": {
+    "h3.textContent = \"Getting Started\"": "h3.textContent = \"Getting Started\"",
+    "button.textContent = \"Dismiss\"": "button.textContent = \"Dismiss\"",
+    "p.textContent = \"With this plugin, you can quickly create and navigate to daily, weekly,\\n      and monthly notes. Enable them below to get started.\"": "p.textContent = \"With this plugin, you can quickly create and navigate to daily, weekly,\\n      and monthly notes. Enable them below to get started.\""
+  }
+}

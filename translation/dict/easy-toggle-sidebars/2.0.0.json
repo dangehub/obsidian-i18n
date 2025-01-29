@@ -1,0 +1,40 @@
+{
+  "manifest": {
+    "translationVersion": 1731239230794,
+    "pluginVersion": "2.0.0"
+  },
+  "description": {
+    "original": "toggle sidebars double-clicking middle mouse button or each sidebar clicking middle mouse button and moving mouse towards the corresponding sidebar.",
+    "translation": "toggle sidebars double-clicking middle mouse button or each sidebar clicking middle mouse button and moving mouse towards the corresponding sidebar."
+  },
+  "dict": {
+    "Notice(\n            settings.autoHide ? \"AutoHide Enabled\" : \"AutoHide Disabled\",\n            2e3\n          )": "Notice(\n            settings.autoHide ? \"AutoHide Enabled\" : \"AutoHide Disabled\",\n            2e3\n          )",
+    "name: \"Toggle both sidebars\"": "name: \"Toggle both sidebars\"",
+    "text: \"Easy Toggle Sidebar\"": "text: \"Easy Toggle Sidebar\"",
+    ".setName(\"Right Mouse\")": ".setName(\"Right Mouse\")",
+    ".setName(\"Middle Mouse\")": ".setName(\"Middle Mouse\")",
+    ".setName(\"Horizontal Move threshold(px)\")": ".setName(\"Horizontal Move threshold(px)\")",
+    ".setName(\"Vertical Move threshold(px)\")": ".setName(\"Vertical Move threshold(px)\")",
+    ".setName(\"Auto hide\")": ".setName(\"Auto hide\")",
+    ".setName(\"Minimal editor width\")": ".setName(\"Minimal editor width\")",
+    ".setName(\"Set editor min width\")": ".setName(\"Set editor min width\")",
+    ".setName(\"double click delay(ms)\")": ".setName(\"double click delay(ms)\")",
+    ".setName(\"double click on tab headers to toggle pin\")": ".setName(\"double click on tab headers to toggle pin\")",
+    ".setDesc(\"Activates Right Mouse to trigger operations\")": ".setDesc(\"Activates Right Mouse to trigger operations\")",
+    ".setDesc(\"the most used\")": ".setDesc(\"the most used\")",
+    ".setDesc(\"could be used in ribbon bar, when using canvas\")": ".setDesc(\"could be used in ribbon bar, when using canvas\")",
+    ".setDesc(\n      \"Auto hide panels when clicking on the editor. Add a Ribbon icon to switch autoHide\"\n    )": ".setDesc(\n      \"Auto hide panels when clicking on the editor. Add a Ribbon icon to switch autoHide\"\n    )",
+    ".setDesc(\n      \"Hide panel(s) if the proportion of the editor is less than X (threshold below) times the window size\"\n    )": ".setDesc(\n      \"Hide panel(s) if the proportion of the editor is less than X (threshold below) times the window size\"\n    )",
+    ".setDesc(\"min width triggering auto reduce/close sidebars\")": ".setDesc(\"min width triggering auto reduce/close sidebars\")",
+    ".setDesc(\"max delay to trigger a double click\")": ".setDesc(\"max delay to trigger a double click\")",
+    ".setTooltip(\"Reset to default\")": ".setTooltip(\"Reset to default\")",
+    "With RightMouseButton or MiddleMouseButton :": "With RightMouseButton or MiddleMouseButton :",
+    "double click to toggle both sidebars": "double click to toggle both sidebars",
+    "click and move toward the sideBar you want to toggle": "click and move toward the sideBar you want to toggle",
+    "you can do previous operations from the ribbon bar using double clic and vertical moves (up/down). this is useful when in canvas": "you can do previous operations from the ribbon bar using double clic and vertical moves (up/down). this is useful when in canvas",
+    "autoHide to automatically hide sidebars when clicking on the editor": "autoHide to automatically hide sidebars when clicking on the editor",
+    "ribbon bar autoHide button switcher": "ribbon bar autoHide button switcher",
+    "hide sidebars under a minimal editor WIDTH": "hide sidebars under a minimal editor WIDTH",
+    "Command \"toggle both sidebars\" added.": "Command \"toggle both sidebars\" added."
+  }
+}

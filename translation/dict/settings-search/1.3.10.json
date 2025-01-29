@@ -1,0 +1,16 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "1.3.10"
+  },
+  "description": {
+    "original": "Globally search settings in Obsidian.md",
+    "translation": "Globally search settings in Obsidian.md"
+  },
+  "dict": {
+    ".setText(\"No results found :(\")": ".setText(\"No results found :(\")",
+    ".setPlaceholder(\"Search settings...\")": ".setPlaceholder(\"Search settings...\")",
+    ".setTooltip(`Open ${resource.text} Settings`)": ".setTooltip(`Open ${resource.text} Settings`)",
+    ".createEl(\"h3\", {\n        text: \"Settings Search Results\"\n      })": ".createEl(\"h3\", {\n        text: \"Settings Search Results\"\n      })"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "manifest": {
+    "translationVersion": 1732689587313,
+    "pluginVersion": "1.1.0"
+  },
+  "description": {
+    "original": "Automatically renumber numbered lists as you edit them.",
+    "translation": "Automatically renumber numbered lists as you edit them."
+  },
+  "dict": {
+    "name: \"At cursor position\"": "name: \"At cursor position\"",
+    "name: \"Selected lists\"": "name: \"Selected lists\"",
+    "name: \"All numbered lists note\"": "name: \"All numbered lists note\"",
+    ".setName(\"Live update\")": ".setName(\"Live update\")",
+    ".setName(\"Smart pasting\")": ".setName(\"Smart pasting\")",
+    ".setName(\"Start numbering from 1\")": ".setName(\"Start numbering from 1\")",
+    ".setName(\"Tab indent size\")": ".setName(\"Tab indent size\")",
+    ".setDesc(\"Automatically update numbered lists as changes are made.\")": ".setDesc(\"Automatically update numbered lists as changes are made.\")",
+    ".setDesc(\"Pasting keeps the sequencing consistent with the original numbered list.\")": ".setDesc(\"Pasting keeps the sequencing consistent with the original numbered list.\")",
+    ".setDesc(\"The first item of every numbered list is 1.\")": ".setDesc(\"The first item of every numbered list is 1.\")",
+    ".setDesc(\n      \"Set the indent size to the same size as in the editor's settings. Can be found under: Options > Editor > Tab indent size.\"\n    )": ".setDesc(\n      \"Set the indent size to the same size as in the editor's settings. Can be found under: Options > Editor > Tab indent size.\"\n    )"
+  }
+}

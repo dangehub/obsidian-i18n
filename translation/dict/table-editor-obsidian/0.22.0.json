@@ -1,0 +1,29 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "0.22.0"
+  },
+  "description": {
+    "original": "Improved table navigation, formatting, manipulation, and formulas",
+    "translation": "Improved table navigation, formatting, manipulation, and formulas"
+  },
+  "dict": {
+    ".setText(\"Include table headers\")": ".setText(\"Include table headers\")",
+    ".setText(\"Advanced Tables\")": ".setText(\"Advanced Tables\")",
+    ".setText(\"Align:\")": ".setText(\"Align:\")",
+    ".setText(\"Move:\")": ".setText(\"Move:\")",
+    ".setText(\"Edit:\")": ".setText(\"Edit:\")",
+    ".setText(\"Sort/F:\")": ".setText(\"Sort/F:\")",
+    ".setText(\"Misc:\")": ".setText(\"Misc:\")",
+    ".setName(\"Bind enter to table navigation\")": ".setName(\"Bind enter to table navigation\")",
+    ".setName(\"Bind tab to table navigation\")": ".setName(\"Bind tab to table navigation\")",
+    ".setName(\"Pad cell width using spaces\")": ".setName(\"Pad cell width using spaces\")",
+    ".setName(\"Show icon in sidebar\")": ".setName(\"Show icon in sidebar\")",
+    ".setDesc(\n      'Requires restart of Obsidian. If enabled, when the cursor is in a table, enter advances to the next row. Disabling this can help avoid conflicting with tag or CJK autocompletion. If disabling, bind \"Go to ...\" in the Obsidian Hotkeys settings.'\n    )": ".setDesc(\n      'Requires restart of Obsidian. If enabled, when the cursor is in a table, enter advances to the next row. Disabling this can help avoid conflicting with tag or CJK autocompletion. If disabling, bind \"Go to ...\" in the Obsidian Hotkeys settings.'\n    )",
+    ".setDesc(\n      'Requires restart of Obsidian. If enabled, when the cursor is in a table, tab/shift+tab navigate between cells. Disabling this can help avoid conflicting with tag or CJK autocompletion. If disabling, bind \"Go to ...\" in the Obsidian Hotkeys settings.'\n    )": ".setDesc(\n      'Requires restart of Obsidian. If enabled, when the cursor is in a table, tab/shift+tab navigate between cells. Disabling this can help avoid conflicting with tag or CJK autocompletion. If disabling, bind \"Go to ...\" in the Obsidian Hotkeys settings.'\n    )",
+    ".setDesc(\n      \"If enabled, table cells will have spaces added to match the width of the longest cell in the column.\"\n    )": ".setDesc(\n      \"If enabled, table cells will have spaces added to match the width of the longest cell in the column.\"\n    )",
+    ".setDesc(\n      \"If enabled, a button which opens the table controls toolbar will be added to the Obsidian sidebar. The toolbar can also be opened with a Hotkey. Changes only take effect on reload.\"\n    )": ".setDesc(\n      \"If enabled, a button which opens the table controls toolbar will be added to the Obsidian sidebar. The toolbar can also be opened with a Hotkey. Changes only take effect on reload.\"\n    )",
+    ".appendText(\n      \"If this plugin adds value for you and you would like to help support continued development, please use the buttons below:\"\n    )": ".appendText(\n      \"If this plugin adds value for you and you would like to help support continued development, please use the buttons below:\"\n    )",
+    ".createEl(\"h2\", { text: \"Advanced Tables Plugin - Settings\" })": ".createEl(\"h2\", { text: \"Advanced Tables Plugin - Settings\" })"
+  }
+}

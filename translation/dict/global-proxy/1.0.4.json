@@ -1,0 +1,20 @@
+{
+  "manifest": {
+    "translationVersion": 1731497012933,
+    "pluginVersion": "1.0.4"
+  },
+  "description": {
+    "original": "根据此插件中配置的规则在 Obsidian 中全程使用网络代理。",
+    "translation": "根据此插件中配置的规则在 Obsidian 中全程使用网络代理。"
+  },
+  "dict": {
+    ".setName(\"Blacklist\")": ".setName(\"Blacklist\")",
+    ".setDesc(\"Change your proxy status\")": ".setDesc(\"Change your proxy status\")",
+    ".setDesc(\"Set up your socks proxy\")": ".setDesc(\"Set up your socks proxy\")",
+    ".setName(\"Plugin Tokens\")": ".setName(\"Plugin Tokens\")",
+    ".setDesc(\"Set up your http proxy\")": ".setDesc(\"Set up your http proxy\")",
+    ".setDesc(\"Set up your https proxy\")": ".setDesc(\"Set up your https proxy\")",
+    "Notice('Enable proxy!')": "Notice('Enable proxy!')",
+    "Notice('Disable proxy!')": "Notice('Disable proxy!')"
+  }
+}

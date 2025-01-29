@@ -1,0 +1,27 @@
+{
+  "manifest": {
+    "translationVersion": 1729781819869,
+    "pluginVersion": "1.6.1"
+  },
+  "description": {
+    "original": "Enable extended table support with MultiMarkdown 6 syntax",
+    "translation": "Enable extended table support with MultiMarkdown 6 syntax"
+  },
+  "dict": {
+    ".log(_line, _state.toString(16)": ".log(_line, _state.toString(16)",
+    ".log(trToken.meta)": ".log(trToken.meta)",
+    ".log(\"loading table-extended\")": ".log(\"loading table-extended\")",
+    ".log(\"unloading table-extended\")": ".log(\"unloading table-extended\")",
+    " error(type)": " error(type)",
+    "\terror('not-basic')": "\terror('not-basic')",
+    "\terror('invalid-input')": "\terror('invalid-input')",
+    "\terror('overflow')": "\terror('overflow')",
+    "text: \"here\"": "text: \"here\"",
+    ".setName(\"Expermental: Extended Native Table Syntax\")": ".setName(\"Expermental: Extended Native Table Syntax\")",
+    ".setName(\"Expermental: Export to PDF support\")": ".setName(\"Expermental: Export to PDF support\")",
+    ".appendText(\"Use extended syntax on all native tables\")": ".appendText(\"Use extended syntax on all native tables\")",
+    ".appendText(\"Some table features may be broken, if found any, please open new issue in \")": ".appendText(\"Some table features may be broken, if found any, please open new issue in \")",
+    ".appendText(\"Reload obsidian to take effect\")": ".appendText(\"Reload obsidian to take effect\")",
+    ".appendText(\"If PDF export is broken with this option enabled, disable this feature and open new issue in \")": ".appendText(\"If PDF export is broken with this option enabled, disable this feature and open new issue in \")"
+  }
+}

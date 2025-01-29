@@ -1,0 +1,42 @@
+{
+  "manifest": {
+    "translationVersion": 1733664145981,
+    "pluginVersion": "0.7.3"
+  },
+  "description": {
+    "original": "Click a folder node to show a note describing the folder.",
+    "translation": "Click a folder node to show a note describing the folder."
+  },
+  "dict": {
+    ".log('contentBrief', contentBrief)": ".log('contentBrief', contentBrief)",
+    ".log('notePath: ', notePath)": ".log('notePath: ', notePath)",
+    ".log('fileNoteTitle: ', fileNodeTitle)": ".log('fileNoteTitle: ', fileNodeTitle)",
+    ".log('isOutsideMethod: ', isOutsideMethod)": ".log('isOutsideMethod: ', isOutsideMethod)",
+    ".log('rename is running after 1 s.')": ".log('rename is running after 1 s.')",
+    ".log('Mod Old Path:', oldFolderPath)": ".log('Mod Old Path:', oldFolderPath)",
+    ".log('Mod New Path:', newFolderPath)": ".log('Mod New Path:', newFolderPath)",
+    ".log('Code Block: ccard', error_1)": ".log('Code Block: ccard', error_1)",
+    ".log('Secret: ' + value)": ".log('Secret: ' + value)",
+    ".log('Loading Folder Note plugin.')": ".log('Loading Folder Note plugin.')",
+    ".log('Unloading Folder Note plugin')": ".log('Unloading Folder Note plugin')",
+    "name: 'Insert Folder Brief'": "name: 'Insert Folder Brief'",
+    "name: 'Make Current Note to Folder'": "name: 'Make Current Note to Folder'",
+    "link: '\" + this.yamlEscapeQuotes(this.titleLink) + \"'": "link: '\" + this.yamlEscapeQuotes(this.titleLink) + \"'",
+    "text: 'Folder Note Plugin: Settings.'": "text: 'Folder Note Plugin: Settings.'",
+    ".setName('Note File Method')": ".setName('Note File Method')",
+    ".setName('Index File Name')": ".setName('Index File Name')",
+    ".setName('Inital Content')": ".setName('Inital Content')",
+    ".setName('Key for New Note')": ".setName('Key for New Note')",
+    ".setName('Hide Folder Note')": ".setName('Hide Folder Note')",
+    ".setName('Auto Rename')": ".setName('Auto Rename')",
+    ".setName('Delete Folder Note')": ".setName('Delete Folder Note')",
+    ".setDesc('Select the method to put your folder note file. (Read doc for more information.)')": ".setDesc('Select the method to put your folder note file. (Read doc for more information.)')",
+    ".setDesc('Set the index file name for folder note. (only for the Index method)')": ".setDesc('Set the index file name for folder note. (only for the Index method)')",
+    ".setDesc('Set the inital content for new folder note. {{FOLDER_NAME}} will be replaced with current folder name.')": ".setDesc('Set the inital content for new folder note. {{FOLDER_NAME}} will be replaced with current folder name.')",
+    ".setDesc('Key + Click a folder to create folder note file. ')": ".setDesc('Key + Click a folder to create folder note file. ')",
+    ".setDesc('Hide the folder note file in the file explorer panel.')": ".setDesc('Hide the folder note file in the file explorer panel.')",
+    ".setDesc('Try to automatically rename the folder note if a folder name is changed. (Experimental)')": ".setDesc('Try to automatically rename the folder note if a folder name is changed. (Experimental)')",
+    ".setDesc('Try to delete folder note when a folder is deleted. (Dangerous)')": ".setDesc('Try to delete folder note when a folder is deleted. (Dangerous)')",
+    ".setPlaceholder('About the folder.')": ".setPlaceholder('About the folder.')"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "manifest": {
+    "translationVersion": 1729666304255,
+    "pluginVersion": "2.1.6"
+  },
+  "description": {
+    "original": "This plugin creates summaries with paragraphs or blocks of text that share the same tag(s).",
+    "translation": "This plugin creates summaries with paragraphs or blocks of text that share the same tag(s)."
+  },
+  "dict": {
+    "setDesc(\"Show the text inside callout blocks\"": "setDesc(\"Show the text inside callout blocks\"",
+    "setDesc(\"Show link to original note\"": "setDesc(\"Show link to original note\"",
+    "setDesc(\"Remove tags from text\"": "setDesc(\"Remove tags from text\"",
+    "setDesc(\"Include only the items of a list that contain the tag, not the entire list.\"": "setDesc(\"Include only the items of a list that contain the tag, not the entire list.\"",
+    "setDesc(\"Include the child items of a list.\"": "setDesc(\"Include the child items of a list.\"",
+    "setName(\"Show Callouts\"": "setName(\"Show Callouts\"",
+    "setName(\"Show Link\"": "setName(\"Show Link\"",
+    "setName(\"Remove Tags\"": "setName(\"Remove Tags\"",
+    "setName(\"List Items\"": "setName(\"List Items\"",
+    "setName(\"Include Child Items\"": "setName(\"Include Child Items\"",
+    "setName(\"Select tag to include in the summary\"": "setName(\"Select tag to include in the summary\"",
+    "setName(\"Select tag to exclude from the summary\"": "setName(\"Select tag to exclude from the summary\"",
+    "text: \"Add Summary\"": "text: \"Add Summary\"",
+    "(\"Add Summary\")": "(\"Add Summary\")",
+    "name: \"Add Summary\"": "name: \"Add Summary\"",
+    "paragraph = \"**Source:** [[\" + filePath2 + \"|\" + fileName + \"]]\n\" + paragraph;": "paragraph = \"**Source:** [[\" + filePath2 + \"|\" + fileName + \"]]\n\" + paragraph;"
+  }
+}

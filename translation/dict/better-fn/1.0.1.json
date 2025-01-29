@@ -1,0 +1,20 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "1.0.1"
+  },
+  "description": {
+    "original": "Footnote popover for Obsidian",
+    "translation": "Footnote popover for Obsidian"
+  },
+  "dict": {
+    ".setDesc(\"Show reference section at the buttom of document\"": ".setDesc(\"Show reference section at the buttom of document\"",
+    ".setName(\"Show reference\"": ".setName(\"Show reference\"",
+    ".setName(\"Smooth transition\"": ".setName(\"Smooth transition\"",
+    ".setName(\"Show reference\")": ".setName(\"Show reference\")",
+    ".setDesc(\"Show reference section at the buttom of document\")": ".setDesc(\"Show reference section at the buttom of document\")",
+    ".setName(\"Smooth transition\")": ".setName(\"Smooth transition\")",
+    "el.appendText(\"Allow smooth transition between popovers\");": "el.appendText(\"Allow smooth transition between popovers\");",
+    "el.appendText(\"Note: if enabled, only one popover can be shown at a time\");": "el.appendText(\"Note: if enabled, only one popover can be shown at a time\");"
+  }
+}

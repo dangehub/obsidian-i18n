@@ -1,0 +1,27 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "1.0.8"
+  },
+  "description": {
+    "original": "This plugin allows you to access your calibre libraries and read books directly in Obsidian.",
+    "translation": "This plugin allows you to access your calibre libraries and read books directly in Obsidian."
+  },
+  "dict": {
+    ".log(`Load error. ${error}`)": ".log(`Load error. ${error}`)",
+    ".error(e)": ".error(e)",
+    "name: \"Open horizontally\"": "name: \"Open horizontally\"",
+    "name: \"Open vertically\"": "name: \"Open vertically\"",
+    "text: \"Calibre Settings\"": "text: \"Calibre Settings\"",
+    "text: \"Make a donation to support Calibre plugin development.\"": "text: \"Make a donation to support Calibre plugin development.\"",
+    ".setName(\"Server Address\")": ".setName(\"Server Address\")",
+    ".setName(\"Use the local IP address instead of 'localhost'\")": ".setName(\"Use the local IP address instead of 'localhost'\")",
+    ".setName(\"View Display Text\")": ".setName(\"View Display Text\")",
+    ".setName(\"Split Direction\")": ".setName(\"Split Direction\")",
+    ".setName(\"Hide Ribbon Icon\")": ".setName(\"Hide Ribbon Icon\")",
+    ".setName(\"Ribbon Icon\")": ".setName(\"Ribbon Icon\")",
+    ".setDesc(\"The address of calibre Content server.\")": ".setDesc(\"The address of calibre Content server.\")",
+    ".setDesc(\"The title of calibre view.\")": ".setDesc(\"The title of calibre view.\")",
+    ".setDesc(\"The icon name to be used.\")": ".setDesc(\"The icon name to be used.\")"
+  }
+}

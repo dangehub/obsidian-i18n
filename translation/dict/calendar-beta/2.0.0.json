@@ -1,0 +1,53 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "2.0.0"
+  },
+  "description": {
+    "original": "Calendar view of your daily notes",
+    "translation": "Calendar view of your daily notes"
+  },
+  "dict": {
+    ".setName(\"Max incomplete tasks shown\")": ".setName(\"Max incomplete tasks shown\")",
+    ".setName(\"Words per dot\")": ".setName(\"Words per dot\")",
+    ".setName(\"Display\")": ".setName(\"Display\")",
+    ".setDesc(\"Limit the number of dots shown for incomplete tasks\")": ".setDesc(\"Limit the number of dots shown for incomplete tasks\")",
+    ".setDesc(\"How many words should be represented by a single dot?\")": ".setDesc(\"How many words should be represented by a single dot?\")",
+    ".createEl(\"button\", { text: \"Never mind\" })": ".createEl(\"button\", { text: \"Never mind\" })",
+    ".setTitle(\"Delete\")": ".setTitle(\"Delete\")",
+    ".textContent = \"W\"": ".textContent = \"W\"",
+    ".textContent = \"General Settings\"": ".textContent = \"General Settings\"",
+    ".textContent = \"Sources\"": ".textContent = \"Sources\"",
+    ".textContent = \"Configure what appears on the calendar and what shows in the hover menu.\\n    Drag to reorder.\"": ".textContent = \"Configure what appears on the calendar and what shows in the hover menu.\\n    Drag to reorder.\"",
+    ".textContent = \"Localization\"": ".textContent = \"Localization\"",
+    "name: \"Links\"": "name: \"Links\"",
+    "name: \"Tasks\"": "name: \"Tasks\"",
+    "name: \"Words\"": "name: \"Words\"",
+    "name: \"Backlinks\"": "name: \"Backlinks\"",
+    "name: \"Emoji Tags\"": "name: \"Emoji Tags\"",
+    "name: \"offset\"": "name: \"offset\"",
+    "name: \"hide\"": "name: \"hide\"",
+    "name: \"shouldConfirmBeforeCreate\"": "name: \"shouldConfirmBeforeCreate\"",
+    "name: \"showWeeklyNote\"": "name: \"showWeeklyNote\"",
+    "name: \"weekStart\"": "name: \"weekStart\"",
+    "name: \"localeOverride\"": "name: \"localeOverride\"",
+    "name: \"Confirm before creating new note\"": "name: \"Confirm before creating new note\"",
+    "name: \"Show week numbers\"": "name: \"Show week numbers\"",
+    "name: \"Start week on\"": "name: \"Start week on\"",
+    "name: \"Locale\"": "name: \"Locale\"",
+    "name: \"Open view\"": "name: \"Open view\"",
+    "name: \"Toggle week numbers\"": "name: \"Toggle week numbers\"",
+    "name: \"Reveal active note\"": "name: \"Reveal active note\"",
+    "description: \"Show tags containing emojis directly on the calendar face\"": "description: \"Show tags containing emojis directly on the calendar face\"",
+    "description: \"Track your pending tasks for any given day\"": "description: \"Track your pending tasks for any given day\"",
+    "description: \"Visualize the word count of your daily note.\"": "description: \"Visualize the word count of your daily note.\"",
+    "description: \"Show how many notes use a Zettelkasten prefix matching the current day\"": "description: \"Show how many notes use a Zettelkasten prefix matching the current day\"",
+    "description: \"Show a confirmation modal before creating a new note\"": "description: \"Show a confirmation modal before creating a new note\"",
+    "description: \"Enable this to add a column with the week number\"": "description: \"Enable this to add a column with the week number\"",
+    "description: \"Choose what day of the week to start. Select 'locale default' to use the default specified by moment.js\"": "description: \"Choose what day of the week to start. Select 'locale default' to use the default specified by moment.js\"",
+    "description: \"Override the locale used by the calendar and other plugins\"": "description: \"Override the locale used by the calendar and other plugins\"",
+    ".addOption(\"calendar-and-menu\", \"On Calendar\")": ".addOption(\"calendar-and-menu\", \"On Calendar\")",
+    ".addOption(\"menu\", \"In Menu\")": ".addOption(\"menu\", \"In Menu\")",
+    ".addOption(\"none\", \"Hidden\")": ".addOption(\"none\", \"Hidden\")"
+  }
+}

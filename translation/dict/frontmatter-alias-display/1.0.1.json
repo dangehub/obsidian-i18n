@@ -1,0 +1,11 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "1.0.1"
+  },
+  "description": {
+    "original": "A plugin for Obsidian to show front-matter aliases as display names in the File Explorer.",
+    "translation": "A plugin for Obsidian to show front-matter aliases as display names in the File Explorer."
+  },
+  "dict": {}
+}

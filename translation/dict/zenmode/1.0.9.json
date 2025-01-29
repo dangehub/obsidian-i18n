@@ -1,0 +1,16 @@
+{
+  "manifest": {
+    "translationVersion": 1733912500582,
+    "pluginVersion": "1.0.9"
+  },
+  "description": {
+    "original": "Hide UI most UI elements",
+    "translation": "Hide UI most UI elements"
+  },
+  "dict": {
+    ".log(\"Unloading Zen Mode plugin\")": ".log(\"Unloading Zen Mode plugin\")",
+    "name: \"Toggle\"": "name: \"Toggle\"",
+    ".setName(\"Enable Zen Mode\")": ".setName(\"Enable Zen Mode\")",
+    ".setDesc(\"Hide most UI elements\")": ".setDesc(\"Hide most UI elements\")"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "0.0.12"
+  },
+  "description": {
+    "original": "Clicking a tag opens a dialog listing pages that use that tag",
+    "translation": "Clicking a tag opens a dialog listing pages that use that tag"
+  },
+  "dict": {
+    ".createEl(\"h2\",{text:`Pages with ${t.tag}`})": ".createEl(\"h2\",{text:`Pages with ${t.tag}`})",
+    ".createEl(\"h2\",{text:\"Search tag\"})": ".createEl(\"h2\",{text:\"Search tag\"})",
+    ".createEl(\"p\",{text:`#${this.inputValue.replace(\"#\",\"\")} did not match any tags in your vault`})": ".createEl(\"p\",{text:`#${this.inputValue.replace(\"#\",\"\")} did not match any tags in your vault`})"
+  }
+}

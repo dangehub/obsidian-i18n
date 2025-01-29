@@ -1,0 +1,48 @@
+{
+  "manifest": {
+    "translationVersion": 1731593762629,
+    "pluginVersion": "1.6.1"
+  },
+  "description": {
+    "original": "This is an obsidian plugin that helps to render a LaTeX-style pseudocode inside a code block.",
+    "translation": "This is an obsidian plugin that helps to render a LaTeX-style pseudocode inside a code block."
+  },
+  "dict": {
+    "Notice(\n        \"Pseudocode Plugin: Preamble file not found at \" + searchPath + \".\"\n      )": "Notice(\n        \"Pseudocode Plugin: Preamble file not found at \" + searchPath + \".\"\n      )",
+    "Notice(\"Pseudocode Plugin: Preamble file loaded.\")": "Notice(\"Pseudocode Plugin: Preamble file loaded.\")",
+    "Notice(\n        \"Pseudocode Plugin: Preamble file contains invalid LaTeX. Please refer to console for details.\"\n      )": "Notice(\n        \"Pseudocode Plugin: Preamble file contains invalid LaTeX. Please refer to console for details.\"\n      )",
+    ".log(\"light theme detected\")": ".log(\"light theme detected\")",
+    ".log(\"dark theme detected\")": ".log(\"dark theme detected\")",
+    ".log(\"Copied to clipboard\")": ".log(\"Copied to clipboard\")",
+    ".log(error)": ".log(error)",
+    ".log(\"Preamble is enabled.\")": ".log(\"Preamble is enabled.\")",
+    ".log(\"Loaded preamble:\\n\" + this.preamble)": ".log(\"Loaded preamble:\\n\" + this.preamble)",
+    ".log(\n        \"Preamble file loaded. You can check the detail in console.\"\n      )": ".log(\n        \"Preamble file loaded. You can check the detail in console.\"\n      )",
+    ".error(\"Failed to copy to clipboard: \", error)": ".error(\"Failed to copy to clipboard: \", error)",
+    "name: \"Insert a new pseudocode block\"": "name: \"Insert a new pseudocode block\"",
+    "text: \"Render Behevior\"": "text: \"Render Behevior\"",
+    "text: \"Preamble Settings\"": "text: \"Preamble Settings\"",
+    ".setName(\"Block Size\")": ".setName(\"Block Size\")",
+    ".setName(\"Follow System Theme\")": ".setName(\"Follow System Theme\")",
+    ".setName(\"Indent Size\")": ".setName(\"Indent Size\")",
+    ".setName(\"Comment Delimiter\")": ".setName(\"Comment Delimiter\")",
+    ".setName(\"Show Line Numbers\")": ".setName(\"Show Line Numbers\")",
+    ".setName(\"Line Number Punctuation\")": ".setName(\"Line Number Punctuation\")",
+    ".setName(\"No End\")": ".setName(\"No End\")",
+    ".setName(\"Scope Lines\")": ".setName(\"Scope Lines\")",
+    ".setName(\"Preamble Enabled\")": ".setName(\"Preamble Enabled\")",
+    ".setName(\"Preamble Path\")": ".setName(\"Preamble Path\")",
+    ".setName(\"Preamble Loaded Notice\")": ".setName(\"Preamble Loaded Notice\")",
+    ".setDesc(\n      \"The width of the pseudocode block. The unit is 'em'. The default value is 99, which will work as the max width of the editor. '30' looks good for me.\"\n    )": ".setDesc(\n      \"The width of the pseudocode block. The unit is 'em'. The default value is 99, which will work as the max width of the editor. '30' looks good for me.\"\n    )",
+    ".setDesc(\"Whether to follow the system theme.\")": ".setDesc(\"Whether to follow the system theme.\")",
+    ".setDesc(\n      \"The indent size of inside a control block, e.g. if, for, etc. The unit must be in 'em'.\"\n    )": ".setDesc(\n      \"The indent size of inside a control block, e.g. if, for, etc. The unit must be in 'em'.\"\n    )",
+    ".setDesc(\"The string used to indicate a comment in the pseudocode.\")": ".setDesc(\"The string used to indicate a comment in the pseudocode.\")",
+    ".setDesc(\"Whether line numbering is enabled.\")": ".setDesc(\"Whether line numbering is enabled.\")",
+    ".setDesc(\n      \"The punctuation used to separate the line number from the pseudocode.\"\n    )": ".setDesc(\n      \"The punctuation used to separate the line number from the pseudocode.\"\n    )",
+    ".setDesc(\n      \"If enabled, pseudocode blocks will not have an 'end' statement.\"\n    )": ".setDesc(\n      \"If enabled, pseudocode blocks will not have an 'end' statement.\"\n    )",
+    ".setDesc(\n      \"If enabled, pseudocode blocks will have lines indicating the scope of the block.\"\n    )": ".setDesc(\n      \"If enabled, pseudocode blocks will have lines indicating the scope of the block.\"\n    )",
+    ".setDesc(\n      \"Whether to load the preamble file. Please reload the plugin for this setting to take effect.\"\n    )": ".setDesc(\n      \"Whether to load the preamble file. Please reload the plugin for this setting to take effect.\"\n    )",
+    ".setDesc(\n      \"The path to the preamble file. The path is relative to the vault root.\"\n    )": ".setDesc(\n      \"The path to the preamble file. The path is relative to the vault root.\"\n    )",
+    ".setDesc(\n      \"Whether to show a notice everytime the preamble is loaded.\"\n    )": ".setDesc(\n      \"Whether to show a notice everytime the preamble is loaded.\"\n    )"
+  }
+}

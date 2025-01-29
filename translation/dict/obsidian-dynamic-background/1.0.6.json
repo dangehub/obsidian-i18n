@@ -1,0 +1,25 @@
+{
+  "manifest": {
+    "translationVersion": 1729789513786,
+    "pluginVersion": "1.0.6"
+  },
+  "description": {
+    "original": "Adding dynamic effects and/or static wallpapers for Obsidian background",
+    "translation": "Adding dynamic effects and/or static wallpapers for Obsidian background"
+  },
+  "dict": {
+    ".setName(\"Dynamic Effect\")": ".setName(\"Dynamic Effect\")",
+    ".setName(\"Brightness\")": ".setName(\"Brightness\")",
+    ".setName(\"Enable Dynamic Effect\")": ".setName(\"Enable Dynamic Effect\")",
+    ".setName(\"Static Wallpaper Image\")": ".setName(\"Static Wallpaper Image\")",
+    ".setName(\"Blur\")": ".setName(\"Blur\")",
+    ".setDesc(\"Select a dynamic effect\")": ".setDesc(\"Select a dynamic effect\")",
+    ".setDesc(\"Set Digital Rain Brightness.\")": ".setDesc(\"Set Digital Rain Brightness.\")",
+    ".setDesc(\"Enable or disable dynamic effect\")": ".setDesc(\"Enable or disable dynamic effect\")",
+    ".setDesc(\"Image file in Vault. Please use the relative path of the image file inside Vault.\")": ".setDesc(\"Image file in Vault. Please use the relative path of the image file inside Vault.\")",
+    ".setDesc(\"The blurriness of the wallpaper, 0 means no blur.\")": ".setDesc(\"The blurriness of the wallpaper, 0 means no blur.\")",
+    ".setPlaceholder(\"Example: attachments/moon.jpg or wallpapers/green.png\")": ".setPlaceholder(\"Example: attachments/moon.jpg or wallpapers/green.png\")",
+    ".createEl(\"h2\", { text: \"Dynamic Background Plugin - Settings\" })": ".createEl(\"h2\", { text: \"Dynamic Background Plugin - Settings\" })",
+    "": ""
+  }
+}

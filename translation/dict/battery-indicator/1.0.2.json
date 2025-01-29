@@ -1,0 +1,16 @@
+{
+  "manifest": {
+    "translationVersion": 1734623271538,
+    "pluginVersion": "1.0.2"
+  },
+  "description": {
+    "original": "Displays current battery level in the status bar.",
+    "translation": "Displays current battery level in the status bar."
+  },
+  "dict": {
+    ".setName(\"Show percentage\")": ".setName(\"Show percentage\")",
+    ".setName(\"Separate charging icon\")": ".setName(\"Separate charging icon\")",
+    ".setDesc(\"Show the battery percentage in addition to the icon.\")": ".setDesc(\"Show the battery percentage in addition to the icon.\")",
+    ".setDesc(\"Show separate icons for charging indicator and current battery level.\")": ".setDesc(\"Show separate icons for charging indicator and current battery level.\")"
+  }
+}

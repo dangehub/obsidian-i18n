@@ -1,0 +1,31 @@
+{
+  "manifest": {
+    "translationVersion": 1730185363513,
+    "pluginVersion": "1.4.0"
+  },
+  "description": {
+    "original": "Adds backlink tags and created/modified dates to the footer of your notes.",
+    "translation": "Adds backlink tags and created/modified dates to the footer of your notes."
+  },
+  "dict": {
+    "text: `${modified}`": "text: `${modified}`",
+    "text: `${created}`": "text: `${created}`",
+    "text: \"Rich Foot adds a footer to your notes with useful information such as backlinks, creation date, and last modified date.\"": "text: \"Rich Foot adds a footer to your notes with useful information such as backlinks, creation date, and last modified date.\"",
+    "text: \"Excluded Folders\"": "text: \"Excluded Folders\"",
+    "text: \"Notes in excluded folders (and their subfolders) will not display the Rich Foot footer. This is useful for system folders or areas where you don't want footer information to appear.\"": "text: \"Notes in excluded folders (and their subfolders) will not display the Rich Foot footer. This is useful for system folders or areas where you don't want footer information to appear.\"",
+    "text: \"Delete\"": "text: \"Delete\"",
+    "text: \"Visibility Settings\"": "text: \"Visibility Settings\"",
+    "text: \"Example Screenshot\"": "text: \"Example Screenshot\"",
+    ".setButtonText(\"Browse\")": ".setButtonText(\"Browse\")",
+    ".setButtonText(\"Add\")": ".setButtonText(\"Add\")",
+    ".setName(\"Add excluded folder\")": ".setName(\"Add excluded folder\")",
+    ".setName(\"Show Backlinks\")": ".setName(\"Show Backlinks\")",
+    ".setName(\"Show Outlinks\")": ".setName(\"Show Outlinks\")",
+    ".setName(\"Show Dates\")": ".setName(\"Show Dates\")",
+    ".setDesc(\"Enter a folder path or browse to select\")": ".setDesc(\"Enter a folder path or browse to select\")",
+    ".setDesc(\"Show backlinks in the footer\")": ".setDesc(\"Show backlinks in the footer\")",
+    ".setDesc(\"Show outgoing links in the footer\")": ".setDesc(\"Show outgoing links in the footer\")",
+    ".setDesc(\"Show creation and modification dates in the footer\")": ".setDesc(\"Show creation and modification dates in the footer\")",
+    ".setPlaceholder(\"folder/subfolder\")": ".setPlaceholder(\"folder/subfolder\")"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "0.2.5"
+  },
+  "description": {
+    "original": "Create quick link shortcuts to Wikipedia and other sites",
+    "translation": "Create quick link shortcuts to Wikipedia and other sites"
+  },
+  "dict": {
+    ".setButtonText(\"Delete\")": ".setButtonText(\"Delete\")",
+    ".setButtonText(\"New quick link\")": ".setButtonText(\"New quick link\")",
+    ".setButtonText(\"Reset to defaults\")": ".setButtonText(\"Reset to defaults\")",
+    ".setName(\"Use wiki link syntax\")": ".setName(\"Use wiki link syntax\")",
+    ".setName(`Quick link ${i + 1}`)": ".setName(`Quick link ${i + 1}`)",
+    ".setName(\"Link prefix\")": ".setName(\"Link prefix\")",
+    ".setName(\"Target URL\")": ".setName(\"Target URL\")",
+    ".setName(\"Word separator\")": ".setName(\"Word separator\")",
+    ".setDesc(\n      \"Use [[w:My link]] syntax instead of [](w:My link). Note that this will cause Obsidian to treat custom links as internal links, for example in autocompletion and graph view.\"\n    )": ".setDesc(\n      \"Use [[w:My link]] syntax instead of [](w:My link). Note that this will cause Obsidian to treat custom links as internal links, for example in autocompletion and graph view.\"\n    )",
+    ".setDesc(\"e.g., 'w' for [[w:...]]\")": ".setDesc(\"e.g., 'w' for [[w:...]]\")",
+    ".setDesc(\"Put %s as a placeholder for the text of the link.\")": ".setDesc(\"Put %s as a placeholder for the text of the link.\")",
+    ".setDesc(\"If set, spaces in the link text will be replaced by this character (e.g., an underscore).\")": ".setDesc(\"If set, spaces in the link text will be replaced by this character (e.g., an underscore).\")"
+  }
+}

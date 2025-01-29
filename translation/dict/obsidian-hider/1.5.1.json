@@ -1,0 +1,34 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "1.5.1"
+  },
+  "description": {
+    "original": "Hide UI elements such as tooltips, status, titlebar and more",
+    "translation": "Hide UI elements such as tooltips, status, titlebar and more"
+  },
+  "dict": {
+    ".setName(\"Hide tab bar\")": ".setName(\"Hide tab bar\")",
+    ".setName(\"Hide status bar\")": ".setName(\"Hide status bar\")",
+    ".setName(\"Hide vault name\")": ".setName(\"Hide vault name\")",
+    ".setName(\"Hide scroll bars\")": ".setName(\"Hide scroll bars\")",
+    ".setName(\"Hide sidebar toggle buttons\")": ".setName(\"Hide sidebar toggle buttons\")",
+    ".setName(\"Hide tooltips\")": ".setName(\"Hide tooltips\")",
+    ".setName(\"Hide file explorer buttons\")": ".setName(\"Hide file explorer buttons\")",
+    ".setName(\"Hide instructions\")": ".setName(\"Hide instructions\")",
+    ".setName(\"Hide search suggestions\")": ".setName(\"Hide search suggestions\")",
+    ".setName(\"Hide count of search term matches\")": ".setName(\"Hide count of search term matches\")",
+    ".setName(\"Hide properties in Reading view\")": ".setName(\"Hide properties in Reading view\")",
+    ".setDesc(\"Hides the tab container at the top of the window.\")": ".setDesc(\"Hides the tab container at the top of the window.\")",
+    ".setDesc(\"Hides word count, character count and backlink count.\")": ".setDesc(\"Hides word count, character count and backlink count.\")",
+    ".setDesc(\"Hides your vault profile. Warning: this also hides access to the Settings and vault switcher icons. You can use hotkeys or the command palette to open them.\")": ".setDesc(\"Hides your vault profile. Warning: this also hides access to the Settings and vault switcher icons. You can use hotkeys or the command palette to open them.\")",
+    ".setDesc(\"Hides all scroll bars.\")": ".setDesc(\"Hides all scroll bars.\")",
+    ".setDesc(\"Hides both sidebar buttons.\")": ".setDesc(\"Hides both sidebar buttons.\")",
+    ".setDesc(\"Hides all tooltips.\")": ".setDesc(\"Hides all tooltips.\")",
+    ".setDesc(\"Hides buttons at the top of file explorer (new file, new folder, etc).\")": ".setDesc(\"Hides buttons at the top of file explorer (new file, new folder, etc).\")",
+    ".setDesc(\"Hides instructional tips in modals.\")": ".setDesc(\"Hides instructional tips in modals.\")",
+    ".setDesc(\"Hides suggestions in search pane.\")": ".setDesc(\"Hides suggestions in search pane.\")",
+    ".setDesc(\"Hides the number of matches within each search result.\")": ".setDesc(\"Hides the number of matches within each search result.\")",
+    ".setDesc(\"Hides the properties section in Reading view.\")": ".setDesc(\"Hides the properties section in Reading view.\")"
+  }
+}

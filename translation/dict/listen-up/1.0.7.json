@@ -1,0 +1,30 @@
+{
+  "manifest": {
+    "translationVersion": 1730001655645,
+    "pluginVersion": "1.0.7"
+  },
+  "description": {
+    "original": "Covert text to natural voice audio, locally - Listen Up!",
+    "translation": "Covert text to natural voice audio, locally - Listen Up!"
+  },
+  "dict": {
+    "Notice(\n          \"Converting the text to natural speech, please wait..\",\n          0\n        )": "Notice(\n          \"Converting the text to natural speech, please wait..\",\n          0\n        )",
+    "alog({\n          properties: [\"openFile\"],\n          title: \"Select a model\"\n        })": "alog({\n          properties: [\"openFile\"],\n          title: \"Select a model\"\n        })",
+    "alog({\n          properties: [\"openFile\"],\n          title: \"Select a model config\"\n        })": "alog({\n          properties: [\"openFile\"],\n          title: \"Select a model config\"\n        })",
+    "alog({\n          properties: [\"openFile\"],\n          title: \"Select piper executable\"\n        })": "alog({\n          properties: [\"openFile\"],\n          title: \"Select piper executable\"\n        })",
+    ".error(e)": ".error(e)",
+    ".error(`\n\nerror: ${error.message}`)": ".error(`\n\nerror: ${error.message}`)",
+    "name: \"Convert text to speech\"": "name: \"Convert text to speech\"",
+    ".setName(\"Select custom model file\")": ".setName(\"Select custom model file\")",
+    ".setName(\"Select model config file\")": ".setName(\"Select model config file\")",
+    ".setName(\"Use custom model?\")": ".setName(\"Use custom model?\")",
+    ".setName(\"Select Piper executable file\")": ".setName(\"Select Piper executable file\")",
+    ".setDesc(`File that ends with .onnx`)": ".setDesc(`File that ends with .onnx`)",
+    ".setDesc(`File that ends with .json`)": ".setDesc(`File that ends with .json`)",
+    ".setDesc(`Turn this on if you want to use different voice model. Check this doc to understand more: DOC LINK`)": ".setDesc(`Turn this on if you want to use different voice model. Check this doc to understand more: DOC LINK`)",
+    ".setDesc(`This is required`)": ".setDesc(`This is required`)",
+    ".setTooltip(\"Select model\")": ".setTooltip(\"Select model\")",
+    ".setTooltip(\"Select model config\")": ".setTooltip(\"Select model config\")",
+    ".setTooltip(\"Select piper executable\")": ".setTooltip(\"Select piper executable\")"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "manifest": {
+    "translationVersion": 1731631369525,
+    "pluginVersion": "1.7.1"
+  },
+  "description": {
+    "original": "List files by most recently opened",
+    "translation": "List files by most recently opened"
+  },
+  "dict": {
+    "Notice(\"Cannot find a file with that name\")": "Notice(\"Cannot find a file with that name\")",
+    "Notice(\"List length must be a positive integer\")": "Notice(\"List length must be a positive integer\")",
+    ".log(\"Recent Files: Loading plugin v\"+this.manifest.version)": ".log(\"Recent Files: Loading plugin v\"+this.manifest.version)",
+    ".error(\"Recent Files: Invalid regex pattern: \"+l)": ".error(\"Recent Files: Invalid regex pattern: \"+l)",
+    "name:\"Open\"": "name:\"Open\"",
+    "text:\"Recent Files List\"": "text:\"Recent Files List\"",
+    ".setName(\"Omitted pathname patterns\")": ".setName(\"Omitted pathname patterns\")",
+    ".setName(\"Omitted frontmatter tags\")": ".setName(\"Omitted frontmatter tags\")",
+    ".setName(\"List length\")": ".setName(\"List length\")",
+    ".setDesc(\"Maximum number of filenames to keep in the list.\")": ".setDesc(\"Maximum number of filenames to keep in the list.\")",
+    ".setPlaceholder(`^daily/\n\\\\.png$\nfoobar.*baz`)": ".setPlaceholder(`^daily/\n\\\\.png$\nfoobar.*baz`)",
+    ".setPlaceholder(`daily\nignore`)": ".setPlaceholder(`daily\nignore`)",
+    ".appendText(\"If this plugin adds value for you and you would like to help support continued development, please use the buttons below:\")": ".appendText(\"If this plugin adds value for you and you would like to help support continued development, please use the buttons below:\")",
+    ".setTitle(\"Open in new tab\")": ".setTitle(\"Open in new tab\")",
+    ".setTitle(\"Clear list\")": ".setTitle(\"Clear list\")",
+    ".setTitle(\"Close\")": ".setTitle(\"Close\")",
+    ".append(\"RegExp patterns to ignore. One pattern per line. See \")": ".append(\"RegExp patterns to ignore. One pattern per line. See \")",
+    ".append(\" for help.\")": ".append(\" for help.\")",
+    ".append(\"Frontmatter tags patterns to ignore. One pattern per line\")": ".append(\"Frontmatter tags patterns to ignore. One pattern per line\")",
+    ".createEl(\"h2\",{text:\"Recent Files List\"})": ".createEl(\"h2\",{text:\"Recent Files List\"})",
+    "Recent Files": "Recent Files",
+    "setTitle(\"Clear list\"": "setTitle(\"Clear list\"",
+    ".setTitle(\"Open in new tab\"": ".setTitle(\"Open in new tab\"",
+    ".setTitle(\"Close\"": ".setTitle(\"Close\"",
+    ".append(\"RegExp patterns to ignore. One pattern per line. See \"),e.append(C),e.append(\" for help.\")": ".append(\"RegExp patterns to ignore. One pattern per line. See \"),e.append(C),e.append(\" for help.\")",
+    ".Notice(\"Cannot find a file with that name\")": ".Notice(\"Cannot find a file with that name\")",
+    ".Notice(\"List length must be a positive integer\")": ".Notice(\"List length must be a positive integer\")",
+    ".setName(\"Omit bookmarked files\")": ".setName(\"Omit bookmarked files\")"
+  }
+}

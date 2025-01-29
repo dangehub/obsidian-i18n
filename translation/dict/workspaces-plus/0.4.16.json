@@ -1,0 +1,38 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "0.4.16"
+  },
+  "description": {
+    "original": "Quickly switch and manage workspaces",
+    "translation": "Quickly switch and manage workspaces"
+  },
+  "dict": {
+    "appendText(\"Workspace Modes\"": "appendText(\"Workspace Modes\"",
+    "setDesc(`Show available keyboard shortcuts at the bottom of the workspace quick switcher`": "setDesc(`Show available keyboard shortcuts at the bottom of the workspace quick switcher`",
+    "setDesc(`Show a confirmation prompt on workspace deletion`": "setDesc(`Show a confirmation prompt on workspace deletion`",
+    "setDesc(`Let the OS determine the light/dark mode setting when switching modes. This setting can only be used if Workspace Modes is enabled.`": "setDesc(`Let the OS determine the light/dark mode setting when switching modes. This setting can only be used if Workspace Modes is enabled.`",
+    "setName(\"Show instructions\"": "setName(\"Show instructions\"",
+    "setName(\"Show workspace delete confirmation\"": "setName(\"Show workspace delete confirmation\"",
+    "setName(\"Show Workspace Sidebar Ribbon Icon\"": "setName(\"Show Workspace Sidebar Ribbon Icon\"",
+    "setName(\"Hide the native Workspace Sidebar Ribbon Icon\"": "setName(\"Hide the native Workspace Sidebar Ribbon Icon\"",
+    "setName(\"Show Workspace Mode Sidebar Ribbon Icon\"": "setName(\"Show Workspace Mode Sidebar Ribbon Icon\"",
+    "setName(\"Auto save the current workspace on layout change\"": "setName(\"Auto save the current workspace on layout change\"",
+    "setName(\"Respect system dark mode setting\"": "setName(\"Respect system dark mode setting\"",
+    "setName(\"Automatically reload Obsidian on Live Preview setting change\"": "setName(\"Automatically reload Obsidian on Live Preview setting change\"",
+    "setName(\"Workspace Description\"": "setName(\"Workspace Description\"",
+    "setName(\"File Overrides\"": "setName(\"File Overrides\"",
+    "text: \"Per Workspace Settings\"": "text: \"Per Workspace Settings\"",
+    "text: \"Workspace Enhancements\"": "text: \"Workspace Enhancements\"",
+    ".setDesc(`Modes are a new type of Workspace that store all of the native Obsidian Editor, Files & Links, ": ".setDesc(`Modes are a new type of Workspace that store all of the native Obsidian Editor, Files & Links, ",
+    "and Appearance settings. Enabling this will add a new mode switcher to the status bar that will allow you": "and Appearance settings. Enabling this will add a new mode switcher to the status bar that will allow you",
+    "to save, apply, rename, and switch between modes.`": "to save, apply, rename, and switch between modes.`",
+    ".setDesc(`This option will auto save your current workspace on any layout change.": ".setDesc(`This option will auto save your current workspace on any layout change.",
+    "Leave this disabled if you want full control over when your workspace is saved.`": "Leave this disabled if you want full control over when your workspace is saved.`",
+    "text: \"Quick Switcher Settings\"": "text: \"Quick Switcher Settings\"",
+    "name: \"Open Workspaces Plus\"": "name: \"Open Workspaces Plus\"",
+    "name: `Save current workspace`": "name: `Save current workspace`",
+    "name: `Load: ${workspaceName}`": "name: `Load: ${workspaceName}`",
+    "text: \"Please enable the Workspaces plugin under Core Plugins before using this plugin\"": "text: \"Please enable the Workspaces plugin under Core Plugins before using this plugin\""
+  }
+}

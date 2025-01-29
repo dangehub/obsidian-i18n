@@ -1,0 +1,30 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "1.1.4"
+  },
+  "description": {
+    "original": "A plugin to add better external file links to notes.",
+    "translation": "A plugin to add better external file links to notes."
+  },
+  "dict": {
+    "setName(\"Show file extension\"": "setName(\"Show file extension\"",
+    "setDesc(\"Will show file endings when activated.\"": "setDesc(\"Will show file endings when activated.\"",
+    "setName(\"Embed file\"": "setName(\"Embed file\"",
+    "setDesc(\"Will copy the file to Obsidian and embed it in the note.\"": "setDesc(\"Will copy the file to Obsidian and embed it in the note.\"",
+    "setName(\"Link folder instead of file\"": "setName(\"Link folder instead of file\"",
+    "setDesc(\"Link will open the folder where the file is located instead of opening the file itself.\"": "setDesc(\"Link will open the folder where the file is located instead of opening the file itself.\"",
+    "setName(\"Use short links\"": "setName(\"Use short links\"",
+    "setDesc(\"Use short links instead of long links.\"": "setDesc(\"Use short links instead of long links.\"",
+    "setDesc(\"Specify the characters shown before every file link.\"": "setDesc(\"Specify the characters shown before every file link.\"",
+    "setName(\"List style for multiple files\"": "setName(\"List style for multiple files\"",
+    "text: \"Add file link\"": "text: \"Add file link\"",
+    "text: \"Select files:\"": "text: \"Select files:\"",
+    "text: \"Embed file\"": "text: \"Embed file\"",
+    "text: \"Link folder\"": "text: \"Link folder\"",
+    "text: \"Show file extension\"": "text: \"Show file extension\"",
+    "text: \"Use short links\"": "text: \"Use short links\"",
+    "text: \"Better File Link Settings\"": "text: \"Better File Link Settings\"",
+    "name: \"Add File Link\"": "name: \"Add File Link\""
+  }
+}

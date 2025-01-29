@@ -1,0 +1,26 @@
+{
+  "manifest": {
+    "translationVersion": 1731895248150,
+    "pluginVersion": "0.9.12"
+  },
+  "description": {
+    "original": "Surf the Net in Obsidian.",
+    "translation": "Surf the Net in Obsidian."
+  },
+  "dict": {
+    ".setButtonText(\"Submit\")": ".setButtonText(\"Submit\")",
+    ".setName(\"Name\")": ".setName(\"Name\")",
+    ".createEl(\"h2\",{text:\"Web Browser\"})": ".createEl(\"h2\",{text:\"Web Browser\"})",
+    ".createEl(\"a\",{text:\"Obsidian BookmarkLets Code\",cls:\"cm-url\",href:\"javascript:(function(){var%20i%20%3Ddocument.location.href%3B%20document.location.href%3D%22obsidian%3A%2F%2Fweb-open%3Furl%3D%22%20%2B%20encodeURIComponent%28i%29%3B})();\"})": ".createEl(\"a\",{text:\"Obsidian BookmarkLets Code\",cls:\"cm-url\",href:\"javascript:(function(){var%20i%20%3Ddocument.location.href%3B%20document.location.href%3D%22obsidian%3A%2F%2Fweb-open%3Furl%3D%22%20%2B%20encodeURIComponent%28i%29%3B})();\"})",
+    ".createEl(\"div\",{text:\"Open \"+n,cls:\"wb-search-suggestion-text\"})": ".createEl(\"div\",{text:\"Open \"+n,cls:\"wb-search-suggestion-text\"})",
+    ".createEl(\"h2\",{text:\"Workspace Name\"})": ".createEl(\"h2\",{text:\"Workspace Name\"})",
+    ".createEl(\"h2\",{text:\"Save Bookmark\"})": ".createEl(\"h2\",{text:\"Save Bookmark\"})",
+    ".createEl(\"button\",{text:\"Save\"})": ".createEl(\"button\",{text:\"Save\"})",
+    ".createEl(\"button\",{text:\"Open\"})": ".createEl(\"button\",{text:\"Open\"})",
+    "\"Enable Tree View in Surfing\":\"Enable Tree View in Surfing\"": "\"Enable Tree View in Surfing\":\"Enable Tree View in Surfing\"",
+    "\"Enable Tree View\":\"Enable Tree View\"": "\"Enable Tree View\":\"Enable Tree View\"",
+    "return\"Surfing Tab Tree\"": "return\"Surfing Tab Tree\"",
+    "children:\"No surfing tabs open\"": "children:\"No surfing tabs open\"",
+    "setTitle(\"Not Ready Yet\"": "setTitle(\"Not Ready Yet\""
+  }
+}

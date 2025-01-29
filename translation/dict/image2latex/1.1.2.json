@@ -1,0 +1,32 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "1.1.2"
+  },
+  "description": {
+    "original": "Convert your images to Markdown and MathJax",
+    "translation": "Convert your images to Markdown and MathJax"
+  },
+  "dict": {
+    ".setName(\"URL\")": ".setName(\"URL\")",
+    ".setName(\"Username (self-hosted optional)\")": ".setName(\"Username (self-hosted optional)\")",
+    ".setName(\"Password (self-hosted optional)\")": ".setName(\"Password (self-hosted optional)\")",
+    ".setName(\"Latex provider\")": ".setName(\"Latex provider\")",
+    ".setName(\"Token\")": ".setName(\"Token\")",
+    ".setDesc(\n      \"The URL for the API endpoint, only active when self-hosted is enabled.\"\n    )": ".setDesc(\n      \"The URL for the API endpoint, only active when self-hosted is enabled.\"\n    )",
+    ".setDesc(\n      \"Your username for authentication. If you use self-hosted and a basic auth proxy before the container.\"\n    )": ".setDesc(\n      \"Your username for authentication. If you use self-hosted and a basic auth proxy before the container.\"\n    )",
+    ".setDesc(\n      \"Your password for authentication. If you use self-hosted and a basic auth proxy before the container.\"\n    )": ".setDesc(\n      \"Your password for authentication. If you use self-hosted and a basic auth proxy before the container.\"\n    )",
+    ".setDesc(\"Choose which provider to use for OCR and Latex conversion\")": ".setDesc(\"Choose which provider to use for OCR and Latex conversion\")",
+    ".setDesc(\n      \"Your SimpleTexToken, see README.md for more info.\"\n    )": ".setDesc(\n      \"Your SimpleTexToken, see README.md for more info.\"\n    )",
+    ".setPlaceholder(\"Enter your URL\")": ".setPlaceholder(\"Enter your URL\")",
+    ".setPlaceholder(\"Enter your username\")": ".setPlaceholder(\"Enter your username\")",
+    ".setPlaceholder(\"Enter your password\")": ".setPlaceholder(\"Enter your password\")",
+    ".setPlaceholder(\"Enter token...\")": ".setPlaceholder(\"Enter token...\")",
+    ".createEl(\"h1\", { text: \"Image2Latex\" })": ".createEl(\"h1\", { text: \"Image2Latex\" })",
+    ".createEl(\"div\", { text: \"Please see the README.md for info on how to configure the extension\" })": ".createEl(\"div\", { text: \"Please see the README.md for info on how to configure the extension\" })",
+    ".createEl(\"h2\", { text: \"General\" })": ".createEl(\"h2\", { text: \"General\" })",
+    ".createEl(\"h2\", { text: \"Texify\" })": ".createEl(\"h2\", { text: \"Texify\" })",
+    ".createEl(\"h2\", { text: \"Pix2Tex\" })": ".createEl(\"h2\", { text: \"Pix2Tex\" })",
+    ".createEl(\"h2\", { text: \"SimpleTex\" })": ".createEl(\"h2\", { text: \"SimpleTex\" })"
+  }
+}

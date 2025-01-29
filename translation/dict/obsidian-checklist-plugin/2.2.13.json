@@ -1,0 +1,34 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "2.2.13"
+  },
+  "description": {
+    "original": "Combines checklists across pages into users sidebar",
+    "translation": "Combines checklists across pages into users sidebar"
+  },
+  "dict": {
+    ".setName(\"General\")": ".setName(\"General\")",
+    ".setName(\"Tag name\")": ".setName(\"Tag name\")",
+    ".setName(\"Show Completed?\")": ".setName(\"Show Completed?\")",
+    ".setName(\"Show All Todos In File?\")": ".setName(\"Show All Todos In File?\")",
+    ".setName(\"Grouping & Sorting\")": ".setName(\"Grouping & Sorting\")",
+    ".setName(\"Group By\")": ".setName(\"Group By\")",
+    ".setName(\"Item Sort\")": ".setName(\"Item Sort\")",
+    ".setName(\"Group Sort\")": ".setName(\"Group Sort\")",
+    ".setName(\"Styling\")": ".setName(\"Styling\")",
+    ".setName(\"Look and Feel\")": ".setName(\"Look and Feel\")",
+    ".setName(\"Advanced\")": ".setName(\"Advanced\")",
+    ".setName(\"Include Files\")": ".setName(\"Include Files\")",
+    ".setName(\"Auto Refresh List?\")": ".setName(\"Auto Refresh List?\")",
+    ".setDesc('e.g. \"todo\" will match #todo. You may add mutliple tags separated by a newline. Leave empty to capture all')": ".setDesc('e.g. \"todo\" will match #todo. You may add mutliple tags separated by a newline. Leave empty to capture all')",
+    ".setDesc(\"Show all items in file if tag is present, or only items attached to the block where the tag is located. Only has an effect if Tag Name is not empty\")": ".setDesc(\"Show all items in file if tag is present, or only items attached to the block where the tag is located. Only has an effect if Tag Name is not empty\")",
+    ".setDesc(\"Time sorts are based on last time the file for a particular item was edited\")": ".setDesc(\"Time sorts are based on last time the file for a particular item was edited\")",
+    ".setDesc(\"Time sorts are based on last time the file for the newest or oldest item in a group was edited\")": ".setDesc(\"Time sorts are based on last time the file for the newest or oldest item in a group was edited\")",
+    ".setDesc(\"Include all files that match this glob pattern. Examples on plugin page/github readme. Leave empty to check all files.\")": ".setDesc(\"Include all files that match this glob pattern. Examples on plugin page/github readme. Leave empty to check all files.\")",
+    ".setDesc(`It's recommended to leave this on unless you are expereince performance issues due to a large vault. You can then reload manually using the \"Checklist: refresh\" command`)": ".setDesc(`It's recommended to leave this on unless you are expereince performance issues due to a large vault. You can then reload manually using the \"Checklist: refresh\" command`)",
+    ".setPlaceholder(\"todo\")": ".setPlaceholder(\"todo\")",
+    ".setTooltip(\"**/*\")": ".setTooltip(\"**/*\")",
+    ".createEl(\"h3\", {\n      text: \"General Settings\"\n    })": ".createEl(\"h3\", {\n      text: \"General Settings\"\n    })"
+  }
+}

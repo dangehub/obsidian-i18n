@@ -1,0 +1,34 @@
+{
+  "manifest": {
+    "translationVersion": 1732715824624,
+    "pluginVersion": "1.0.5"
+  },
+  "description": {
+    "original": "Blur anything you want to keep your privacy.",
+    "translation": "Blur anything you want to keep your privacy."
+  },
+  "dict": {
+    "Enter keyword": "Enter keyword",
+    "Notice(\"Added element to presets\")": "Notice(\"Added element to presets\")",
+    "Notice(\"Removed element from presets\")": "Notice(\"Removed element from presets\")",
+    ".log(\"[Blur Debug]\",...e)": ".log(\"[Blur Debug]\",...e)",
+    ".error(\"[Blur Error]\",...e)": ".error(\"[Blur Error]\",...e)",
+    "name:\"Toggle   effect\"": "name:\"Toggle   effect\"",
+    "name:\"Open management panel\"": "name:\"Open management panel\"",
+    "text:\"No elements selected\"": "text:\"No elements selected\"",
+    "text:\"Add\"": "text:\"Add\"",
+    "text:\"No keywords added\"": "text:\"No keywords added\"",
+    ".setText(\"Blur management\")": ".setText(\"Blur management\")",
+    ".setText(\"CSS Selector\")": ".setText(\"CSS Selector\")",
+    ".setText(\"Keywords\")": ".setText(\"Keywords\")",
+    ".setButtonText(\"Open panel\")": ".setButtonText(\"Open panel\")",
+    ".setName(\"Blur amount\")": ".setName(\"Blur amount\")",
+    ".setName(\"Manage presets\")": ".setName(\"Manage presets\")",
+    ".setName(\"Current keywords\")": ".setName(\"Current keywords\")",
+    ".setName(\"Debug mode\")": ".setName(\"Debug mode\")",
+    ".setDesc(\"Set the amount of blur (in em)\")": ".setDesc(\"Set the amount of blur (in em)\")",
+    ".setDesc(\"Open the preset management panel\")": ".setDesc(\"Open the preset management panel\")",
+    ".setDesc(\"Enable debug mode to show console logs\")": ".setDesc(\"Enable debug mode to show console logs\")",
+    "console.error(\"[Blur Error]\",...e)}info(...e){this.plugin.settings.isDebugMode&&console.info(\"[Blur Info]\",...e)}};var m=class extends v.Plugin{constructor(){super(...arguments);": "console.error(\"[Blur Error]\",...e)}info(...e){this.plugin.settings.isDebugMode&&console.info(\"[Blur Info]\",...e)}};var m=class extends v.Plugin{constructor(){super(...arguments);"
+  }
+}

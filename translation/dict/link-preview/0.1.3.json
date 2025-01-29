@@ -1,0 +1,20 @@
+{
+  "manifest": {
+    "translationVersion": 1732287529578,
+    "pluginVersion": "0.1.3"
+  },
+  "description": {
+    "original": "Show a preview of external links on hover",
+    "translation": "Show a preview of external links on hover"
+  },
+  "dict": {
+    ".setText(\"Loading preview...\")": ".setText(\"Loading preview...\")",
+    ".setText(\"Failed to load preview\")": ".setText(\"Failed to load preview\")",
+    ".setName(\"Preview delay\")": ".setName(\"Preview delay\")",
+    ".setName(\"Maximum preview height\")": ".setName(\"Maximum preview height\")",
+    ".setName(\"Maximum preview width\")": ".setName(\"Maximum preview width\")",
+    ".setDesc(\"How long to wait before showing the preview (in milliseconds)\")": ".setDesc(\"How long to wait before showing the preview (in milliseconds)\")",
+    ".setDesc(\"Maximum height of the preview window (in pixels)\")": ".setDesc(\"Maximum height of the preview window (in pixels)\")",
+    ".setDesc(\"Maximum width of the preview window (in pixels)\")": ".setDesc(\"Maximum width of the preview window (in pixels)\")"
+  }
+}

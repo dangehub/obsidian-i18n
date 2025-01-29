@@ -1,0 +1,14 @@
+{
+  "manifest": {
+    "translationVersion": 1731498105089,
+    "pluginVersion": "1.0.0"
+  },
+  "description": {
+    "original": "An Obsidian plugin that declutters a canvas by reconnecting notes using their nearest edges.",
+    "translation": "An Obsidian plugin that declutters a canvas by reconnecting notes using their nearest edges."
+  },
+  "dict": {
+    "name: \"Optimize selection (preserve axes)\"": "name: \"Optimize selection (preserve axes)\"",
+    "name: \"Optimize selection (shortest path)\"": "name: \"Optimize selection (shortest path)\""
+  }
+}

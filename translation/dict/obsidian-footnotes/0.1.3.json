@@ -1,0 +1,26 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "0.1.3"
+  },
+  "description": {
+    "original": "Insert and write footnotes faster",
+    "translation": "Insert and write footnotes faster"
+  },
+  "dict": {
+    "name: \"Insert / Navigate Auto-Numbered Footnote\"": "name: \"Insert / Navigate Auto-Numbered Footnote\"",
+    "name: \"Insert / Navigate Named Footnote\"": "name: \"Insert / Navigate Named Footnote\"",
+    "text: \"Footnote Shortcut\"": "text: \"Footnote Shortcut\"",
+    "text: \"README\"": "text: \"README\"",
+    "text: \"Footnotes Section Behavior\"": "text: \"Footnotes Section Behavior\"",
+    ".setName(\"Enable Footnote Autosuggest\")": ".setName(\"Enable Footnote Autosuggest\")",
+    ".setName(\"Enable Footnote Section Heading\")": ".setName(\"Enable Footnote Section Heading\")",
+    ".setName(\"Footnote Section Heading\")": ".setName(\"Footnote Section Heading\")",
+    ".setDesc(\"Suggests existing footnotes when entering named footnotes.\")": ".setDesc(\"Suggests existing footnotes when entering named footnotes.\")",
+    ".setDesc(\"Automatically adds a heading separating footnotes at the bottom of the note from the rest of the text.\")": ".setDesc(\"Automatically adds a heading separating footnotes at the bottom of the note from the rest of the text.\")",
+    ".setDesc(\"Heading to place above footnotes section (Supports Markdown formatting). Heading will be H1 size.\")": ".setDesc(\"Heading to place above footnotes section (Supports Markdown formatting). Heading will be H1 size.\")",
+    ".setPlaceholder(\"Heading is Empty\")": ".setPlaceholder(\"Heading is Empty\")",
+    ".appendText('Need help? Check the ')": ".appendText('Need help? Check the ')",
+    ".appendText('!')": ".appendText('!')"
+  }
+}

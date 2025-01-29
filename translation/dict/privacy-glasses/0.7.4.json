@@ -1,0 +1,36 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "0.7.4"
+  },
+  "description": {
+    "original": "Provides a button and command to obfuscate onscreen text for better privacy in public settings.",
+    "translation": "Provides a button and command to obfuscate onscreen text for better privacy in public settings."
+  },
+  "dict": {
+    "name: \"Privacy Glasses - hide all\"": "name: \"Privacy Glasses - hide all\"",
+    "name: \"Privacy Glasses - hide files in folders marked as private\"": "name: \"Privacy Glasses - hide files in folders marked as private\"",
+    "name: \"Privacy Glasses - reveal headlines only, keeping body content hidden\"": "name: \"Privacy Glasses - reveal headlines only, keeping body content hidden\"",
+    "name: \"Privacy Glasses - do not hide anything\"": "name: \"Privacy Glasses - do not hide anything\"",
+    "text: \"Privacy Glasses v\"": "text: \"Privacy Glasses v\"",
+    "text: \"https://github.com/jillalberts/privacy-glasses\"": "text: \"https://github.com/jillalberts/privacy-glasses\"",
+    "text: \": documentation, report issues, contact info\"": "text: \": documentation, report issues, contact info\"",
+    "text: 'To activate/deactivate Privacy Glasses, click the glasses icon on the left-hand ribbon or run \"Privacy Glasses\" commands in the Command Palette (Ctrl-P). The command can also be bound to a keyboard shortcut if you wish.'": "text: 'To activate/deactivate Privacy Glasses, click the glasses icon on the left-hand ribbon or run \"Privacy Glasses\" commands in the Command Palette (Ctrl-P). The command can also be bound to a keyboard shortcut if you wish.'",
+    ".setName(\"Activate Privacy Glasses on startup\")": ".setName(\"Activate Privacy Glasses on startup\")",
+    ".setName(\"Hide all after user inactivity (seconds)\")": ".setName(\"Hide all after user inactivity (seconds)\")",
+    ".setName(\"Hover to reveal\")": ".setName(\"Hover to reveal\")",
+    ".setName(\"Reveal under caret\")": ".setName(\"Reveal under caret\")",
+    ".setName(\"Blur level\")": ".setName(\"Blur level\")",
+    ".setName(\"Private directories\")": ".setName(\"Private directories\")",
+    ".setName(\"Private note marker\")": ".setName(\"Private note marker\")",
+    ".setDesc(\"Indicates whether the plugin is automatically activated when starting Obsidian.\")": ".setDesc(\"Indicates whether the plugin is automatically activated when starting Obsidian.\")",
+    ".setDesc(\"Inactivity time after which Privacy Glasses will hide all. -1 to disable auto-hiding.\")": ".setDesc(\"Inactivity time after which Privacy Glasses will hide all. -1 to disable auto-hiding.\")",
+    ".setDesc(\"Indicates whether or not to reveal content when hovering the cursor over it.\")": ".setDesc(\"Indicates whether or not to reveal content when hovering the cursor over it.\")",
+    ".setDesc(\"Indicates whether or not to reveal content when caret is on it.\")": ".setDesc(\"Indicates whether or not to reveal content when caret is on it.\")",
+    ".setDesc(\"Comma-separated list of directories, in which files are considered private\")": ".setDesc(\"Comma-separated list of directories, in which files are considered private\")",
+    ".setDesc(\"Start a note with this text to mark note as private\")": ".setDesc(\"Start a note with this text to mark note as private\")",
+    ".setPlaceholder(\"-1\")": ".setPlaceholder(\"-1\")",
+    ".setPlaceholder(\"finance,therapy\")": ".setPlaceholder(\"finance,therapy\")",
+    ".setPlaceholder(\"#private\")": ".setPlaceholder(\"#private\")"
+  }
+}

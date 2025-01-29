@@ -1,0 +1,16 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "1.1.3"
+  },
+  "description": {
+    "original": "Adds captions to images when there is alt-text specified",
+    "translation": "Adds captions to images when there is alt-text specified"
+  },
+  "dict": {
+    ".setName(\"Advanced settings\")": ".setName(\"Advanced settings\")",
+    ".setName(\"Caption regex\")": ".setName(\"Caption regex\")",
+    ".setPlaceholder(\"^([^|]+)\")": ".setPlaceholder(\"^([^|]+)\")",
+    ".setDesc(\"For advanced caption parsing, you can add a regex here. The first capturing group will be used as the image caption. This is useful in situations where you might have another plugin or theme adding text to the caption area which you want to strip out. The placeholder example would be used to exclude everything following a pipe character (if one exists).\")": ".setDesc(\"For advanced caption parsing, you can add a regex here. The first capturing group will be used as the image caption. This is useful in situations where you might have another plugin or theme adding text to the caption area which you want to strip out. The placeholder example would be used to exclude everything following a pipe character (if one exists).\")"
+  }
+}

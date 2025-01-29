@@ -1,0 +1,31 @@
+{
+  "manifest": {
+    "translationVersion": 1731312554302,
+    "pluginVersion": "1.1.2"
+  },
+  "description": {
+    "original": "Adds Properties to multiple notes at once.  Either right-click a folder, or select multiple notes and right-click the selection.",
+    "translation": "Adds Properties to multiple notes at once.  Either right-click a folder, or select multiple notes and right-click the selection."
+  },
+  "dict": {
+    "Notice(\"Delimiter must be a single character.\")": "Notice(\"Delimiter must be a single character.\")",
+    "Notice(\"Please check at least one property to remove.\")": "Notice(\"Please check at least one property to remove.\")",
+    "Notice(\"No properties to remove\")": "Notice(\"No properties to remove\")",
+    "Notice(\"No files to add properties to.\", 4e3)": "Notice(\"No files to add properties to.\", 4e3)",
+    "Notice(\"No files to remove properties from.\", 4e3)": "Notice(\"No files to remove properties from.\", 4e3)",
+    "text: \"Add Properties\"": "text: \"Add Properties\"",
+    "text: \"Remove Properties\"": "text: \"Remove Properties\"",
+    ".setName(\"Overwrite existing text\")": ".setName(\"Overwrite existing text\")",
+    ".setName(\"Recursive Iteration\")": ".setName(\"Recursive Iteration\")",
+    ".setName(\"List Delimiter\")": ".setName(\"List Delimiter\")",
+    ".setDesc(\n      \"When adding a property with a name that already exists, the text will overwrite the prop's existing value.  If left disabled, the new value will be appended to the old as a List.\"\n    )": ".setDesc(\n      \"When adding a property with a name that already exists, the text will overwrite the prop's existing value.  If left disabled, the new value will be appended to the old as a List.\"\n    )",
+    ".setDesc(\n      \"When toggled on, while looping through all files in a folder, you will also loop through any sub-folders.\"\n    )": ".setDesc(\n      \"When toggled on, while looping through all files in a folder, you will also loop through any sub-folders.\"\n    )",
+    ".setDesc(\n      \"Set delimiter to use when creating a list.  Commas(,) are used by default.\"\n    )": ".setDesc(\n      \"Set delimiter to use when creating a list.  Commas(,) are used by default.\"\n    )",
+    ".setTitle(\"Add props to folder's notes\")": ".setTitle(\"Add props to folder's notes\")",
+    ".setTitle(\"Remove props from folder's notes\")": ".setTitle(\"Remove props from folder's notes\")",
+    ".setTitle(\"Add props to selected files\")": ".setTitle(\"Add props to selected files\")",
+    ".setTitle(\"Remove props from selected files\")": ".setTitle(\"Remove props from selected files\")",
+    ".setTitle(\"Add props to search results\")": ".setTitle(\"Add props to search results\")",
+    ".setTitle(\"Remove props from search results\")": ".setTitle(\"Remove props from search results\")"
+  }
+}

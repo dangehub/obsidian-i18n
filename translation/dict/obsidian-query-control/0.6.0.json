@@ -1,0 +1,21 @@
+{
+  "manifest": {
+    "translationVersion": 1736509176986,
+    "pluginVersion": "0.6.0"
+  },
+  "description": {
+    "original": "An experimental Obsidian plugin that adds additional control to queries",
+    "translation": "An experimental Obsidian plugin that adds additional control to queries"
+  },
+  "dict": {
+    ".log(o)": ".log(o)",
+    ".log(R)": ".log(R)",
+    ".setName(\"Collapse query results by default\")": ".setName(\"Collapse query results by default\")",
+    ".setName(\"Show additional query result context by default\")": ".setName(\"Show additional query result context by default\")",
+    ".setName(\"Hide query title by default\")": ".setName(\"Hide query title by default\")",
+    ".setName(\"Hide query results by default\")": ".setName(\"Hide query results by default\")",
+    ".setName(\"Render results as Markdown by default\")": ".setName(\"Render results as Markdown by default\")",
+    ".setName(\"Default query result sort order\")": ".setName(\"Default query result sort order\")",
+    ".setName(\"Render Markdown\")": ".setName(\"Render Markdown\")"
+  }
+}

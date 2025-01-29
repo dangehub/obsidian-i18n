@@ -1,0 +1,43 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "0.9.15"
+  },
+  "description": {
+    "original": "Customize your attachment path of notes independently with variables and auto rename it on change.",
+    "translation": "Customize your attachment path of notes independently with variables and auto rename it on change."
+  },
+  "dict": {
+    ".setName(\"Root path to save attachment\")": ".setName(\"Root path to save attachment\")",
+    ".setName(\"Root folder\")": ".setName(\"Root folder\")",
+    ".setName(\"Attachment path\")": ".setName(\"Attachment path\")",
+    ".setName(\"Attachment format\")": ".setName(\"Attachment format\")",
+    ".setName(\"Date format\")": ".setName(\"Date format\")",
+    ".setName(\"Automatically rename attachment\")": ".setName(\"Automatically rename attachment\")",
+    ".setName(\"Extension override\")": ".setName(\"Extension override\")",
+    ".setName(\"Extension\")": ".setName(\"Extension\")",
+    ".setName(\"Exclude extension pattern\")": ".setName(\"Exclude extension pattern\")",
+    ".setName(\"Excluded paths\")": ".setName(\"Excluded paths\")",
+    ".setName(\"Exclude subpaths\")": ".setName(\"Exclude subpaths\")",
+    ".setDesc(\"Select root path of attachment\")": ".setDesc(\"Select root path of attachment\")",
+    ".setDesc(\n      `Path of attachment in root folder, available variables ${SETTINGS_VARIABLES_NOTEPATH}, ${SETTINGS_VARIABLES_NOTENAME} and ${SETTINGS_VARIABLES_NOTEPARENT}`\n    )": ".setDesc(\n      `Path of attachment in root folder, available variables ${SETTINGS_VARIABLES_NOTEPATH}, ${SETTINGS_VARIABLES_NOTENAME} and ${SETTINGS_VARIABLES_NOTEPARENT}`\n    )",
+    ".setDesc(\n      `Define how to name the attachment file, available variables ${SETTINGS_VARIABLES_DATES}, ${SETTINGS_VARIABLES_NOTENAME}, ${SETTINGS_VARIABLES_MD5} and ${SETTINGS_VARIABLES_ORIGINALNAME}.`\n    )": ".setDesc(\n      `Define how to name the attachment file, available variables ${SETTINGS_VARIABLES_DATES}, ${SETTINGS_VARIABLES_NOTENAME}, ${SETTINGS_VARIABLES_MD5} and ${SETTINGS_VARIABLES_ORIGINALNAME}.`\n    )",
+    ".setDesc(\"Root folder of new attachment\")": ".setDesc(\"Root folder of new attachment\")",
+    ".setDesc(\n      `Path of attachment in root folder, available variables ${SETTINGS_VARIABLES_NOTEPATH}, ${SETTINGS_VARIABLES_NOTENAME}, ${SETTINGS_VARIABLES_NOTEPARENT}`\n    )": ".setDesc(\n      `Path of attachment in root folder, available variables ${SETTINGS_VARIABLES_NOTEPATH}, ${SETTINGS_VARIABLES_NOTENAME}, ${SETTINGS_VARIABLES_NOTEPARENT}`\n    )",
+    ".setDesc(\n      \"Automatically rename the attachment folder/filename when you rename the folder/filename where the corresponding md/canvas file be placed.\"\n    )": ".setDesc(\n      \"Automatically rename the attachment folder/filename when you rename the folder/filename where the corresponding md/canvas file be placed.\"\n    )",
+    ".setDesc(\"Using the extension override if you want to autorename the attachment with a specific extension (e.g. pdf or zip).\")": ".setDesc(\"Using the extension override if you want to autorename the attachment with a specific extension (e.g. pdf or zip).\")",
+    ".setDesc(\"Extension to override\")": ".setDesc(\"Extension to override\")",
+    ".setDesc(`Regex pattern to exclude certain extensions from being handled.`)": ".setDesc(`Regex pattern to exclude certain extensions from being handled.`)",
+    ".setDesc(\n      `Provide the full path of the folder names (case sensitive and without leading slash '/') divided by semicolon (;) to be excluded from renaming.`\n    )": ".setDesc(\n      `Provide the full path of the folder names (case sensitive and without leading slash '/') divided by semicolon (;) to be excluded from renaming.`\n    )",
+    ".setDesc(\"Turn on this option if you want to also exclude all subfolders of the folder paths provided above.\")": ".setDesc(\"Turn on this option if you want to also exclude all subfolders of the folder paths provided above.\")",
+    ".setPlaceholder(\"pdf|docx?\")": ".setPlaceholder(\"pdf|docx?\")",
+    ".setPlaceholder(\"pdf|docx?|xlsx?|pptx?|zip|rar\")": ".setPlaceholder(\"pdf|docx?|xlsx?|pptx?|zip|rar\")",
+    ".setPlaceholder(\"pdf\")": ".setPlaceholder(\"pdf\")",
+    ".setTooltip(\"Remove extension override\")": ".setTooltip(\"Remove extension override\")",
+    ".setTooltip(\"Edit extension override\")": ".setTooltip(\"Edit extension override\")",
+    ".setTooltip(\"Save extension override\")": ".setTooltip(\"Save extension override\")",
+    ".appendText(\"Moment date format to use \")": ".appendText(\"Moment date format to use \")",
+    ".setTitle(\"Overriding attachment setting\")": ".setTitle(\"Overriding attachment setting\")",
+    ".innerText = \"This operation is irreversible and experimental. Please backup your vault first!\"": ".innerText = \"This operation is irreversible and experimental. Please backup your vault first!\""
+  }
+}

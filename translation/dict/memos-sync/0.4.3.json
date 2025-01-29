@@ -1,0 +1,30 @@
+{
+  "manifest": {
+    "translationVersion": 1736249327826,
+    "pluginVersion": "0.4.3"
+  },
+  "description": {
+    "original": "Syncing memos from a [Memos](https://github.com/usememos/memos) server to your daily note. Fully compatible with official Daily Notes plugin, Calendar plugin and Periodic Notes plugin.",
+    "translation": "Syncing memos from a [Memos](https://github.com/usememos/memos) server to your daily note. Fully compatible with official Daily Notes plugin, Calendar plugin and Periodic Notes plugin."
+  },
+  "dict": {
+    ".setName(\"Daily memos header\")": ".setName(\"Daily memos header\")",
+    ".setName(\"Attachment folder\")": ".setName(\"Attachment folder\")",
+    ".setName(\"Memos API\")": ".setName(\"Memos API\")",
+    ".setName(\"Memos API version\")": ".setName(\"Memos API version\")",
+    ".setName(\"Memos API URL\")": ".setName(\"Memos API URL\")",
+    ".setName(\"Memos API token\")": ".setName(\"Memos API token\")",
+    ".setDesc(\"The header for the daily memos section.\")": ".setDesc(\"The header for the daily memos section.\")",
+    ".setDesc(\"The folder for attachments.\")": ".setDesc(\"The folder for attachments.\")",
+    ".setDesc(\"Which version your Memos server.\")": ".setDesc(\"Which version your Memos server.\")",
+    ".setDesc(\"Memos API URL, e.g. http://localhost:5230\")": ".setDesc(\"Memos API URL, e.g. http://localhost:5230\")",
+    ".setDesc(\"Memos API token.\")": ".setDesc(\"Memos API token.\")",
+    ".addOptions({\n        \"v0.19.1\": \"before v0.21.x\",\n        \"v0.22.0\": \"after v0.22.x\"\n      })": ".addOptions({\n        \"v0.19.1\": \"before v0.21.x\",\n        \"v0.22.0\": \"after v0.22.x\"\n      })",
+    ".createEl(\"h3\", {\n        text: \"Attention: Daily Notes is not enabled.\",": ".createEl(\"h3\", {\n        text: \"Attention: Daily Notes is not enabled.\",",
+    ".createEl(\"p\", {\n        text: \"Daily Notes feature is not enabled.\",": ".createEl(\"p\", {\n        text: \"Daily Notes feature is not enabled.\",",
+    ".createEl(\"p\", {\n        text: \"Please enable the official Daily Notes plugin or daily notes feature in Periodic Notes plugin. Otherwise, this plugin will not work properly.\",": ".createEl(\"p\", {\n        text: \"Please enable the official Daily Notes plugin or daily notes feature in Periodic Notes plugin. Otherwise, this plugin will not work properly.\",",
+    ".addCommand({\n        id: \"memos-sync-daily-memos\",\n        name: \"Sync daily memos\",": ".addCommand({\n        id: \"memos-sync-daily-memos\",\n        name: \"Sync daily memos\",",
+    ".addCommand({\n        id: \"memos-force-sync-daily-memos\",\n        name: \"Force sync daily memos\",": ".addCommand({\n        id: \"memos-force-sync-daily-memos\",\n        name: \"Force sync daily memos\",",
+    ".addCommand({\n        id: \"memos-sync-force-current-daily-memos\",\n        name: \"Force sync current daily memos\",": ".addCommand({\n        id: \"memos-sync-force-current-daily-memos\",\n        name: \"Force sync current daily memos\","
+  }
+}

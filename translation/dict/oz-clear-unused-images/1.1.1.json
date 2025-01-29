@@ -1,0 +1,37 @@
+{
+  "manifest": {
+    "translationVersion": 1736688188002,
+    "pluginVersion": "1.1.1"
+  },
+  "description": {
+    "original": "Clear the images that you are not using anymore in your markdown notes to save space.",
+    "translation": "Clear the images that you are not using anymore in your markdown notes to save space."
+  },
+  "dict": {
+    "name:\"Clear Unused Images\"": "name:\"Clear Unused Images\"",
+    "name:\"Clear Unused Attachments\"": "name:\"Clear Unused Attachments\"",
+    "text:\"Clear Images Settings\"": "text:\"Clear Images Settings\"",
+    "text:\"Close\"": "text:\"Close\"",
+    ".setName(\"Exclude Subfolders\")": ".setName(\"Exclude Subfolders\")",
+    ".addOption(\"permanent\",\"Delete Permanently\")": ".addOption(\"permanent\",\"Delete Permanently\")",
+    ".addOption(\"system-trash\",\"Move to System Trash\")": ".addOption(\"system-trash\",\"Move to System Trash\")",
+    ".createEl(\"h1\",{text:\"Clear Unused Images - Logs\"})": ".createEl(\"h1\",{text:\"Clear Unused Images - Logs\"})",
+    ".createEl(\"button\",{text:\"Close\"})": ".createEl(\"button\",{text:\"Close\"})",
+    ".addRibbonIcon(\"image-file\",\"Clear Unused Images\"": ".addRibbonIcon(\"image-file\",\"Clear Unused Images\"",
+    ".setName(\"Ribbon Icon\")": ".setName(\"Ribbon Icon\")",
+    ".setName(\"Delete Logs\")": ".setName(\"Delete Logs\")",
+    ".setDesc(\"Select where you want images to be moved once they are deleted\")": ".setDesc(\"Select where you want images to be moved once they are deleted\")",
+    ".setDesc(\"Turn on if you want Ribbon Icon for clearing the images.\")": ".setDesc(\"Turn on if you want Ribbon Icon for clearing the images.\")",
+    "e.addOption(\".trash\",\"Move to Obsidian Trash\")": "e.addOption(\".trash\",\"Move to Obsidian Trash\")",
+    "e.addOption(\"system-trash\",\"Move to System Trash\")": "e.addOption(\"system-trash\",\"Move to System Trash\")",
+    ".addCommand({id:\"clear-images-obsidian\",name:\"Clear Unused Images\",": ".addCommand({id:\"clear-images-obsidian\",name:\"Clear Unused Images\",",
+    ".addCommand({id:\"clear-unused-attachments\",name:\"Clear Unused Attachments\",": ".addCommand({id:\"clear-unused-attachments\",name:\"Clear Unused Attachments\",",
+    ".createEl(\"h2\",{text:\"Clear Images Settings\"})": ".createEl(\"h2\",{text:\"Clear Images Settings\"})",
+    ".addOption(\".trash\",\"Move to Obsidian Trash\")": ".addOption(\".trash\",\"Move to Obsidian Trash\")",
+    ".setDesc(\"Turn off if you dont want to view the delete logs Modal to pop up after deletion is completed. It wont appear if no image is deleted\")": ".setDesc(\"Turn off if you dont want to view the delete logs Modal to pop up after deletion is completed. It wont appear if no image is deleted\")",
+    ".Setting(t).setName(\"Deleted Image Destination\")": ".Setting(t).setName(\"Deleted Image Destination\")",
+    ".setName(\"Excluded Folder Full Paths\").": ".setName(\"Excluded Folder Full Paths\").",
+    ".setDesc(\"Turn on this option if you want to also exclude all subfolders of the folder paths provided above.\")": ".setDesc(\"Turn on this option if you want to also exclude all subfolders of the folder paths provided above.\")",
+    ".setDesc(\"Provide the FULL path of the folder names (Case Sensitive) divided by comma (,) to be excluded from clearing. \\n\\t\\t\\t\\t\\ti.e. For images under Personal/Files/Zodiac -> Personal/Files/Zodiac should be used for exclusion\").": ".setDesc(\"Provide the FULL path of the folder names (Case Sensitive) divided by comma (,) to be excluded from clearing. \\n\\t\\t\\t\\t\\ti.e. For images under Personal/Files/Zodiac -> Personal/Files/Zodiac should be used for exclusion\")."
+  }
+}

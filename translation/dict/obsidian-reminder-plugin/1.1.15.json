@@ -1,0 +1,53 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "1.1.15"
+  },
+  "description": {
+    "original": "Reminder plugin for Obsidian. This plugin adds feature to manage TODOs with reminder.",
+    "translation": "Reminder plugin for Obsidian. This plugin adds feature to manage TODOs with reminder."
+  },
+  "dict": {
+    ".desc(\"Time when a reminder with no time part will show\"": ".desc(\"Time when a reminder with no time part will show\"",
+    ".desc(\"Use system notification for reminder notifications\"": ".desc(\"Use system notification for reminder notifications\"",
+    ".desc(\"Line-separated list of remind me later items\"": ".desc(\"Line-separated list of remind me later items\"",
+    ".desc(\"Strictly parse the date and time\"": ".desc(\"Strictly parse the date and time\"",
+    ".desc(\"When toggled, Dates link to daily notes.\"": ".desc(\"When toggled, Dates link to daily notes.\"",
+    ".desc(\"Trigger text to show calendar popup\"": ".desc(\"Trigger text to show calendar popup\"",
+    ".desc(\"Reminder format for generated reminder by calendar popup\"": ".desc(\"Reminder format for generated reminder by calendar popup\"",
+    ".desc(\"Use custom emoji ⏰ instead of \\u{1F4C5} and distinguish between reminder date/time and Tasks Plugin's due date.\"": ".desc(\"Use custom emoji ⏰ instead of \\u{1F4C5} and distinguish between reminder date/time and Tasks Plugin's due date.\"",
+    ".desc(\"If checked, tags(#xxx) are removed from the reminder list view and notification.\"": ".desc(\"If checked, tags(#xxx) are removed from the reminder list view and notification.\"",
+    ".desc(\"The minimum amount of time (in seconds) after a key is typed that it will be identified as notifiable.\"": ".desc(\"The minimum amount of time (in seconds) after a key is typed that it will be identified as notifiable.\"",
+    ".desc(\"Interval(in seconds) to periodically check whether or not you should be notified of reminders.  You will need to restart Obsidian for this setting to take effect.\"": ".desc(\"Interval(in seconds) to periodically check whether or not you should be notified of reminders.  You will need to restart Obsidian for this setting to take effect.\"",
+    ".newGroup(\"Notification Settings\"": ".newGroup(\"Notification Settings\"",
+    ".newGroup(\"Editor\"": ".newGroup(\"Editor\"",
+    ".newGroup(\"Reminder Format - Reminder Plugin\"": ".newGroup(\"Reminder Format - Reminder Plugin\"",
+    ".newGroup(\"Reminder Format - Tasks Plugin\"": ".newGroup(\"Reminder Format - Tasks Plugin\"",
+    ".newGroup(\"Reminder Format - Kanban Plugin\"": ".newGroup(\"Reminder Format - Kanban Plugin\"",
+    ".newGroup(\"Advanced\"": ".newGroup(\"Advanced\"",
+    ".name(\"Reminder Time\"": ".name(\"Reminder Time\"",
+    ".name(\"Use system notification\"": ".name(\"Use system notification\"",
+    ".name(\"Remind me later\"": ".name(\"Remind me later\"",
+    ".name(\"Date format\"": ".name(\"Date format\"",
+    ".name(\"Strict Date format\"": ".name(\"Strict Date format\"",
+    ".name(\"Date and time format\"": ".name(\"Date and time format\"",
+    ".name(\"Link dates to daily notes\"": ".name(\"Link dates to daily notes\"",
+    ".name(\"Calendar popup trigger\"": ".name(\"Calendar popup trigger\"",
+    ".name(\"Primary reminder format\"": ".name(\"Primary reminder format\"",
+    ".name(\"Distinguish between reminder date and due date\"": ".name(\"Distinguish between reminder date and due date\"",
+    ".name(\"Remove tags from reminder title\"": ".name(\"Remove tags from reminder title\"",
+    ".name(\"Edit Detection Time\"": ".name(\"Edit Detection Time\"",
+    ".name(\"Reminder check interval\"": ".name(\"Reminder check interval\"",
+    ".name(`Enable ${format.description}`": ".name(`Enable ${format.description}`",
+    ".setInfo(`Popup is ${value.length === 0 ? \"disabled\" : \"enabled\"}`": ".setInfo(`Popup is ${value.length === 0 ? \"disabled\" : \"enabled\"}`",
+    "Reminder plugin format": "Reminder plugin format",
+    "Tasks plugin format": "Tasks plugin format",
+    "Kanban plugin format": "Kanban plugin format",
+    ".setInfo(`Example: ${(_a = format.format.appendReminder(\"- [ ] Task 1\", DateTime.now())) == null ? void 0 : _a.insertedLine}`": ".setInfo(`Example: ${(_a = format.format.appendReminder(\"- [ ] Task 1\", DateTime.now())) == null ? void 0 : _a.insertedLine}`",
+    ".desc(`Enable ${format.description}`": ".desc(`Enable ${format.description}`",
+    "title: \"Obsidian Reminder\"": "title: \"Obsidian Reminder\"",
+    ".desc(\"moment style date format": ".desc(\"moment style date format",
+    ".desc(\"moment() style date time format": ".desc(\"moment() style date time format",
+    ".desc(\"Use custom emoji \\u23F0 instead of \\u{1F4C5} and distinguish between reminder date/time and Tasks Plugin's due date.\")": ".desc(\"Use custom emoji \\u23F0 instead of \\u{1F4C5} and distinguish between reminder date/time and Tasks Plugin's due date.\")"
+  }
+}

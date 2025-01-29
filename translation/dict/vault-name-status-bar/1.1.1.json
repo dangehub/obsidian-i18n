@@ -1,0 +1,17 @@
+{
+  "manifest": {
+    "translationVersion": 1730688321552,
+    "pluginVersion": "1.1.1"
+  },
+  "description": {
+    "original": "Vault name in status bar. can be reduced to ::",
+    "translation": "Vault name in status bar. can be reduced to ::"
+  },
+  "dict": {
+    ".setName(\"Reduced at Start\")": ".setName(\"Reduced at Start\")",
+    ".setName(\"Set color & size\")": ".setName(\"Set color & size\")",
+    ".setDesc(\"Will be reduced by default\")": ".setDesc(\"Will be reduced by default\")",
+    ".createEl(\"h2\", { text: \"Vaut Name in Status Bar\" })": ".createEl(\"h2\", { text: \"Vaut Name in Status Bar\" })",
+    ".createEl(\"p\", { text: \"Click on the vault name or on :: to reduce or enlarge\" })": ".createEl(\"p\", { text: \"Click on the vault name or on :: to reduce or enlarge\" })"
+  }
+}

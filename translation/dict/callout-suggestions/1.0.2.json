@@ -1,0 +1,22 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "1.0.2"
+  },
+  "description": {
+    "original": "Adds a fuzzy searched suggestion modal for callouts.",
+    "translation": "Adds a fuzzy searched suggestion modal for callouts."
+  },
+  "dict": {
+    "Notice(\"Callout Suggestions depends on Callout Manager. Install and enable it from community plugins before enablng this.\")": "Notice(\"Callout Suggestions depends on Callout Manager. Install and enable it from community plugins before enablng this.\")",
+    ".log(\"Callout Suggestions depends on Callout Manager. Install and enable it from community plugins before enabling this.\")": ".log(\"Callout Suggestions depends on Callout Manager. Install and enable it from community plugins before enabling this.\")",
+    ".log(\"Unloading Callout Helper plugin.\")": ".log(\"Unloading Callout Helper plugin.\")",
+    ".setName(\"Callout syntax\")": ".setName(\"Callout syntax\")",
+    ".setName(\"Completion trigger character\")": ".setName(\"Completion trigger character\")",
+    ".setName(\"Case for inserted callout\")": ".setName(\"Case for inserted callout\")",
+    ".setDesc(\"Which callout syntax do you use?\")": ".setDesc(\"Which callout syntax do you use?\")",
+    ".setDesc(\"Which character should trigger the in-line suggestions?\")": ".setDesc(\"Which character should trigger the in-line suggestions?\")",
+    ".setDesc(\"Select the case for the inserted callout\")": ".setDesc(\"Select the case for the inserted callout\")",
+    ".setPlaceholder(\"Completion trigger character is empty\")": ".setPlaceholder(\"Completion trigger character is empty\")"
+  }
+}

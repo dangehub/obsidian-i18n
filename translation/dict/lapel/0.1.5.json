@@ -1,0 +1,16 @@
+{
+  "manifest": {
+    "translationVersion": 1729479263108,
+    "pluginVersion": "0.1.5"
+  },
+  "description": {
+    "original": "用装饰来装扮你的编辑器，这些装饰可以标记你的每一个标题。",
+    "translation": "用装饰来装扮你的编辑器，这些装饰可以标记你的每一个标题。"
+  },
+  "dict": {
+    "text:\"Appearance\"": "text:\"Appearance\"",
+    ".setName(\"Show before line numbers\")": ".setName(\"Show before line numbers\")",
+    ".setDesc(\"Toggle whether the heading markers are shown before or after the line numbers in the gutter.\")": ".setDesc(\"Toggle whether the heading markers are shown before or after the line numbers in the gutter.\")",
+    ".setTitle(`Heading ${d}`)": ".setTitle(`Heading ${d}`)"
+  }
+}

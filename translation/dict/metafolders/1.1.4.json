@@ -1,0 +1,33 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "1.1.4"
+  },
+  "description": {
+    "original": "Multidimensional note navigation",
+    "translation": "Multidimensional note navigation"
+  },
+  "dict": {
+    "Notice(\"Pasted\")": "Notice(\"Pasted\")",
+    ".setName(\"Parent property name\")": ".setName(\"Parent property name\")",
+    ".setName(\"Title source\")": ".setName(\"Title source\")",
+    ".setName(\"Home file path\")": ".setName(\"Home file path\")",
+    ".setDesc(\"Required. A property indicating the parent of the note. This will be used to build a hierarchy. To apply the changes correctly, it requires restarting the plugin or app after the change.\")": ".setDesc(\"Required. A property indicating the parent of the note. This will be used to build a hierarchy. To apply the changes correctly, it requires restarting the plugin or app after the change.\")",
+    ".setDesc(\"Optional. A home note for which a quick access button will be created. Enter path relative to vault root.\")": ".setDesc(\"Optional. A home note for which a quick access button will be created. Enter path relative to vault root.\")",
+    ".setTitle(\"Title (A to Z)\")": ".setTitle(\"Title (A to Z)\")",
+    ".setTitle(\"Title (Z to A)\")": ".setTitle(\"Title (Z to A)\")",
+    ".setTitle(\"Modified time (new to old)\")": ".setTitle(\"Modified time (new to old)\")",
+    ".setTitle(\"Modified time (old to new)\")": ".setTitle(\"Modified time (old to new)\")",
+    ".setTitle(\"Created time (new to old)\")": ".setTitle(\"Created time (new to old)\")",
+    ".setTitle(\"Created time (old to new)\")": ".setTitle(\"Created time (old to new)\")",
+    ".setDesc(`Specify the properties whose first value will be used as the file title.You can specify \"${Ce}\" to use the first-level heading from the file. You can specify multiple values in order of priority by separating them with commas. If none are found or the field is empty, the file name will be used.`)": ".setDesc(`Specify the properties whose first value will be used as the file title.You can specify \"${Ce}\" to use the first-level heading from the file. You can specify multiple values in order of priority by separating them with commas. If none are found or the field is empty, the file name will be used.`)",
+    "ke=\"Metafolders\"": "ke=\"Metafolders\"",
+    "\"Pin root file\"": "\"Pin root file\"",
+    "tooltip:\"Change sort order\"": "tooltip:\"Change sort order\"",
+    "tooltip:`Go to \"${n.path}\"`": "tooltip:`Go to \"${n.path}\"`",
+    "tooltip:\"Refresh tree\"": "tooltip:\"Refresh tree\"",
+    "tooltip:\"Navigate back\"": "tooltip:\"Navigate back\"",
+    "tooltip:\"Navigate forward\"": "tooltip:\"Navigate forward\"",
+    "\"Unlink active file\":\"Link active file\"": "\"Unlink active file\":\"Link active file\""
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "1.2.3"
+  },
+  "description": {
+    "original": "Automatically fetches metadata from a url and makes it as a card-styled link",
+    "translation": "Automatically fetches metadata from a url and makes it as a card-styled link"
+  },
+  "dict": {
+    "Notice(\"Couldn't fetch link metadata\")": "Notice(\"Couldn't fetch link metadata\")",
+    "Notice(\"URL copied to your clipboard\")": "Notice(\"URL copied to your clipboard\")",
+    ".log(`Unable to find text \"${fetchingText}\" in current editor, bailing out; link ${url}`)": ".log(`Unable to find text \"${fetchingText}\" in current editor, bailing out; link ${url}`)",
+    ".log(`bad response. response status code was ${res == null ? void 0 : res.status}`)": ".log(`bad response. response status code was ${res == null ? void 0 : res.status}`)",
+    ".log(error)": ".log(error)",
+    ".log(\"Code Block: cardlink unknown error\", error)": ".log(\"Code Block: cardlink unknown error\", error)",
+    ".log(\"unloading auto-card-link\")": ".log(\"unloading auto-card-link\")",
+    "name: \"Paste URL and enhance to card link\"": "name: \"Paste URL and enhance to card link\"",
+    "name: \"Enhance selected URL to card link\"": "name: \"Enhance selected URL to card link\"",
+    "description: \"${linkMetadata.description}\"": "description: \"${linkMetadata.description}\"",
+    ".setName(\"Enhance Default Paste\")": ".setName(\"Enhance Default Paste\")",
+    ".setName(\"Add commands in menu item\")": ".setName(\"Add commands in menu item\")",
+    ".setDesc(\"Fetch the link metadata when pasting a url in the editor with the default paste command\")": ".setDesc(\"Fetch the link metadata when pasting a url in the editor with the default paste command\")",
+    ".setDesc(\"Whether to add commands in right click menu items\")": ".setDesc(\"Whether to add commands in right click menu items\")",
+    ".setTooltip(`Copy URL\n${data.url}`)": ".setTooltip(`Copy URL\n${data.url}`)",
+    ".setTitle(\"Paste URL and enhance to card link\")": ".setTitle(\"Paste URL and enhance to card link\")",
+    ".setTitle(\"Enhance selected URL to card link\")": ".setTitle(\"Enhance selected URL to card link\")"
+  }
+}

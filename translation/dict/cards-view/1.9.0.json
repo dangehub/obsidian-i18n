@@ -1,0 +1,33 @@
+{
+  "manifest": {
+    "translationVersion": 1737461616090,
+    "pluginVersion": "1.9.0"
+  },
+  "description": {
+    "original": "Displays a card view of your notes.",
+    "translation": "Displays a card view of your notes."
+  },
+  "dict": {
+    "Notice(\"Invalid number\")": "Notice(\"Invalid number\")",
+    ".log(\"Stuck with token \"+this.parser.getName(this.tokens.mainToken.value)": ".log(\"Stuck with token \"+this.parser.getName(this.tokens.mainToken.value)",
+    ".error(\"Last ten effects were: \",yr.slice(-10)": ".error(\"Last ten effects were: \",yr.slice(-10)",
+    ".error(\"Container not found\")": ".error(\"Container not found\")",
+    "name:\"Filename\"": "name:\"Filename\"",
+    "name:\"Open card view\"": "name:\"Open card view\"",
+    ".setButtonText(\"Reset\")": ".setButtonText(\"Reset\")",
+    ".setName(\"Base search query\")": ".setName(\"Base search query\")",
+    ".setName(\"Minimum card width\")": ".setName(\"Minimum card width\")",
+    ".setName(\"Title display mode\")": ".setName(\"Title display mode\")",
+    ".setName(\"Launch on start\")": ".setName(\"Launch on start\")",
+    ".setName(\"Reset settings\")": ".setName(\"Reset settings\")",
+    ".setDesc(\"Use this for example to exclude tags, folders or keywords from the view.\")": ".setDesc(\"Use this for example to exclude tags, folders or keywords from the view.\")",
+    ".setDesc(\"Cards will not be smaller than this width (in pixels)\")": ".setDesc(\"Cards will not be smaller than this width (in pixels)\")",
+    ".setDesc(\"What to display on cards starting with a # Level 1 title\")": ".setDesc(\"What to display on cards starting with a # Level 1 title\")",
+    ".setDesc(\"Open the cards view when Obsidian starts\")": ".setDesc(\"Open the cards view when Obsidian starts\")",
+    ".setDesc(\"Reset all settings to default\")": ".setDesc(\"Reset all settings to default\")",
+    ".setPlaceholder('-path:\"Folder name/\" -tag:hidden')": ".setPlaceholder('-path:\"Folder name/\" -tag:hidden')",
+    ".setTitle(\"Last created\")": ".setTitle(\"Last created\")",
+    ".setTitle(\"Last modified\")": ".setTitle(\"Last modified\")",
+    "{Both:\"Both title and filename\",Title:\"Title\",Filename:\"Filename\"}": "{Both:\"Both title and filename\",Title:\"Title\",Filename:\"Filename\"}"
+  }
+}

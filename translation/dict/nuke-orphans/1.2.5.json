@@ -1,0 +1,38 @@
+{
+  "manifest": {
+    "translationVersion": 1731379551120,
+    "pluginVersion": "1.2.5"
+  },
+  "description": {
+    "original": "Plugin that trashes orphaned files and attachments",
+    "translation": "Plugin that trashes orphaned files and attachments"
+  },
+  "dict": {
+    "Notice(\"Copied list to clipboard\")": "Notice(\"Copied list to clipboard\")",
+    "Notice(\"Trashed \" + this.files.length + \" files\")": "Notice(\"Trashed \" + this.files.length + \" files\")",
+    "Notice(\"No orphaned files have been found\")": "Notice(\"No orphaned files have been found\")",
+    "Notice(\"Gathering orphaned attachments..\")": "Notice(\"Gathering orphaned attachments..\")",
+    "Notice(\"Gathering orphaned notes..\")": "Notice(\"Gathering orphaned notes..\")",
+    "Notice(\"Gathering orphaned files..\")": "Notice(\"Gathering orphaned files..\")",
+    ".error(\"Error parsing canvas file \" + f.path + \"\\n\", e)": ".error(\"Error parsing canvas file \" + f.path + \"\\n\", e)",
+    "name: \"Trash orphaned attachments\"": "name: \"Trash orphaned attachments\"",
+    "name: \"Trash orphaned notes\"": "name: \"Trash orphaned notes\"",
+    "name: \"Trash orphaned files\"": "name: \"Trash orphaned files\"",
+    "text: \"Nuke Orphans Plugin Settings\"": "text: \"Nuke Orphans Plugin Settings\"",
+    "text: \"Advanced Settings\"": "text: \"Advanced Settings\"",
+    "text: \"Cancel\"": "text: \"Cancel\"",
+    "text: \"Copy list to clipboard\"": "text: \"Copy list to clipboard\"",
+    "text: \"Trash\"": "text: \"Trash\"",
+    ".setText(\"Move \" + this.files.length + \" files to trash?\")": ".setText(\"Move \" + this.files.length + \" files to trash?\")",
+    ".setName(\"Override Attachment Folder\")": ".setName(\"Override Attachment Folder\")",
+    ".setName(\"Override Trash Folder\")": ".setName(\"Override Trash Folder\")",
+    ".setName(\"Ignore Patterns\")": ".setName(\"Ignore Patterns\")",
+    ".setName(\"Test Settings\")": ".setName(\"Test Settings\")",
+    ".setName(\"Alternative Attachments Finding Algorithm\")": ".setName(\"Alternative Attachments Finding Algorithm\")",
+    ".setDesc(\"Where attachments are stored\")": ".setDesc(\"Where attachments are stored\")",
+    ".setDesc(\"Trash folder path, will be created if it does not exist\")": ".setDesc(\"Trash folder path, will be created if it does not exist\")",
+    ".setDesc(\"Add regex patterns to ignore when searching for orphans\")": ".setDesc(\"Add regex patterns to ignore when searching for orphans\")",
+    ".setDesc(\"If the path is ignored it will be red, otherwise green\")": ".setDesc(\"If the path is ignored it will be red, otherwise green\")",
+    ".setDesc(\"Try enabling this if attachments are not found in subfolders\")": ".setDesc(\"Try enabling this if attachments are not found in subfolders\")"
+  }
+}

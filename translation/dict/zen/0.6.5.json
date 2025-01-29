@@ -1,0 +1,32 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "0.6.5"
+  },
+  "description": {
+    "original": "A focus mode Obsidian plugin.",
+    "translation": "A focus mode Obsidian plugin."
+  },
+  "dict": {
+    ".setName(\"General Settings\")": ".setName(\"General Settings\")",
+    ".setName(\"Toggle fullscreen\")": ".setName(\"Toggle fullscreen\")",
+    ".setName(\"Zen Button Settings\")": ".setName(\"Zen Button Settings\")",
+    ".setName(\"Disable\")": ".setName(\"Disable\")",
+    ".setName(\"Auto-hide\")": ".setName(\"Auto-hide\")",
+    ".setName(\"Element Settings\")": ".setName(\"Element Settings\")",
+    ".setName(\"Application Ribbon\")": ".setName(\"Application Ribbon\")",
+    ".setName(\"Tabs\")": ".setName(\"Tabs\")",
+    ".setName(\"Statusbar\")": ".setName(\"Statusbar\")",
+    ".setName(\"File Header\")": ".setName(\"File Header\")",
+    ".setName(\"Left side-dock\")": ".setName(\"Left side-dock\")",
+    ".setName(\"Right side-dock\")": ".setName(\"Right side-dock\")",
+    ".setName(\"Integrations\")": ".setName(\"Integrations\")",
+    ".setDesc(\"Should entering/exiting zen mode cause Obsidian to enter/exit fullscreen mode. (default: disabled)\")": ".setDesc(\"Should entering/exiting zen mode cause Obsidian to enter/exit fullscreen mode. (default: disabled)\")",
+    ".setDesc(\"When enabled zen mode can only be toggled using the commands.\")": ".setDesc(\"When enabled zen mode can only be toggled using the commands.\")",
+    ".setDesc(\"Auto-hide the zen mode button (after 1s of no mouse movement) during zen mode.\")": ".setDesc(\"Auto-hide the zen mode button (after 1s of no mouse movement) during zen mode.\")",
+    ".setDesc(\"What elements should be hidden when zen mode is enabled?\")": ".setDesc(\"What elements should be hidden when zen mode is enabled?\")",
+    ".setDesc(\"Including the side-dock toggle button(s).\")": ".setDesc(\"Including the side-dock toggle button(s).\")",
+    ".setTooltip(\"Highlight\")": ".setTooltip(\"Highlight\")",
+    ".createEl(\"i\", { text: \"No supported integrations found!\" })": ".createEl(\"i\", { text: \"No supported integrations found!\" })"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "1.5.0"
+  },
+  "description": {
+    "original": "List files by most recently opened",
+    "translation": "List files by most recently opened"
+  },
+  "dict": {
+    ".setName(\"Omitted pathname patterns\")": ".setName(\"Omitted pathname patterns\")",
+    ".setName(\"List length\")": ".setName(\"List length\")",
+    ".setDesc(\"Maximum number of filenames to keep in the list.\")": ".setDesc(\"Maximum number of filenames to keep in the list.\")",
+    ".appendText(\"If this plugin adds value for you and you would like to help support continued development, please use the buttons below:\")": ".appendText(\"If this plugin adds value for you and you would like to help support continued development, please use the buttons below:\")",
+    ".createEl(\"h2\",{text:\"Recent Files List\"})": ".createEl(\"h2\",{text:\"Recent Files List\"})",
+    "Recent Files": "Recent Files",
+    "setTitle(\"Clear list\"": "setTitle(\"Clear list\"",
+    ".setTitle(\"Open in new tab\"": ".setTitle(\"Open in new tab\"",
+    ".setTitle(\"Close\"": ".setTitle(\"Close\"",
+    ".append(\"RegExp patterns to ignore. One pattern per line. See \"),e.append(C),e.append(\" for help.\")": ".append(\"RegExp patterns to ignore. One pattern per line. See \"),e.append(C),e.append(\" for help.\")",
+    ".Notice(\"Cannot find a file with that name\")": ".Notice(\"Cannot find a file with that name\")",
+    ".Notice(\"List length must be a positive integer\")": ".Notice(\"List length must be a positive integer\")"
+  }
+}

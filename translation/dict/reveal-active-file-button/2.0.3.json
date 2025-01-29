@@ -1,0 +1,11 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "2.0.3"
+  },
+  "description": {
+    "original": "Add a button to the top of the File Explorer, to reveal the active file.",
+    "translation": "Add a button to the top of the File Explorer, to reveal the active file."
+  },
+  "dict": {}
+}

@@ -1,0 +1,52 @@
+{
+  "manifest": {
+    "translationVersion": 1730104325949,
+    "pluginVersion": "1.1.8"
+  },
+  "description": {
+    "original": "Keep track of all birthdays of your family and friends.",
+    "translation": "Keep track of all birthdays of your family and friends."
+  },
+  "dict": {
+    "Notice(noticeMessage)": "Notice(noticeMessage)",
+    "Notice(\"Nothing inside your node\")": "Notice(\"Nothing inside your node\")",
+    "Notice(\"No persons were found\")": "Notice(\"No persons were found\")",
+    "Notice(\n      `Node could not be found at location: ${this.settings.birthdayNodeLocation}`\n    )": "Notice(\n      `Node could not be found at location: ${this.settings.birthdayNodeLocation}`\n    )",
+    "Notice(\n      message.concat(\n        `${personsBirthdayToday.length > 1 ? \" have\" : \" has\"} birthday`\n      )": "Notice(\n      message.concat(\n        `${personsBirthdayToday.length > 1 ? \" have\" : \" has\"} birthday`\n      )",
+    "name: \"Track Birthdays\"": "name: \"Track Birthdays\"",
+    "name: \"Search Person\"": "name: \"Search Person\"",
+    "name: \"Year Overview\"": "name: \"Year Overview\"",
+    "text: `Name: ${this.person.name} (${this.person.age})`": "text: `Name: ${this.person.name} (${this.person.age})`",
+    "text: `Days next birthday: ${this.person.daysTillNextBirthday}`": "text: `Days next birthday: ${this.person.daysTillNextBirthday}`",
+    "text: `Birthday: ${this.person.birthday}`": "text: `Birthday: ${this.person.birthday}`",
+    "text: \"Birthday Tracker\"": "text: \"Birthday Tracker\"",
+    "text: `Name: ${person.name} (${person.age})`": "text: `Name: ${person.name} (${person.age})`",
+    "text: `Days next birthday: ${person.daysTillNextBirthday}`": "text: `Days next birthday: ${person.daysTillNextBirthday}`",
+    "text: `Birthday: ${person.birthday}`": "text: `Birthday: ${person.birthday}`",
+    "text: \"Birthday Tracker - Year Overview\"": "text: \"Birthday Tracker - Year Overview\"",
+    ".setName(\"Date formatting\")": ".setName(\"Date formatting\")",
+    ".setName(\"Birthday node location\")": ".setName(\"Birthday node location\")",
+    ".setDesc(\"Format your dates will be displayed and collected\")": ".setDesc(\"Format your dates will be displayed and collected\")",
+    ".setDesc(\n      \"Location of your Node containing the birthday data with .md as postfix\"\n    )": ".setDesc(\n      \"Location of your Node containing the birthday data with .md as postfix\"\n    )",
+    ".setPlaceholder(\"Enter your format\")": ".setPlaceholder(\"Enter your format\")",
+    ".setPlaceholder(\"Enter the node location\")": ".setPlaceholder(\"Enter the node location\")",
+    "\"Birthday-Tracker-Year-Overview\"": "\"Birthday-Tracker-Year-Overview\"",
+    "January": "January",
+    "February": "February",
+    "March": "March",
+    "April": "April",
+    "May": "May",
+    "June": "June",
+    "July": "July",
+    "August": "August",
+    "September": "September",
+    "October": "October",
+    "November": "November",
+    "December": "December",
+    "\"Open year overview\"": "\"Open year overview\"",
+    "\"Track birthdays\"": "\"Track birthdays\"",
+    "line.split(\";\")": "line.split(\";\")",
+    "\"name=\"": "\"name=\"",
+    "\"birthday=\"": "\"birthday=\""
+  }
+}

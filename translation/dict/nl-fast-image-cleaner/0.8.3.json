@@ -1,0 +1,36 @@
+{
+  "manifest": {
+    "translationVersion": 1736939609441,
+    "pluginVersion": "0.8.3"
+  },
+  "description": {
+    "original": "This plugin allows you to quickly remove image attachment and referenced link from your documents in both LIVE , READ mode by right-click menu",
+    "translation": "This plugin allows you to quickly remove image attachment and referenced link from your documents in both LIVE , READ mode by right-click menu"
+  },
+  "dict": {
+    "Notice(` cannot get the image file`)": "Notice(` cannot get the image file`)",
+    "Notice(\"Image moved to Obsidian Trash !\", SUCCESS_NOTICE_TIMEOUT)": "Notice(\"Image moved to Obsidian Trash !\", SUCCESS_NOTICE_TIMEOUT)",
+    "Notice(\"Image moved to System Trash !\", SUCCESS_NOTICE_TIMEOUT)": "Notice(\"Image moved to System Trash !\", SUCCESS_NOTICE_TIMEOUT)",
+    "Notice(\"Image deleted Permanently !\", SUCCESS_NOTICE_TIMEOUT)": "Notice(\"Image deleted Permanently !\", SUCCESS_NOTICE_TIMEOUT)",
+    "Notice(\"Attachment folder has been deleted!\", 3e3)": "Notice(\"Attachment folder has been deleted!\", 3e3)",
+    "Notice(\"Faild to delelte the image !\", SUCCESS_NOTICE_TIMEOUT)": "Notice(\"Faild to delelte the image !\", SUCCESS_NOTICE_TIMEOUT)",
+    "Notice(\"Failed to delete the file/folder !\", SUCCESS_NOTICE_TIMEOUT)": "Notice(\"Failed to delete the file/folder !\", SUCCESS_NOTICE_TIMEOUT)",
+    "Notice(\"All attachments and its parent folder have been deleted!\", 3e3)": "Notice(\"All attachments and its parent folder have been deleted!\", 3e3)",
+    "Notice(\"Error, could not clear the file!\")": "Notice(\"Error, could not clear the file!\")",
+    ".log(\"Fast file Cleaner plugin loaded...\")": ".log(\"Fast file Cleaner plugin loaded...\")",
+    ".log(\"Fast file Cleaner plugin unloaded...\")": ".log(\"Fast file Cleaner plugin unloaded...\")",
+    ".error(error)": ".error(error)",
+    "text: \"Fast Attachment Cleaner Settings\"": "text: \"Fast Attachment Cleaner Settings\"",
+    "text: \" Detection of multiple attachment reference links - logs \"": "text: \" Detection of multiple attachment reference links - logs \"",
+    "text: \"close\"": "text: \"close\"",
+    "text: \"remove link\"": "text: \"remove link\"",
+    "text: \"Detected that the image you are attempting to delete is being referenced multiple times within the current document. \\n As a result. We kindly ask that you manually remove the link.\"": "text: \"Detected that the image you are attempting to delete is being referenced multiple times within the current document. \\n As a result. We kindly ask that you manually remove the link.\"",
+    "text: \"Delete the file and its all attachments - logs \"": "text: \"Delete the file and its all attachments - logs \"",
+    "text: \"Cancel\"": "text: \"Cancel\"",
+    "text: \"Confirm\"": "text: \"Confirm\"",
+    ".setName(\"Deleted Attachment Destination\")": ".setName(\"Deleted Attachment Destination\")",
+    ".setDesc(\"Select where you want Attachments to be moved once they are deleted\")": ".setDesc(\"Select where you want Attachments to be moved once they are deleted\")",
+    ".setTitle(\"clear file and referenced link\")": ".setTitle(\"clear file and referenced link\")",
+    ".setTitle(\"Delete the file and its all attachments\")": ".setTitle(\"Delete the file and its all attachments\")"
+  }
+}

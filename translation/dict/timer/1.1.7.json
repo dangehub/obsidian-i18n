@@ -1,0 +1,44 @@
+{
+  "manifest": {
+    "translationVersion": 1730016784330,
+    "pluginVersion": "1.1.7"
+  },
+  "description": {
+    "original": "Allows you to measure time.",
+    "translation": "Allows you to measure time."
+  },
+  "dict": {
+    "Notice(\"Invalid value\")": "Notice(\"Invalid value\")",
+    "Notice(\n              \"This browser does not support desktop notifications.\"\n            )": "Notice(\n              \"This browser does not support desktop notifications.\"\n            )",
+    "Notice(\n                  \"You need to grant permission to receive notifications.\"\n                )": "Notice(\n                  \"You need to grant permission to receive notifications.\"\n                )",
+    "Notice(\"Timer is finished!!\")": "Notice(\"Timer is finished!!\")",
+    "name: \"Open timer\"": "name: \"Open timer\"",
+    "name: \"Set timer to\"": "name: \"Set timer to\"",
+    "name: \"Add favorite timer\"": "name: \"Add favorite timer\"",
+    "name: \"Use one of favorite timers\"": "name: \"Use one of favorite timers\"",
+    "name: \"Remove one of favorite timers\"": "name: \"Remove one of favorite timers\"",
+    "text: \"1. In time notation: HH:MM:SS.\"": "text: \"1. In time notation: HH:MM:SS.\"",
+    "text: \"2. With letters: 00h00m00s.\"": "text: \"2. With letters: 00h00m00s.\"",
+    "text: \"Timer\"": "text: \"Timer\"",
+    ".setButtonText(\"Submit\")": ".setButtonText(\"Submit\")",
+    ".setName(`${i + 1} timer button value`)": ".setName(`${i + 1} timer button value`)",
+    ".setName(\"Stack timer buttons\")": ".setName(\"Stack timer buttons\")",
+    ".setName(\"Use verbose time format\")": ".setName(\"Use verbose time format\")",
+    ".setName(\"Remove not set values in verbose time format\")": ".setName(\"Remove not set values in verbose time format\")",
+    ".setName(\"Use OS notification\")": ".setName(\"Use OS notification\")",
+    ".setDesc(`Set the value which increases / decreases the timer if clicking on the ${i + 1} timer button. \n                      The value contains a number followed by seconds(type s) or minutes(type m) or hours(type h) & number \n                      must be greater than 0.`)": ".setDesc(`Set the value which increases / decreases the timer if clicking on the ${i + 1} timer button. \n                      The value contains a number followed by seconds(type s) or minutes(type m) or hours(type h) & number \n                      must be greater than 0.`)",
+    ".setDesc(\n      \"If enabled, the timer increment buttons will be stacked on top of the timer decrement buttons. If disabled, the timer increment buttons will be placed to the right of the timer decrement buttons.\"\n    )": ".setDesc(\n      \"If enabled, the timer increment buttons will be stacked on top of the timer decrement buttons. If disabled, the timer increment buttons will be placed to the right of the timer decrement buttons.\"\n    )",
+    ".setDesc(\n      'If enabled, the timer display will be in the format of \"1h 2m 3s\" instead of \"01:02:03\".'\n    )": ".setDesc(\n      'If enabled, the timer display will be in the format of \"1h 2m 3s\" instead of \"01:02:03\".'\n    )",
+    ".setDesc(\n      \"If enabled and verbose enabled, 00 values are not shown. If disabled and for example +1m is clicked, also '00s' is shown\"\n    )": ".setDesc(\n      \"If enabled and verbose enabled, 00 values are not shown. If disabled and for example +1m is clicked, also '00s' is shown\"\n    )",
+    ".setDesc(\n      \"If enabled, the timer notification will be an OS-level notification rather than an Obisidian notice, and will remain active until dismissed.\"\n    )": ".setDesc(\n      \"If enabled, the timer notification will be an OS-level notification rather than an Obisidian notice, and will remain active until dismissed.\"\n    )",
+    ".setPlaceholder(\"Enter value\")": ".setPlaceholder(\"Enter value\")",
+    "children: \"Hours\"": "children: \"Hours\"",
+    "children: \"Minutes\"": "children: \"Minutes\"",
+    "children: \"Seconds\"": "children: \"Seconds\"",
+    "children: \"Start\"": "children: \"Start\"",
+    "children: \"Reset\"": "children: \"Reset\"",
+    "children: \"Cancel\"": "children: \"Cancel\"",
+    "\"Pause\"": "\"Pause\"",
+    "\"Resume\"": "\"Resume\""
+  }
+}

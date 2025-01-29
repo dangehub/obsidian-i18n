@@ -1,0 +1,20 @@
+{
+  "manifest": {
+    "translationVersion": 1730852633319,
+    "pluginVersion": "0.2.10"
+  },
+  "description": {
+    "original": "Perform file explorer operations (and see your current file path) from the title bar, using the mouse or keyboard",
+    "translation": "Perform file explorer operations (and see your current file path) from the title bar, using the mouse or keyboard"
+  },
+  "dict": {
+    "Notice(\"The File Explorer core plugin must be enabled to create new folders\")": "Notice(\"The File Explorer core plugin must be enabled to create new folders\")",
+    "Notice(\"File explorer core plugin must be enabled to move files or folders\")": "Notice(\"File explorer core plugin must be enabled to move files or folders\")",
+    "Notice(`.${e.extension} files cannot be opened in Obsidian; Use \"Open in Default App\" to open them externally`)": "Notice(`.${e.extension} files cannot be opened in Obsidian; Use \"Open in Default App\" to open them externally`)",
+    "name:\"all\"": "name:\"all\"",
+    "name:\"Browse vault\"": "name:\"Browse vault\"",
+    "name:\"Browse current folder\"": "name:\"Browse current folder\"",
+    "text:\"\"+n,cls:\"": "text:\"\"+n,cls:\"",
+    ".setTitle(\"Show in Quick Explorer\")": ".setTitle(\"Show in Quick Explorer\")"
+  }
+}

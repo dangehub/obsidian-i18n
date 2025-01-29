@@ -1,0 +1,15 @@
+{
+  "manifest": {
+    "translationVersion": 1736048521621,
+    "pluginVersion": "0.1.5"
+  },
+  "description": {
+    "original": "Extends plugin management of Obsidian.MD",
+    "translation": "Extends plugin management of Obsidian.MD"
+  },
+  "dict": {
+    "name: `toggle ${name}`": "name: `toggle ${name}`",
+    ".setPlaceholder(\"Startup Delay In Seconds\")": ".setPlaceholder(\"Startup Delay In Seconds\")",
+    ".setPlaceholder(\"Unavailable\")": ".setPlaceholder(\"Unavailable\")"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "manifest": {
+    "translationVersion": 1737955109663,
+    "pluginVersion": "2.1.1"
+  },
+  "description": {
+    "original": "Import Word files easily. Adds a preview mode for .docx files and the ability to convert them to markdown (.md) files.",
+    "translation": "Import Word files easily. Adds a preview mode for .docx files and the ability to convert them to markdown (.md) files."
+  },
+  "dict": {
+    ".setName(\"Delete source file after conversion\")": ".setName(\"Delete source file after conversion\")",
+    ".setName(\"Import docx comments\")": ".setName(\"Import docx comments\")",
+    ".setName(\"Attachments\")": ".setName(\"Attachments\")",
+    ".setName(\"Fallback attachment name\")": ".setName(\"Fallback attachment name\")",
+    ".setName(\"Attachments folder\")": ".setName(\"Attachments folder\")",
+    ".setName(\"Custom attachments folder\")": ".setName(\"Custom attachments folder\")",
+    ".setDesc(\"Delete source file after pressing the conversion button.\")": ".setDesc(\"Delete source file after pressing the conversion button.\")",
+    ".setDesc(\"Import comments from docx files using reference links. Comments will be placed at the end of the markdown file.\")": ".setDesc(\"Import comments from docx files using reference links. Comments will be placed at the end of the markdown file.\")",
+    ".setDesc(\"Settings related to attachments extracted during file conversion.\")": ".setDesc(\"Settings related to attachments extracted during file conversion.\")",
+    ".setDesc(\"Fallback name if the attachment file has no alt text or is written using only invalid characters.\")": ".setDesc(\"Fallback name if the attachment file has no alt text or is written using only invalid characters.\")",
+    ".setDesc(\"Specify the destination for attachments extracted during file conversion.\")": ".setDesc(\"Specify the destination for attachments extracted during file conversion.\")",
+    ".setDesc(\"Specify the name of the folder where attachments will be extracted.\")": ".setDesc(\"Specify the name of the folder where attachments will be extracted.\")",
+    ".setPlaceholder(\"Attachments\")": ".setPlaceholder(\"Attachments\")",
+    ".innerText = \"This is a preview. To edit, convert it to markdown.\"": ".innerText = \"This is a preview. To edit, convert it to markdown.\"",
+    ".innerText = \"Convert\"": ".innerText = \"Convert\""
+  }
+}

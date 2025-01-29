@@ -1,0 +1,26 @@
+{
+  "manifest": {
+    "translationVersion": 1730962232133,
+    "pluginVersion": "0.1.8"
+  },
+  "description": {
+    "original": "Edit a bunch of daily notes in one page(inline), which works similar to Roam Research's default daily note view.",
+    "translation": "Edit a bunch of daily notes in one page(inline), which works similar to Roam Research's default daily note view."
+  },
+  "dict": {
+    "Notice(\"Failed to read the daily note template\")": "Notice(\"Failed to read the daily note template\")",
+    "Notice(\"Unable to create new file.\")": "Notice(\"Unable to create new file.\")",
+    ".error(`Failed to read the daily note template '${i}'`,o)": ".error(`Failed to read the daily note template '${i}'`,o)",
+    ".error(`Failed to create file: '${u}'`,c)": ".error(`Failed to create file: '${u}'`,c)",
+    ".error(`Failed to create file: '${l}'`,d)": ".error(`Failed to create file: '${l}'`,d)",
+    "name:\"Open Daily Note Editor\"": "name:\"Open Daily Note Editor\"",
+    ".setName(\"Hide frontmatter\")": ".setName(\"Hide frontmatter\")",
+    ".setName(\"Hide backlinks\")": ".setName(\"Hide backlinks\")",
+    ".setDesc(\"Hide frontmatter in daily notes\")": ".setDesc(\"Hide frontmatter in daily notes\")",
+    ".setDesc(\"Hide backlinks in daily notes\")": ".setDesc(\"Hide backlinks in daily notes\")",
+    ".addRibbonIcon(\"calendar-range\",\"Open Daily Note Editor\"": ".addRibbonIcon(\"calendar-range\",\"Open Daily Note Editor\"",
+    "return\"Daily Note\"": "return\"Daily Note\"",
+    "t.innerHTML='<div class=\"dn-blank-day-text svelte-16g9gs\">Create a daily note for today ✍</div>'": "t.innerHTML='<div class=\"dn-blank-day-text svelte-16g9gs\">Create a daily note for today ✍</div>'",
+    "t.textContent=\"—— No more of results ——\",": "t.textContent=\"—— No more of results ——\","
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "0.6.1"
+  },
+  "description": {
+    "original": "Rename, merge, toggle, and search tags from the tag pane",
+    "translation": "Rename, merge, toggle, and search tags from the tag pane"
+  },
+  "dict": {
+    "create-new": "create-new",
+    "Create tag page": "Create tag page",
+    "Rename #": "Rename #",
+    "New search for #": "New search for #",
+    "Exclude #": "Exclude #",
+    " from search": " from search",
+    "Collapse tags at this level": "Collapse tags at this level",
+    "Expand tags at this level": "Expand tags at this level",
+    "Require #": "Require #",
+    " in search": " in search",
+    "Open tag page": "Open tag page",
+    "This <b>cannot</b> be undone.  Do you wish to proceed?`": "This <b>cannot</b> be undone.  Do you wish to proceed?`",
+    "WARNING: No Undo!,`Renaming <code>${t}</code> to <code>${n}</code> will merge ${s.canonical===t.canonical?\"these tags\":`multiple tags": "WARNING: No Undo!,`Renaming <code>${t}</code> to <code>${n}</code> will merge ${s.canonical===t.canonical?\"these tags\":`multiple tags",
+    "ok:\"OK\"": "ok:\"OK\"",
+    "cancel:\"Cancel\"": "cancel:\"Cancel\"",
+    "`Renaming #${s} (and any sub-tags)`,`Enter new name (must be a valid Obsidian tag):": "`Renaming #${s} (and any sub-tags)`,`Enter new name (must be a valid Obsidian tag):",
+    ".setTitle(`Renaming #${n} (and any sub-tags)`)": ".setTitle(`Renaming #${n} (and any sub-tags)`)",
+    ".setContent(`Enter new name (must be a valid Obsidian tag name)": ".setContent(`Enter new name (must be a valid Obsidian tag name)",
+    ".Notice(`Operation ${f.aborted?\"cancelled\":\"complete\"}: ${p} file(s) updated`)": ".Notice(`Operation ${f.aborted?\"cancelled\":\"complete\"}: ${p} file(s) updated`)",
+    ".onInvalidEntry(t=>new ye.Notice(`\"${t}\" is not a valid Obsidian tag name`))": ".onInvalidEntry(t=>new ye.Notice(`\"${t}\" is not a valid Obsidian tag name`))"
+  }
+}

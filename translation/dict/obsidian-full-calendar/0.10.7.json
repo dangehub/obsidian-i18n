@@ -1,0 +1,25 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "0.10.7"
+  },
+  "description": {
+    "original": "Obsidian integration with Full Calendar (fullcalendar.io)",
+    "translation": "Obsidian integration with Full Calendar (fullcalendar.io)"
+  },
+  "dict": {
+    ".setName(\"Calendars\")": ".setName(\"Calendars\")",
+    ".setName(\"Desktop Initial View\")": ".setName(\"Desktop Initial View\")",
+    ".setName(\"Mobile Initial View\")": ".setName(\"Mobile Initial View\")",
+    ".setName(\"Starting Day of the Week\")": ".setName(\"Starting Day of the Week\")",
+    ".setName(\"24-hour format\")": ".setName(\"24-hour format\")",
+    ".setDesc(\"Add calendar\")": ".setDesc(\"Add calendar\")",
+    ".setDesc(\"Choose the initial view range on desktop devices.\")": ".setDesc(\"Choose the initial view range on desktop devices.\")",
+    ".setDesc(\"Choose the initial view range on mobile devices.\")": ".setDesc(\"Choose the initial view range on mobile devices.\")",
+    ".setDesc(\"Choose what day of the week to start.\")": ".setDesc(\"Choose what day of the week to start.\")",
+    ".setDesc(\"Display the time in a 24-hour format.\")": ".setDesc(\"Display the time in a 24-hour format.\")",
+    ".setTooltip(\"Add Calendar\")": ".setTooltip(\"Add Calendar\")",
+    ".createEl(\"h2\", { text: \"Calendar Preferences\" })": ".createEl(\"h2\", { text: \"Calendar Preferences\" })",
+    ".createEl(\"h2\", { text: \"Manage Calendars\" })": ".createEl(\"h2\", { text: \"Manage Calendars\" })"
+  }
+}

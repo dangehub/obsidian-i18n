@@ -1,0 +1,41 @@
+{
+  "manifest": {
+    "translationVersion": 1732865660655,
+    "pluginVersion": "1.4.7"
+  },
+  "description": {
+    "original": "Automatically update a frontmatter modified date field when you modify your note. This will not use the filesystem time, but only when you modify the file through Obsidian. Optionally store a history of edit times.",
+    "translation": "Automatically update a frontmatter modified date field when you modify your note. This will not use the filesystem time, but only when you modify the file through Obsidian. Optionally store a history of edit times."
+  },
+  "dict": {
+    ".setName(\"Modified date property\")": ".setName(\"Modified date property\")",
+    ".setName(\"Created date property (optional)\")": ".setName(\"Created date property (optional)\")",
+    ".setName(\"Date format\")": ".setName(\"Date format\")",
+    ".setName(\"Store history of all updates\")": ".setName(\"Store history of all updates\")",
+    ".setName(\"Frequency of updates\")": ".setName(\"Frequency of updates\")",
+    ".setName(\"Order to store the history items\")": ".setName(\"Order to store the history items\")",
+    ".setName(\"Maximum number of history items\")": ".setName(\"Maximum number of history items\")",
+    ".setName(\"Vault options\")": ".setName(\"Vault options\")",
+    ".setName(\"Exclude folders\")": ".setName(\"Exclude folders\")",
+    ".setName(\"Only update existing fields\")": ".setName(\"Only update existing fields\")",
+    ".setName(\"Use typing events instead of Obsidian events\")": ".setName(\"Use typing events instead of Obsidian events\")",
+    ".setName(\"Timeout (seconds)\")": ".setName(\"Timeout (seconds)\")",
+    ".setName(\"Update count property\")": ".setName(\"Update count property\")",
+    ".setDesc(\"The name of the YAML/frontmatter property to update when your note is modified\")": ".setDesc(\"The name of the YAML/frontmatter property to update when your note is modified\")",
+    ".setDesc(\"Optional. Add a created property name, and the plugin will also update the note creation date.\")": ".setDesc(\"Optional. Add a created property name, and the plugin will also update the note creation date.\")",
+    ".setDesc(\"This is in MomentJS format. Leave blank for the default ATOM format.\")": ".setDesc(\"This is in MomentJS format. Leave blank for the default ATOM format.\")",
+    ".setDesc(`Instead of storing only the last modified time, this will turn your \"${this.plugin.settings.frontmatterProperty}\" frontmatter property into a list of all of the dates/times you've edited this note.`)": ".setDesc(`Instead of storing only the last modified time, this will turn your \"${this.plugin.settings.frontmatterProperty}\" frontmatter property into a list of all of the dates/times you've edited this note.`)",
+    ".setDesc(\"The plugin will store a maximum of 1 history entry per the selected time unit. If there are multiple edits in the specified period, the last edit entry will be updated instead.\")": ".setDesc(\"The plugin will store a maximum of 1 history entry per the selected time unit. If there are multiple edits in the specified period, the last edit entry will be updated instead.\")",
+    ".setDesc(\"Leave blank or zero for unlimited history items.\")": ".setDesc(\"Leave blank or zero for unlimited history items.\")",
+    ".setDesc(\"Add a list of folders to exclude, one folder per line. All subfolders will be also excluded.\")": ".setDesc(\"Add a list of folders to exclude, one folder per line. All subfolders will be also excluded.\")",
+    ".setDesc(\"If you turn this on, it will only update a frontmatter field *if that field already exists*.\")": ".setDesc(\"If you turn this on, it will only update a frontmatter field *if that field already exists*.\")",
+    ".setDesc('How many seconds to wait after the last edit before updating the modified field. You can increase this value if you are experiencing too many \"Merging changes\" popups.')": ".setDesc('How many seconds to wait after the last edit before updating the modified field. You can increase this value if you are experiencing too many \"Merging changes\" popups.')",
+    ".setDesc(\"The name of the YAML/frontmatter property to store the update count.\")": ".setDesc(\"The name of the YAML/frontmatter property to store the update count.\")",
+    ".setDesc(`If you make changes to a file using an external editor and Obsidian is currently open, Obsidian": ".setDesc(`If you make changes to a file using an external editor and Obsidian is currently open, Obsidian",
+    "will register this as a modification and update the frontmatter. If you don't want this to happen, and only": "will register this as a modification and update the frontmatter. If you don't want this to happen, and only",
+    "want the frontmatter when you are making changes inside Obsidian, you can try this mode. It watches for typing ": "want the frontmatter when you are making changes inside Obsidian, you can try this mode. It watches for typing ",
+    "events, and then updates the frontmatter only when you type. This means that some events like updating your note ": "events, and then updates the frontmatter only when you type. This means that some events like updating your note ",
+    "or properties using your mouse will not cause the modified field to update. You will need to restart Obsidian ": "or properties using your mouse will not cause the modified field to update. You will need to restart Obsidian ",
+    "after this change.`)": "after this change.`)"
+  }
+}

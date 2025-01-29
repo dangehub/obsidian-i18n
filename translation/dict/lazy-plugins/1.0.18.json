@@ -1,0 +1,30 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "1.0.18"
+  },
+  "description": {
+    "original": "Load plugins with a delay on startup, so that you can get your app startup down into the sub-second loading time.",
+    "translation": "Load plugins with a delay on startup, so that you can get your app startup down into the sub-second loading time."
+  },
+  "dict": {
+    ".log(`Starting ${pluginId} after a ${startupType} delay`)": ".log(`Starting ${pluginId} after a ${startupType} delay`)",
+    ".log(`Set ${plugin.id} back to instant start`)": ".log(`Set ${plugin.id} back to instant start`)",
+    "name: \"Lazy Plugin Loader\"": "name: \"Lazy Plugin Loader\"",
+    "description: \"Load plugins with a delay on startup, so that you can get your app startup down into the sub-second loading time.\"": "description: \"Load plugins with a delay on startup, so that you can get your app startup down into the sub-second loading time.\"",
+    ".setName(\"Separate desktop/mobile configuration\")": ".setName(\"Separate desktop/mobile configuration\")",
+    ".setName(\"Lazy Loader settings\")": ".setName(\"Lazy Loader settings\")",
+    ".setName(\"Default startup type for new plugins\")": ".setName(\"Default startup type for new plugins\")",
+    ".setName(\"Show plugin descriptions\")": ".setName(\"Show plugin descriptions\")",
+    ".setName(\"Set the delay for all plugins at once\")": ".setName(\"Set the delay for all plugins at once\")",
+    ".setName(\"Plugins\")": ".setName(\"Plugins\")",
+    ".setDesc(`Enable this if you want to have different settings depending whether you're using a desktop or mobile device. All of the settings below can be configured differently on desktop and mobile. You're currently using the ${this.lazyPlugin.device} settings.`)": ".setDesc(`Enable this if you want to have different settings depending whether you're using a desktop or mobile device. All of the settings below can be configured differently on desktop and mobile. You're currently using the ${this.lazyPlugin.device} settings.`)",
+    ".setDesc(\"Filter by: \")": ".setDesc(\"Filter by: \")",
+    "\"Short delay (seconds)\"": "\"Short delay (seconds)\"",
+    "\"Long delay (seconds)\"": "\"Long delay (seconds)\"",
+    "\"\\u26D4 Disable plugin\"": "\"\\u26D4 Disable plugin\"",
+    "\"\\u26A1 Instant\"": "\"\\u26A1 Instant\"",
+    "\"\\u231A Short delay\"": "\"\\u231A Short delay\"",
+    "\"\\u{1F4A4} Long delay\"": "\"\\u{1F4A4} Long delay\""
+  }
+}

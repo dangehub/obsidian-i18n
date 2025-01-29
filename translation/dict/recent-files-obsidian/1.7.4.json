@@ -1,0 +1,40 @@
+{
+  "manifest": {
+    "translationVersion": 1737116460269,
+    "pluginVersion": "1.7.4"
+  },
+  "description": {
+    "original": "List files by most recently opened",
+    "translation": "List files by most recently opened"
+  },
+  "dict": {
+    "Notice(\"List length must be a positive integer\")": "Notice(\"List length must be a positive integer\")",
+    "name:\"Open\"": "name:\"Open\"",
+    "text:\"Recent Files List\"": "text:\"Recent Files List\"",
+    ".setName(\"List length\")": ".setName(\"List length\")",
+    ".setDesc(\"Maximum number of filenames to keep in the list.\")": ".setDesc(\"Maximum number of filenames to keep in the list.\")",
+    ".setTitle(\"Open in new tab\")": ".setTitle(\"Open in new tab\")",
+    ".setTitle(\"Clear list\")": ".setTitle(\"Clear list\")",
+    ".setTitle(\"Close\")": ".setTitle(\"Close\")",
+    ".append(\" for help.\")": ".append(\" for help.\")",
+    ".createEl(\"h2\",{text:\"Recent Files List\"})": ".createEl(\"h2\",{text:\"Recent Files List\"})",
+    ".append(\"RegExp patterns to ignore. One pattern per line. See \"),e.append(C),e.append(\" for help.\")": ".append(\"RegExp patterns to ignore. One pattern per line. See \"),e.append(C),e.append(\" for help.\")",
+    ".Notice(\"Cannot find a file with that name\")": ".Notice(\"Cannot find a file with that name\")",
+    ".Notice(\"List length must be a positive integer\")": ".Notice(\"List length must be a positive integer\")",
+    ".setName(\"Omit bookmarked files\")": ".setName(\"Omit bookmarked files\")",
+    "Notice(\"Cannot find a file with that name\")": "Notice(\"Cannot find a file with that name\")",
+    ".log(\"Recent Files: Loading plugin v\"+this.manifest.version)": ".log(\"Recent Files: Loading plugin v\"+this.manifest.version)",
+    ".setName(\"Omitted pathname patterns\")": ".setName(\"Omitted pathname patterns\")",
+    ".setName(\"Omitted frontmatter tags\")": ".setName(\"Omitted frontmatter tags\")",
+    ".appendText(\"If this plugin adds value for you and you would like to help support continued development, please use the buttons below:\")": ".appendText(\"If this plugin adds value for you and you would like to help support continued development, please use the buttons below:\")",
+    ".append(\"RegExp patterns to ignore. One pattern per line. See \")": ".append(\"RegExp patterns to ignore. One pattern per line. See \")",
+    ".append(\"Frontmatter tags patterns to ignore. One pattern per line\")": ".append(\"Frontmatter tags patterns to ignore. One pattern per line\")",
+    ".setName(\"Omitted frontmatter-tag patterns\")": ".setName(\"Omitted frontmatter-tag patterns\")",
+    ".append(\"Frontmatter-tag patterns to ignore. One pattern per line.\")": ".append(\"Frontmatter-tag patterns to ignore. One pattern per line.\")",
+    ".error(\"Recent Files: Invalid regex pattern: \"+i)": ".error(\"Recent Files: Invalid regex pattern: \"+i)",
+    ".error(\"Recent Files: Invalid regex pattern: \"+g)": ".error(\"Recent Files: Invalid regex pattern: \"+g)",
+    ".setName(\"Update list when file is:\")": ".setName(\"Update list when file is:\")",
+    ".addOption(\"file-edit\",\"Changed\")": ".addOption(\"file-edit\",\"Changed\")",
+    ".addOption(\"file-open\",\"Opened\")": ".addOption(\"file-open\",\"Opened\")"
+  }
+}

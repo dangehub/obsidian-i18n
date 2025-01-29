@@ -1,0 +1,20 @@
+{
+  "manifest": {
+    "translationVersion": 1731239217322,
+    "pluginVersion": "1.0.9"
+  },
+  "description": {
+    "original": "Remember cursor and scroll position for each note",
+    "translation": "Remember cursor and scroll position for each note"
+  },
+  "dict": {
+    ".setName('Data file name')": ".setName('Data file name')",
+    ".setName('Delay after opening a new note')": ".setName('Delay after opening a new note')",
+    ".setName('Delay between saving the cursor position to file')": ".setName('Delay between saving the cursor position to file')",
+    ".setDesc('Save positions to this file')": ".setDesc('Save positions to this file')",
+    ".setDesc(\"Useful for multi-device users. If you don't want to wait until closing Obsidian to the cursor position been saved.\")": ".setDesc(\"Useful for multi-device users. If you don't want to wait until closing Obsidian to the cursor position been saved.\")",
+    ".setPlaceholder('Example: cursor-positions.json')": ".setPlaceholder('Example: cursor-positions.json')",
+    ".createEl('h2', { text: 'Remember cursor position - Settings' })": ".createEl('h2', { text: 'Remember cursor position - Settings' })",
+    " .setDesc(\"This plugin shouldn't scroll if you used a link to the note header like [link](note.md#header). If it did, then increase the delay until everything works. If you are not using links to page sections, set the delay to zero (slider to the left). Slider values: 0-300 ms (default value: 100 ms).\")": " .setDesc(\"This plugin shouldn't scroll if you used a link to the note header like [link](note.md#header). If it did, then increase the delay until everything works. If you are not using links to page sections, set the delay to zero (slider to the left). Slider values: 0-300 ms (default value: 100 ms).\")"
+  }
+}

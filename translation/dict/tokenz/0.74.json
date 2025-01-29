@@ -1,0 +1,28 @@
+{
+  "manifest": {
+    "translationVersion": 1732103899159,
+    "pluginVersion": "0.74"
+  },
+  "description": {
+    "original": "Insert shortcodes into your document, e.g smileys :) or emojis :wink: . User-defined short code maps are also supported.",
+    "translation": "Insert shortcodes into your document, e.g smileys :) or emojis :wink: . User-defined short code maps are also supported."
+  },
+  "dict": {
+    ".log(\"Code map list loaded, processing...\")": ".log(\"Code map list loaded, processing...\")",
+    ".log(`${loadResultMsgHeader} loaded`)": ".log(`${loadResultMsgHeader} loaded`)",
+    ".log(\"Tokenz loaded!\")": ".log(\"Tokenz loaded!\")",
+    ".log(\"Tokenz unloaded!\")": ".log(\"Tokenz unloaded!\")",
+    ".error(`Error loading file: ${fileName}, ${e}`)": ".error(`Error loading file: ${fileName}, ${e}`)",
+    ".setName(\"Suggestions\")": ".setName(\"Suggestions\")",
+    ".setName(\"Show suggestions\")": ".setName(\"Show suggestions\")",
+    ".setName(\"Replace tokens with icons\")": ".setName(\"Replace tokens with icons\")",
+    ".setName(\"Limit number of suggested tokens\")": ".setName(\"Limit number of suggested tokens\")",
+    ".setName(\"Editing\")": ".setName(\"Editing\")",
+    ".setName(\"Current word's highlighting mode\")": ".setName(\"Current word's highlighting mode\")",
+    ".setDesc(\"While typing: If enabled, a dropdown list will appear showing the actually matching tokens, if there's any.\")": ".setDesc(\"While typing: If enabled, a dropdown list will appear showing the actually matching tokens, if there's any.\")",
+    ".setDesc(\"Replace the selected token with its matching icon. If enabled, the choosed token's icon will be inserted directly into the text instead of the the token's name.\")": ".setDesc(\"Replace the selected token with its matching icon. If enabled, the choosed token's icon will be inserted directly into the text instead of the the token's name.\")",
+    ".setDesc('Only available when \"Show suggestions dropdown list\" is enabled')": ".setDesc('Only available when \"Show suggestions dropdown list\" is enabled')",
+    ".setDesc(\"Maximum number of suggestions to show in the dropdown list (per group; per code map)\")": ".setDesc(\"Maximum number of suggestions to show in the dropdown list (per group; per code map)\")",
+    "currentModeDesc = 'Completion (Suggested): Highlight if the current word is the beginning of a token. E.g. \":smi\" matches \":smile:\"';": "currentModeDesc = 'Completion (Suggested): Highlight if the current word is the beginning of a token. E.g. \":smi\" matches \":smile:\"';"
+  }
+}

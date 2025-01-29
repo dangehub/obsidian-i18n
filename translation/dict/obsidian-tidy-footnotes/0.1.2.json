@@ -1,0 +1,13 @@
+{
+  "manifest": {
+    "translationVersion": 1730719655464,
+    "pluginVersion": "0.1.2"
+  },
+  "description": {
+    "original": "Tidy your footnotes seamlessly.",
+    "translation": "Tidy your footnotes seamlessly."
+  },
+  "dict": {
+    "name: \"Tidy Footnotes\"": "name: \"Tidy Footnotes\""
+  }
+}

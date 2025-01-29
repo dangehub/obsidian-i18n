@@ -1,0 +1,32 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "1.0.0"
+  },
+  "description": {
+    "original": "View daily notes in a journal-like format, similar to Logseq. It enhances note organization and facilitates better reflection by consolidating daily notes into a continuous journaling view.",
+    "translation": "View daily notes in a journal-like format, similar to Logseq. It enhances note organization and facilitates better reflection by consolidating daily notes into a continuous journaling view."
+  },
+  "dict": {
+    ".log(\"unloading plugin\")": ".log(\"unloading plugin\")",
+    ".error(`Failed to update journaling file: ${u.path}`,i)": ".error(`Failed to update journaling file: ${u.path}`,i)",
+    ".error(`Failed to create journaling file: ${e}`,n)": ".error(`Failed to create journaling file: ${e}`,n)",
+    "text:\"format reference\"": "text:\"format reference\"",
+    "text:'Ensure file names within folders adhere to the \"Date Format.\"'": "text:'Ensure file names within folders adhere to the \"Date Format.\"'",
+    ".setName(\"Date Format\")": ".setName(\"Date Format\")",
+    ".setName(\"Journal File Name\")": ".setName(\"Journal File Name\")",
+    ".setName(\"Include Paths\")": ".setName(\"Include Paths\")",
+    ".setName(\"Filter By\")": ".setName(\"Filter By\")",
+    ".setName(\"Update Interval\")": ".setName(\"Update Interval\")",
+    ".setDesc(\"For more syntax, refer to \")": ".setDesc(\"For more syntax, refer to \")",
+    ".setDesc(\"Specifies the filename for the journaling view file. This file will be used to list and organize your journal entries.\")": ".setDesc(\"Specifies the filename for the journaling view file. This file will be used to list and organize your journal entries.\")",
+    ".setDesc(\"The daily notes located in these paths will be accessible via the journaling view.\")": ".setDesc(\"The daily notes located in these paths will be accessible via the journaling view.\")",
+    ".setDesc(\"Choose how the plugin displays journal entries based on their dates.\")": ".setDesc(\"Choose how the plugin displays journal entries based on their dates.\")",
+    ".setDesc(\"Set the interval at which the plugin scans the directories for changes. The interval is specified in seconds.\")": ".setDesc(\"Set the interval at which the plugin scans the directories for changes. The interval is specified in seconds.\")",
+    ".setPlaceholder(\"File name, e.g.: Journaling.md\")": ".setPlaceholder(\"File name, e.g.: Journaling.md\")",
+    ".setPlaceholder(\"Folder paths separated by commas, e.g.: path1/path2, path3, path4\")": ".setPlaceholder(\"Folder paths separated by commas, e.g.: path1/path2, path3, path4\")",
+    ".setPlaceholder(\"Interval in seconds, e.g.: 10\")": ".setPlaceholder(\"Interval in seconds, e.g.: 10\")",
+    ".addOption(\"new\",\"New -> Old\")": ".addOption(\"new\",\"New -> Old\")",
+    ".addOption(\"old\",\"Old -> New\")": ".addOption(\"old\",\"Old -> New\")"
+  }
+}

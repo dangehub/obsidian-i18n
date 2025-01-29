@@ -1,0 +1,31 @@
+{
+  "manifest": {
+    "translationVersion": 1731915556413,
+    "pluginVersion": "1.2.3"
+  },
+  "description": {
+    "original": "The plugin helps you to see the number of notes under each folder within the file explorer.",
+    "translation": "The plugin helps you to see the number of notes under each folder within the file explorer."
+  },
+  "dict": {
+    ".log('file-explorer not found, retrying...')": ".log('file-explorer not found, retrying...')",
+    ".log('loading FileExplorerNoteCount')": ".log('loading FileExplorerNoteCount')",
+    ".log('unloading FileExplorerNoteCount')": ".log('unloading FileExplorerNoteCount')",
+    ".error('failed to get file-explorer')": ".error('failed to get file-explorer')",
+    ".error('fileExplorer missing')": ".error('fileExplorer missing')",
+    ".error('file-explorer not found')": ".error('file-explorer not found')",
+    "text: 'File Explorer Note Count Settings'": "text: 'File Explorer Note Count Settings'",
+    ".setName('Show All Numbers')": ".setName('Show All Numbers')",
+    ".setName('Add Root Folder')": ".setName('Add Root Folder')",
+    ".setName('Show Only Markdown Notes')": ".setName('Show Only Markdown Notes')",
+    ".setName('Filter List')": ".setName('Filter List')",
+    ".setName('Enable Blacklist')": ".setName('Enable Blacklist')",
+    ".setDesc('Turn on this option if you want to see the number of notes even after you expand the collapsed folders')": ".setDesc('Turn on this option if you want to see the number of notes even after you expand the collapsed folders')",
+    ".setDesc('By default, there is no root folder provided by Obsidian. It is moved to drop-down menu to switch between vaults. ' +\n            'Enable this option if you want to see root folder and its count in the file explorer')": ".setDesc('By default, there is no root folder provided by Obsidian. It is moved to drop-down menu to switch between vaults. ' +\n            'Enable this option if you want to see root folder and its count in the file explorer')",
+    ".setDesc('Turn off this option to choose file that should be counted')": ".setDesc('Turn off this option to choose file that should be counted')",
+    ".setDesc('Turn on this option to use Filter List to exclude files')": ".setDesc('Turn on this option to use Filter List to exclude files')",
+    ".setPlaceholder('Leave it empty to count all types of files')": ".setPlaceholder('Leave it empty to count all types of files')",
+    ".appendText('Extension list to include/exclude file during counting')": ".appendText('Extension list to include/exclude file during counting')",
+    ".appendText('Separated by comma')": ".appendText('Separated by comma')"
+  }
+}

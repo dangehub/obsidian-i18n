@@ -1,0 +1,34 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "1.5.5"
+  },
+  "description": {
+    "original": "Customize your Obsidian vault with any font you want (+ Support for Android and IOS)",
+    "translation": "Customize your Obsidian vault with any font you want (+ Support for Android and IOS)"
+  },
+  "dict": {
+    "Notice(error)": "Notice(error)",
+    "Notice(\"Processing Font files\")": "Notice(\"Processing Font files\")",
+    ".log(\"loading %s\", font_file_name)": ".log(\"loading %s\", font_file_name)",
+    ".log(\"saved font %s into %s\", font_family_name, css_font_path)": ".log(\"saved font %s into %s\", font_family_name, css_font_path)",
+    ".log(\"Font CSS Saved into %s\", css_font_path)": ".log(\"Font CSS Saved into %s\", css_font_path)",
+    ".log(error)": ".log(error)",
+    "name: \"none\"": "name: \"none\"",
+    "name: \"all\"": "name: \"all\"",
+    ".setText(\n      \"In Order to set the font, copy your font into fonts directory that you set\"\n    )": ".setText(\n      \"In Order to set the font, copy your font into fonts directory that you set\"\n    )",
+    ".setButtonText(\"Reload\")": ".setButtonText(\"Reload\")",
+    ".setName(\"Fonts Folder\")": ".setName(\"Fonts Folder\")",
+    ".setName(\"Reload fonts from folder\")": ".setName(\"Reload fonts from folder\")",
+    ".setName(\"Font\")": ".setName(\"Font\")",
+    ".setName(\"Force Style\")": ".setName(\"Force Style\")",
+    ".setName(\"Custom CSS Mode\")": ".setName(\"Custom CSS Mode\")",
+    ".setName(\"Custom CSS Style\")": ".setName(\"Custom CSS Style\")",
+    ".setDesc(\"Folder to look for your custom fonts\")": ".setDesc(\"Folder to look for your custom fonts\")",
+    ".setDesc(\n      \"This button reloades from the folder you specified (it also creates the folder for you)\"\n    )": ".setDesc(\n      \"This button reloades from the folder you specified (it also creates the folder for you)\"\n    )",
+    ".setDesc(\n      `Choose font (If you can't see your fonts, make sure your fonts are in the folder you specified and hit reload. \n\t\t\t\tAlso if you choose multiple fonts option, we will load and process all fonts in the folder for you. In that Case, enable Custom CSS Mode)`\n    )": ".setDesc(\n      `Choose font (If you can't see your fonts, make sure your fonts are in the folder you specified and hit reload. \n\t\t\t\tAlso if you choose multiple fonts option, we will load and process all fonts in the folder for you. In that Case, enable Custom CSS Mode)`\n    )",
+    ".setDesc(\n      \"This option should only be used if you have installed a community theme and normal mode doesn't work\"\n    )": ".setDesc(\n      \"This option should only be used if you have installed a community theme and normal mode doesn't work\"\n    )",
+    ".setDesc(\n      \"If you want to apply a custom css style rather than default style, choose this.\"\n    )": ".setDesc(\n      \"If you want to apply a custom css style rather than default style, choose this.\"\n    )",
+    ".setDesc(\"Input your custom css style\")": ".setDesc(\"Input your custom css style\")"
+  }
+}

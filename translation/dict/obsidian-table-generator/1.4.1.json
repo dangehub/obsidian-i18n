@@ -1,0 +1,28 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "1.4.1"
+  },
+  "description": {
+    "original": "A plugin for generate markdown table quickly like Typora /card table in canvas .",
+    "translation": "A plugin for generate markdown table quickly like Typora /card table in canvas ."
+  },
+  "dict": {
+    "Notice(\"Please enter a valid number\")": "Notice(\"Please enter a valid number\")",
+    ".log(selectedGrid)": ".log(selectedGrid)",
+    ".log(canvasFileData)": ".log(canvasFileData)",
+    ".log(data)": ".log(data)",
+    ".log(\"Obsidian-Canvas-MindMap: canvas node patched\")": ".log(\"Obsidian-Canvas-MindMap: canvas node patched\")",
+    "name: \"Create Table Generator\"": "name: \"Create Table Generator\"",
+    "text: \"Table Generator\"": "text: \"Table Generator\"",
+    "text: \"Say Thank You\"": "text: \"Say Thank You\"",
+    ".setName(\"Row Count\")": ".setName(\"Row Count\")",
+    ".setName(\"Columns Count\")": ".setName(\"Columns Count\")",
+    ".setName(\"Donate\")": ".setName(\"Donate\")",
+    ".setDesc(\"The number of rows in the table\")": ".setDesc(\"The number of rows in the table\")",
+    ".setDesc(\"The number of columns in the table\")": ".setDesc(\"The number of columns in the table\")",
+    ".setDesc(\"If you like this plugin, consider donating to support continued development:\")": ".setDesc(\"If you like this plugin, consider donating to support continued development:\")",
+    ".setTitle(\"Add Markdown Table\")": ".setTitle(\"Add Markdown Table\")",
+    ".setTitle(\"Add Card Table\")": ".setTitle(\"Add Card Table\")"
+  }
+}

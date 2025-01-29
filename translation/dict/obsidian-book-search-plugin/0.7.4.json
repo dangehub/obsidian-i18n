@@ -1,0 +1,49 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "0.7.4"
+  },
+  "description": {
+    "original": "Helps you find books and create notes.",
+    "translation": "Helps you find books and create notes."
+  },
+  "dict": {
+    ".setButtonText(\"Save\")": ".setButtonText(\"Save\")",
+    ".setButtonText(\"API Check\")": ".setButtonText(\"API Check\")",
+    ".setButtonText(\"Save Key\")": ".setButtonText(\"Save Key\")",
+    ".setName(\"Client ID\")": ".setName(\"Client ID\")",
+    ".setName(\"Client Secret\")": ".setName(\"Client Secret\")",
+    ".setName(\"New file location\")": ".setName(\"New file location\")",
+    ".setName(\"New file name\")": ".setName(\"New file name\")",
+    ".setName(\"Template file\")": ".setName(\"Template file\")",
+    ".setName(\"Service Provider\")": ".setName(\"Service Provider\")",
+    ".setName(\"Preferred locale\")": ".setName(\"Preferred locale\")",
+    ".setName(\"Open New Book Note\")": ".setName(\"Open New Book Note\")",
+    ".setName(\"Show Cover Images in Search\")": ".setName(\"Show Cover Images in Search\")",
+    ".setName(\"Ask for Locale\")": ".setName(\"Ask for Locale\")",
+    ".setName(\"Enable Cover Image Save\")": ".setName(\"Enable Cover Image Save\")",
+    ".setName(\"Cover Image Path\")": ".setName(\"Cover Image Path\")",
+    ".setName(\"Description About Google API Settings\")": ".setName(\"Description About Google API Settings\")",
+    ".setName(\"Status Check\")": ".setName(\"Status Check\")",
+    ".setName(\"Set API Key\")": ".setName(\"Set API Key\")",
+    ".setName(\"Locale\")": ".setName(\"Locale\")",
+    ".setDesc(\"New book notes will be placed here.\")": ".setDesc(\"New book notes will be placed here.\")",
+    ".setDesc(\"Enter the file name format.\")": ".setDesc(\"Enter the file name format.\")",
+    ".setDesc(\"Choose the service provider you want to use to search your books.\")": ".setDesc(\"Choose the service provider you want to use to search your books.\")",
+    ".setDesc(\"Sets the preferred locale to use when searching for books.\")": ".setDesc(\"Sets the preferred locale to use when searching for books.\")",
+    ".setDesc(\"Enable or disable the automatic opening of the note on creation.\")": ".setDesc(\"Enable or disable the automatic opening of the note on creation.\")",
+    ".setDesc(\"Toggle to show or hide cover images in the search results.\")": ".setDesc(\"Toggle to show or hide cover images in the search results.\")",
+    ".setDesc(\"Toggle to enable or disable asking for the locale every time a search is made.\")": ".setDesc(\"Toggle to enable or disable asking for the locale every time a search is made.\")",
+    ".setDesc(\"Toggle to enable or disable saving cover images in notes.\")": ".setDesc(\"Toggle to enable or disable saving cover images in notes.\")",
+    ".setDesc(\"Specify the path where cover images should be saved.\")": ".setDesc(\"Specify the path where cover images should be saved.\")",
+    ".setDesc(\"**WARNING** please use this field after you must understand Google Cloud API, such as API key security.\")": ".setDesc(\"**WARNING** please use this field after you must understand Google Cloud API, such as API key security.\")",
+    ".setDesc(\"check whether API key is saved. It does not guarantee that the API key is valid or invalid.\")": ".setDesc(\"check whether API key is saved. It does not guarantee that the API key is valid or invalid.\")",
+    ".setPlaceholder(\"Example: folder1/folder2\")": ".setPlaceholder(\"Example: folder1/folder2\")",
+    ".setPlaceholder(\"Example: {{title}} - {{author}}\")": ".setPlaceholder(\"Example: {{title}} - {{author}}\")",
+    ".setPlaceholder(\"Example: templates/template-file\")": ".setPlaceholder(\"Example: templates/template-file\")",
+    ".setPlaceholder(\"Enter the path (e.g., Images/Covers)\")": ".setPlaceholder(\"Enter the path (e.g., Images/Covers)\")",
+    ".setPlaceholder(\"Search by keyword or ISBN\")": ".setPlaceholder(\"Search by keyword or ISBN\")",
+    ".createEl(\"h2\",{text:\"Service Provider Setting\"})": ".createEl(\"h2\",{text:\"Service Provider Setting\"})",
+    ".createEl(\"h2\",{text:\"Search Book\"})": ".createEl(\"h2\",{text:\"Search Book\"})"
+  }
+}

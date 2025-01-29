@@ -1,0 +1,41 @@
+{
+  "manifest": {
+    "translationVersion": 1737957407827,
+    "pluginVersion": "1.2.0"
+  },
+  "description": {
+    "original": "从标题级开始拖拽",
+    "translation": "从标题级开始拖拽"
+  },
+  "dict": {
+    ".log({ message: \"Excalidraw not available\", fn: getEA2 })": ".log({ message: \"Excalidraw not available\", fn: getEA2 })",
+    ".log(\"expect set description before closing Modal\", e)": ".log(\"expect set description before closing Modal\", e)",
+    "name: \"Set Default Label\"": "name: \"Set Default Label\"",
+    "name: \"Enable Auto Link\"": "name: \"Enable Auto Link\"",
+    "name: \"Disable Auto Link\"": "name: \"Disable Auto Link\"",
+    "name: \"Arrow to From\"": "name: \"Arrow to From\"",
+    "name: \"Arrow to End\"": "name: \"Arrow to End\"",
+    "name: \"Arrow to Both\"": "name: \"Arrow to Both\"",
+    "name: \"Arrow to None\"": "name: \"Arrow to None\"",
+    ".setName(\"Set your label\")": ".setName(\"Set your label\")",
+    ".setName(\"Drag symbol\")": ".setName(\"Drag symbol\")",
+    ".setName(\"Default folder\")": ".setName(\"Default folder\")",
+    ".setName(\"Symbol size (px)\")": ".setName(\"Symbol size (px)\")",
+    ".setDesc(`Create file${linkReferenceDescription}`)": ".setDesc(`Create file${linkReferenceDescription}`)",
+    ".setDesc(\"Enter empty could disable adding a label on the link edge automatically\")": ".setDesc(\"Enter empty could disable adding a label on the link edge automatically\")",
+    ".setDesc(\"You can set your prefer drag symbol here\")": ".setDesc(\"You can set your prefer drag symbol here\")",
+    ".setDesc(\"Default loction for new note. if empty, new note will be created in the vault root.\")": ".setDesc(\"Default loction for new note. if empty, new note will be created in the vault root.\")",
+    ".setPlaceholder(\"e.g. .*\\\\.md\")": ".setPlaceholder(\"e.g. .*\\\\.md\")",
+    ".setPlaceholder(\"e.g. .*\\\\.png\")": ".setPlaceholder(\"e.g. .*\\\\.png\")",
+    ".setPlaceholder(\"Enter your drag symbol here\")": ".setPlaceholder(\"Enter your drag symbol here\")",
+    ".setPlaceholder(\"/sub folder name\")": ".setPlaceholder(\"/sub folder name\")",
+    ".setTooltip(\"Create random block id\")": ".setTooltip(\"Create random block id\")",
+    ".setTooltip(\"Use Regular Expression\")": ".setTooltip(\"Use Regular Expression\")",
+    ".setTooltip(\"Match Case\")": ".setTooltip(\"Match Case\")",
+    ".setTooltip(\"Toggle Search Detail\")": ".setTooltip(\"Toggle Search Detail\")",
+    ".setTooltip(\"Toggle Layout Detail\")": ".setTooltip(\"Toggle Layout Detail\")",
+    ".setTitle(\"delete file\")": ".setTitle(\"delete file\")",
+    ".innerText = `Create file ${fileName}`": ".innerText = `Create file ${fileName}`",
+    ".innerText = `Link to block ${fileName}`": ".innerText = `Link to block ${fileName}`"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "manifest": {
+    "translationVersion": 1732443294533,
+    "pluginVersion": "1.0.5"
+  },
+  "description": {
+    "original": "Manage settings options, including show enabled/disabled plugins and css, grid layout, save current plugins/css enable config for quick enable/disable, etc.",
+    "translation": "Manage settings options, including show enabled/disabled plugins and css, grid layout, save current plugins/css enable config for quick enable/disable, etc."
+  },
+  "dict": {
+    "Notice(\"No saved configuration\")": "Notice(\"No saved configuration\")",
+    "Notice(\"Config name is empty.\")": "Notice(\"Config name is empty.\")",
+    ".log(`Can't find snippet: ${snippetName}`)": ".log(`Can't find snippet: ${snippetName}`)",
+    ".log(`Can't find plugin: ${pluginName}`)": ".log(`Can't find plugin: ${pluginName}`)",
+    ".setButtonText(\"Save\")": ".setButtonText(\"Save\")",
+    ".setName(\"Config name\")": ".setName(\"Config name\")",
+    ".setName(\"Config icon\")": ".setName(\"Config icon\")",
+    ".setDesc(\"Accepts lucide icon.(Click the icon to refresh. Svg icon in the future.)\")": ".setDesc(\"Accepts lucide icon.(Click the icon to refresh. Svg icon in the future.)\")",
+    ".setTooltip(\"Enabled\")": ".setTooltip(\"Enabled\")",
+    ".setTooltip(\"Disabled\")": ".setTooltip(\"Disabled\")",
+    ".setTooltip(\"All\")": ".setTooltip(\"All\")",
+    ".setTooltip(\"Grid layout\")": ".setTooltip(\"Grid layout\")",
+    ".setTooltip(\"List layout\")": ".setTooltip(\"List layout\")",
+    ".setTooltip(\"Save current configuration.\")": ".setTooltip(\"Save current configuration.\")",
+    ".setTitle(\"Delete\")": ".setTitle(\"Delete\")",
+    ".setTitle(\"Modify\")": ".setTitle(\"Modify\")",
+    ".setTitle(\"Rename css snippets config\")": ".setTitle(\"Rename css snippets config\")",
+    ".setTitle(\"Add new css snippets config\")": ".setTitle(\"Add new css snippets config\")",
+    ".setTitle(\"Modify plugins config\")": ".setTitle(\"Modify plugins config\")",
+    ".setTitle(\"Add new community plugins config\")": ".setTitle(\"Add new community plugins config\")"
+  }
+}

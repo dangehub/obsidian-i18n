@@ -1,0 +1,28 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "1.0.1"
+  },
+  "description": {
+    "original": "This Obsidian plugin expands or collapses the sidebars based on mouse hovering on the ribbons.",
+    "translation": "This Obsidian plugin expands or collapses the sidebars based on mouse hovering on the ribbons."
+  },
+  "dict": {
+    "Notice('Left Sidebar Expand on Hover Enabled')": "Notice('Left Sidebar Expand on Hover Enabled')",
+    "Notice('Left Sidebar Expand on Hover disabled')": "Notice('Left Sidebar Expand on Hover disabled')",
+    "Notice('Right Sidebar Expand on Hover Enabled')": "Notice('Right Sidebar Expand on Hover Enabled')",
+    "Notice('Right Sidebar Expand on Hover disabled')": "Notice('Right Sidebar Expand on Hover disabled')",
+    "name: 'Toggle Left Sidebar Behavior'": "name: 'Toggle Left Sidebar Behavior'",
+    "name: 'Toggle Right Sidebar Behavior'": "name: 'Toggle Right Sidebar Behavior'",
+    "text: 'Sidebar Expand On Hover'": "text: 'Sidebar Expand On Hover'",
+    "text: 'Enable Individual Sidebar'": "text: 'Enable Individual Sidebar'",
+    "text: 'Sidebar Expand Width'": "text: 'Sidebar Expand Width'",
+    ".setName('Left Sidebar')": ".setName('Left Sidebar')",
+    ".setName('Right Sidebar')": ".setName('Right Sidebar')",
+    ".setDesc('Toggle to enable/disable left sidebar expand on hover')": ".setDesc('Toggle to enable/disable left sidebar expand on hover')",
+    ".setDesc('Toggle to enable/disable right sidebar expand on hover')": ".setDesc('Toggle to enable/disable right sidebar expand on hover')",
+    ".setDesc('Set the width of left sidebar in pixel unit')": ".setDesc('Set the width of left sidebar in pixel unit')",
+    ".setDesc('Set the width of right sidebar in pixel unit')": ".setDesc('Set the width of right sidebar in pixel unit')",
+    ".setPlaceholder('Default: 252')": ".setPlaceholder('Default: 252')"
+  }
+}

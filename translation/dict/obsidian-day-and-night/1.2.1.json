@@ -1,0 +1,28 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "1.2.1"
+  },
+  "description": {
+    "original": "An Obsidian plugin to automatically toggle themes between day theme and night theme on a set time schedule.",
+    "translation": "An Obsidian plugin to automatically toggle themes between day theme and night theme on a set time schedule."
+  },
+  "dict": {
+    "name: \"Anno Domini\"": "name: \"Anno Domini\"",
+    "name: \"Before Christ\"": "name: \"Before Christ\"",
+    "text: \"Settings for Day and Night plugin.\"": "text: \"Settings for Day and Night plugin.\"",
+    ".setName(\"Enable Day and Night\")": ".setName(\"Enable Day and Night\")",
+    ".setName(\"Night Color Scheme\")": ".setName(\"Night Color Scheme\")",
+    ".setName(\"Night Theme\")": ".setName(\"Night Theme\")",
+    ".setName(\"Night Start Time\")": ".setName(\"Night Start Time\")",
+    ".setName(\"Day Color Scheme\")": ".setName(\"Day Color Scheme\")",
+    ".setName(\"Day Theme\")": ".setName(\"Day Theme\")",
+    ".setName(\"Day Start Time\")": ".setName(\"Day Start Time\")",
+    ".setDesc(\"Select a Night Color Scheme\")": ".setDesc(\"Select a Night Color Scheme\")",
+    ".setDesc(\"Select a Night Theme\")": ".setDesc(\"Select a Night Theme\")",
+    ".setDesc(\"24-hour format\")": ".setDesc(\"24-hour format\")",
+    ".setDesc(\"Select a Day Color Scheme\")": ".setDesc(\"Select a Day Color Scheme\")",
+    ".setDesc(\"Select a Day Theme\")": ".setDesc(\"Select a Day Theme\")",
+    ".setPlaceholder(\"HH:mm\")": ".setPlaceholder(\"HH:mm\")"
+  }
+}

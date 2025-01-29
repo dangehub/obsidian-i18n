@@ -1,0 +1,39 @@
+{
+  "manifest": {
+    "translationVersion": 1734756141572,
+    "pluginVersion": "1.7.0"
+  },
+  "description": {
+    "original": "Easily Shift and Change markdown headings.",
+    "translation": "Easily Shift and Change markdown headings."
+  },
+  "dict": {
+    "Notice(\"Cannot Increase (contains more than Heading 6)": "Notice(\"Cannot Increase (contains more than Heading 6)",
+    "Notice(`Cannot Decrease (contains less than Heading${Number(this.settings.limitHeadingFrom)": "Notice(`Cannot Decrease (contains less than Heading${Number(this.settings.limitHeadingFrom)",
+    ".error(error)": ".error(error)",
+    "name: `Apply Heading ${this.headingSize}`": "name: `Apply Heading ${this.headingSize}`",
+    "name: `Increase Headings${this.includesNoHeadingsLine ? \"(forced)\" : \"\"}`": "name: `Increase Headings${this.includesNoHeadingsLine ? \"(forced)\" : \"\"}`",
+    "name: \"Decrease Headings\"": "name: \"Decrease Headings\"",
+    "name: `Insert Heading at current level`": "name: `Insert Heading at current level`",
+    "name: `Insert Heading at one level deeper`": "name: `Insert Heading at one level deeper`",
+    "name: `Insert Heading at one level higher`": "name: `Insert Heading at one level higher`",
+    "text: \"Style to remove\"": "text: \"Style to remove\"",
+    "text: \"If this style is at the <position> of a line, remove it\"": "text: \"If this style is at the <position> of a line, remove it\"",
+    "text: \"Beginning\"": "text: \"Beginning\"",
+    "text: \"Surrounding\"": "text: \"Surrounding\"",
+    ".setName(\"Lower limit of Heading\")": ".setName(\"Lower limit of Heading\")",
+    ".setName(\"Enable override tab behavior\")": ".setName(\"Enable override tab behavior\")",
+    ".setName(\"Unordered list\")": ".setName(\"Unordered list\")",
+    ".setName(\"Ordered list\")": ".setName(\"Ordered list\")",
+    ".setName(\"User defined\")": ".setName(\"User defined\")",
+    ".setName(\"Bold\")": ".setName(\"Bold\")",
+    ".setName(\"Italic\")": ".setName(\"Italic\")",
+    ".setDesc(\"The lower Heading Size that will be decreased by the Heading Shift \")": ".setDesc(\"The lower Heading Size that will be decreased by the Heading Shift \")",
+    ".setDesc('Tab execute \"Increase Headings\" and Shift-Tab execute \"Decrease Headings\"')": ".setDesc('Tab execute \"Increase Headings\" and Shift-Tab execute \"Decrease Headings\"')",
+    ".setDesc(\"-\")": ".setDesc(\"-\")",
+    ".setDesc(\"1., 2. ,3. ,...\")": ".setDesc(\"1., 2. ,3. ,...\")",
+    ".setDesc(\"Arbitrary string (regular expression)\")": ".setDesc(\"Arbitrary string (regular expression)\")",
+    ".setDesc(\"**|__\")": ".setDesc(\"**|__\")",
+    ".setDesc(\"*|_\")": ".setDesc(\"*|_\")"
+  }
+}

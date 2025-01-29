@@ -1,0 +1,43 @@
+{
+  "manifest": {
+    "translationVersion": 1737031012917,
+    "pluginVersion": "1.5.4"
+  },
+  "description": {
+    "original": "This plugin automatically fetches the titles of links from the web",
+    "translation": "This plugin automatically fetches the titles of links from the web"
+  },
+  "dict": {
+    "name: \"Paste URL and auto fetch title\"": "name: \"Paste URL and auto fetch title\"",
+    "name: \"Normal paste (no fetching behavior)\"": "name: \"Normal paste (no fetching behavior)\"",
+    "name: \"Enhance existing URL with link and title\"": "name: \"Enhance existing URL with link and title\"",
+    ".setName(\"Enhance Default Paste\")": ".setName(\"Enhance Default Paste\")",
+    ".setName(\"Enhance Drop Events\")": ".setName(\"Enhance Drop Events\")",
+    ".setName(\"Maximum title length\")": ".setName(\"Maximum title length\")",
+    ".setName(\"Preserve selection as title\")": ".setName(\"Preserve selection as title\")",
+    ".setName(\"Website Blacklist\")": ".setName(\"Website Blacklist\")",
+    ".setName(\"Use New Scraper\")": ".setName(\"Use New Scraper\")",
+    ".setDesc(\"Fetch the link title when pasting a link in the editor with the default paste command\")": ".setDesc(\"Fetch the link title when pasting a link in the editor with the default paste command\")",
+    ".setDesc(\"Fetch the link title when drag and dropping a link from another program\")": ".setDesc(\"Fetch the link title when drag and dropping a link from another program\")",
+    ".setDesc(\"Set the maximum length of the title. Set to 0 to disable.\")": ".setDesc(\"Set the maximum length of the title. Set to 0 to disable.\")",
+    ".setDesc(\"Whether to prefer selected text as title over fetched title when pasting\")": ".setDesc(\"Whether to prefer selected text as title over fetched title when pasting\")",
+    ".setDesc(\"List of strings (comma separated) that disable autocompleting website titles. Can be URLs or arbitrary text.\")": ".setDesc(\"List of strings (comma separated) that disable autocompleting website titles. Can be URLs or arbitrary text.\")",
+    ".setDesc(\"Use experimental new scraper, seems to work well on desktop but not mobile.\")": ".setDesc(\"Use experimental new scraper, seems to work well on desktop but not mobile.\")",
+    ".setPlaceholder(\"localhost, tiktok.com\")": ".setPlaceholder(\"localhost, tiktok.com\")",
+    "Notice(\"LinkPreview API key must be 32 characters long\")": "Notice(\"LinkPreview API key must be 32 characters long\")",
+    ".log(\"loading obsidian-auto-link-title\")": ".log(\"loading obsidian-auto-link-title\")",
+    ".log(`Unable to find text \"${pasteId}\" in current editor, bailing out; link ${url}`)": ".log(`Unable to find text \"${pasteId}\" in current editor, bailing out; link ${url}`)",
+    ".log(`Title via Link Preview: ${title}`)": ".log(`Title via Link Preview: ${title}`)",
+    ".log(\"Title via Link Preview failed, falling back to scraper\")": ".log(\"Title via Link Preview failed, falling back to scraper\")",
+    ".log(\"Using new scraper\")": ".log(\"Using new scraper\")",
+    ".log(\"Using old scraper\")": ".log(\"Using old scraper\")",
+    ".log(`Title: ${title}`)": ".log(`Title: ${title}`)",
+    ".log(\"unloading obsidian-auto-link-title\")": ".log(\"unloading obsidian-auto-link-title\")",
+    ".error(ex)": ".error(ex)",
+    ".error(\"LinkPreview API key is not 32 characters long, please check your settings\")": ".error(\"LinkPreview API key is not 32 characters long, please check your settings\")",
+    ".setName(\"Use Better Fetching Placeholder\")": ".setName(\"Use Better Fetching Placeholder\")",
+    ".setName(\"LinkPreview API Key\")": ".setName(\"LinkPreview API Key\")",
+    ".setDesc(\"Use a more readable placeholder when fetching the title of a link.\")": ".setDesc(\"Use a more readable placeholder when fetching the title of a link.\")",
+    ".setDesc(\"API key for the LinkPreview.net service. Get one at https://my.linkpreview.net/access_keys\")": ".setDesc(\"API key for the LinkPreview.net service. Get one at https://my.linkpreview.net/access_keys\")"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "1.0.4"
+  },
+  "description": {
+    "original": "Get links to blocks and headings from Obsidian's right click menu",
+    "translation": "Get links to blocks and headings from Obsidian's right click menu"
+  },
+  "dict": {
+    "(isHeading ? \"Copy link to heading\"": "(isHeading ? \"Copy link to heading\"",
+    "(isHeading ? \"Copy heading embed\"": "(isHeading ? \"Copy heading embed\"",
+    "Copy link to block": "Copy link to block",
+    "Copy block embed": "Copy block embed",
+    "name: \"Copy link to current block or heading\"": "name: \"Copy link to current block or heading\"",
+    "name: \"Copy embed to current block or heading\"": "name: \"Copy embed to current block or heading\""
+  }
+}

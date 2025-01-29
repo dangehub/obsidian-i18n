@@ -1,0 +1,31 @@
+{
+  "manifest": {
+    "translationVersion": 1737461582058,
+    "pluginVersion": "1.3.0"
+  },
+  "description": {
+    "original": "This is a plugin for showing the current typing speed in the status bar",
+    "translation": "This is a plugin for showing the current typing speed in the status bar"
+  },
+  "dict": {
+    "text: \"Settings for typing-speed plugin\"": "text: \"Settings for typing-speed plugin\"",
+    "text: \"Counting\"": "text: \"Counting\"",
+    "text: \"Styling\"": "text: \"Styling\"",
+    ".setName(\"Typing speed metric\")": ".setName(\"Typing speed metric\")",
+    ".setName(\"Normalize word counting\")": ".setName(\"Normalize word counting\")",
+    ".setName(\"Show min-max typing speed\")": ".setName(\"Show min-max typing speed\")",
+    ".setName(\"Darken after 3 sec\")": ".setName(\"Darken after 3 sec\")",
+    ".setName(\"Display first\")": ".setName(\"Display first\")",
+    ".setDesc(\"choose which metric to use for typing speed\")": ".setDesc(\"choose which metric to use for typing speed\")",
+    ".setDesc(\"Replicate the word counting functionality of MonkeyType by considering each word as the number of characters divided by 5. While this method may not be as precise for direct word counting, it accounts for the varying lengths of words.\")": ".setDesc(\"Replicate the word counting functionality of MonkeyType by considering each word as the number of characters divided by 5. While this method may not be as precise for direct word counting, it accounts for the varying lengths of words.\")",
+    ".setDesc(\"Present the lowest and highest typing speeds observed, focusing specifically on the worst and best speeds recorded within 3-second intervals. Note that there is more numbers shifting per second so it may be more distracting\")": ".setDesc(\"Present the lowest and highest typing speeds observed, focusing specifically on the worst and best speeds recorded within 3-second intervals. Note that there is more numbers shifting per second so it may be more distracting\")",
+    ".setDesc(\"When you stop writing, after 3 seconds the typing speed display will darken or hide.\")": ".setDesc(\"When you stop writing, after 3 seconds the typing speed display will darken or hide.\")",
+    ".setDesc(\"Tweak the ordering in the status bar, to try to put the typing speed at first. Generally used to avoid shifting issue when trying to hide the typing speed. (This is a hack and may create little visual issues with other plugin)\")": ".setDesc(\"Tweak the ordering in the status bar, to try to put the typing speed at first. Generally used to avoid shifting issue when trying to hide the typing speed. (This is a hack and may create little visual issues with other plugin)\")",
+    ".addOption(\"darken\", \"darken - only make the status less visible\")": ".addOption(\"darken\", \"darken - only make the status less visible\")",
+    ".addOption(\"hide\", \"hide - fully hide the status\")": ".addOption(\"hide\", \"hide - fully hide the status\")",
+    ".addOption(\"show\", \"show - always show the status\")": ".addOption(\"show\", \"show - always show the status\")",
+    ".addOption(\"wpm\", \"word per minute\")": ".addOption(\"wpm\", \"word per minute\")",
+    ".addOption(\"cps\", \"character per second\")": ".addOption(\"cps\", \"character per second\")",
+    ".addOption(\"cpm\", \"character per minute\")": ".addOption(\"cpm\", \"character per minute\")"
+  }
+}
