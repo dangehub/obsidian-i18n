@@ -1,0 +1,21 @@
+{
+  "manifest": {
+    "translationVersion": 1731550330537,
+    "pluginVersion": "0.4.2"
+  },
+  "description": {
+    "original": "Allows to quickly insert and change latex environments within math environments.",
+    "translation": "Allows to quickly insert and change latex environments within math environments."
+  },
+  "dict": {
+    "name: \"Insert LaTeX environment\"": "name: \"Insert LaTeX environment\"",
+    "name: \"Change LaTeX environment\"": "name: \"Change LaTeX environment\"",
+    "name: \"Delete LaTeX environment\"": "name: \"Delete LaTeX environment\"",
+    ".setName(\"Default environment\")": ".setName(\"Default environment\")",
+    ".setName(\"Extra environments\")": ".setName(\"Extra environments\")",
+    ".setDesc(\"The default environment to insert\")": ".setDesc(\"The default environment to insert\")",
+    ".setDesc(\"Environment names to be suggested for completion (one per line)\")": ".setDesc(\"Environment names to be suggested for completion (one per line)\")",
+    ".setPlaceholder(\"environment name\")": ".setPlaceholder(\"environment name\")",
+    ".setPlaceholder(\"environment\")": ".setPlaceholder(\"environment\")"
+  }
+}
