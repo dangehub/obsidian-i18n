@@ -1,0 +1,23 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "1.2.8"
+  },
+  "description": {
+    "original": "Create simple callouts in lists.",
+    "translation": "Create simple callouts in lists."
+  },
+  "dict": {
+    "text: \" Sed eu nisl rhoncus, consectetur mi quis, scelerisque enim.\"": "text: \" Sed eu nisl rhoncus, consectetur mi quis, scelerisque enim.\"",
+    "text: \"Note: Using +, *, -, >, or # as the callout character can disrupt reading mode.\"": "text: \"Note: Using +, *, -, >, or # as the callout character can disrupt reading mode.\"",
+    "setText(\"Create a new Callout\"": "setText(\"Create a new Callout\"",
+    "setText(\"Create additional list callout styles.\"": "setText(\"Create additional list callout styles.\"",
+    "setButtonText(\"Set Icon\"": "setButtonText(\"Set Icon\"",
+    "setButtonText(\"Delete\"": "setButtonText(\"Delete\"",
+    "setButtonText(\"Create\"": "setButtonText(\"Create\"",
+    "appendText(\"See the Style Settings plugin for additional configuration options.\"": "appendText(\"See the Style Settings plugin for additional configuration options.\"",
+    ".setButtonText(\"Clear Icon\")": ".setButtonText(\"Clear Icon\")",
+    "text:\"Note: Using +, *, -, >, or # as the callout character can disrupt reading mode.\"": "text:\"Note: Using +, *, -, >, or # as the callout character can disrupt reading mode.\"",
+    "text:\" Sed eu nisl rhoncus, consectetur mi quis, scelerisque enim.\"": "text:\" Sed eu nisl rhoncus, consectetur mi quis, scelerisque enim.\""
+  }
+}
