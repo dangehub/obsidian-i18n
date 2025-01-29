@@ -1,0 +1,26 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "1.1.0"
+  },
+  "description": {
+    "original": "Enhance the audio player with interacive lyrics",
+    "translation": "Enhance the audio player with interacive lyrics"
+  },
+  "dict": {
+    "text: \"\",\n  timestr: \"": "text: \"\",\n  timestr: \"",
+    ".setName(\"Auto scroll\")": ".setName(\"Auto scroll\")",
+    ".setName(\"Sentence mode\")": ".setName(\"Sentence mode\")",
+    ".setDesc(\"Whether enable auto-scroll by default\")": ".setDesc(\"Whether enable auto-scroll by default\")",
+    ".setDesc(\"Whether enable sentence mode by default\")": ".setDesc(\"Whether enable sentence mode by default\")",
+    ".appendText(\n              `Error: Invalid source ${this.audioPath}.\n\t\t\t\t\t\t\t`\n            )": ".appendText(\n              `Error: Invalid source ${this.audioPath}.\n\t\t\t\t\t\t\t`\n            )",
+    ".setTitle(\"Play\")": ".setTitle(\"Play\")",
+    ".setTitle(\"Pause\")": ".setTitle(\"Pause\")",
+    ".setTitle(\"Seek\")": ".setTitle(\"Seek\")",
+    ".setTitle(\"Edit\")": ".setTitle(\"Edit\")",
+    ".setTitle(\"Copy current timestamp\")": ".setTitle(\"Copy current timestamp\")",
+    ".setTitle(\"Auto-scroll\")": ".setTitle(\"Auto-scroll\")",
+    ".setTitle(\"Sentence mode\")": ".setTitle(\"Sentence mode\")",
+    ".setTitle(\"Only show marked\")": ".setTitle(\"Only show marked\")"
+  }
+}
