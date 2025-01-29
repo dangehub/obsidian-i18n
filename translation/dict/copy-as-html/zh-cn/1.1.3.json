@@ -5,18 +5,18 @@
   },
   "description": {
     "original": "This is a simple plugin that converts the selected markdown to HTML and copies it to the clipboard.",
-    "translation": "This is a simple plugin that converts the selected markdown to HTML and copies it to the clipboard."
+    "translation": "这是一个简单的插件，可以将选定的标记转换为HTML并将其复制到剪贴板"
   },
   "dict": {
-    ".error(\"maximum nesting of 10 spans reached!!!\")": ".error(\"maximum nesting of 10 spans reached!!!\")",
-    "name: \"Copy as HTML command\"": "name: \"Copy as HTML command\"",
-    ".setName(\"Remove Wikilink brackets\")": ".setName(\"Remove Wikilink brackets\")",
-    ".setName(\"Remove text emphasis\")": ".setName(\"Remove text emphasis\")",
-    ".setName(\"Remove hashtags\")": ".setName(\"Remove hashtags\")",
-    ".setName(\"Remove comments\")": ".setName(\"Remove comments\")",
-    ".setDesc(\"If enabled, removes wikilink brackets from copied text.\")": ".setDesc(\"If enabled, removes wikilink brackets from copied text.\")",
-    ".setDesc(\"If enabled, removes text styling such as bold, italics, and highlights.\")": ".setDesc(\"If enabled, removes text styling such as bold, italics, and highlights.\")",
-    ".setDesc(\"If enabled, removes text immediately after a hashtag.\")": ".setDesc(\"If enabled, removes text immediately after a hashtag.\")",
-    ".setDesc(\"If enabled, removes commented text.\")": ".setDesc(\"If enabled, removes commented text.\")"
+    ".error(\"maximum nesting of 10 spans reached!!!\")": ".error(\"最多只能嵌套10个层次!!!\")",
+    "name: \"Copy as HTML command\"": "name: \"复制为HTML命令\"",
+    ".setName(\"Remove Wikilink brackets\")": ".setName(\"删除括号Wiki链接括号\")",
+    ".setName(\"Remove text emphasis\")": ".setName(\"删除文本加粗\")",
+    ".setName(\"Remove hashtags\")": ".setName(\"删除标签\")",
+    ".setName(\"Remove comments\")": ".setName(\"删除注释\")",
+    ".setDesc(\"If enabled, removes wikilink brackets from copied text.\")": ".setDesc(\"如果启用，则从复制的文本中删除Wiki链接括号\")",
+    ".setDesc(\"If enabled, removes text styling such as bold, italics, and highlights.\")": ".setDesc(\"如果启用，则删除文本样式，如粗体、斜体和高亮显示\")",
+    ".setDesc(\"If enabled, removes text immediately after a hashtag.\")": ".setDesc(\"如果启用，则立即删除标签及后面的文本\")",
+    ".setDesc(\"If enabled, removes commented text.\")": ".setDesc(\"如果启用，则删除注释文本\")"
   }
 }
