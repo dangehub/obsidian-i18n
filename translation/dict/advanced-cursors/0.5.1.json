@@ -1,0 +1,52 @@
+{
+  "manifest": {
+    "translationVersion": 1733638961669,
+    "pluginVersion": "0.5.1"
+  },
+  "description": {
+    "original": "Use multiple cursors even more powerfully.",
+    "translation": "Use multiple cursors even more powerfully."
+  },
+  "dict": {
+    "Notice(\"Copied to clipboard\")": "Notice(\"Copied to clipboard\")",
+    "Notice(\"Could not copy to clipboard\")": "Notice(\"Could not copy to clipboard\")",
+    "Notice(\"You must be focused on a markdown file.\")": "Notice(\"You must be focused on a markdown file.\")",
+    "Notice(\"Both 'name' and 'query' must have a value.\")": "Notice(\"Both 'name' and 'query' must have a value.\")",
+    "Notice(`A query with named \"${name}\" already exists`)": "Notice(`A query with named \"${name}\" already exists`)",
+    "Notice(`${name} → ${query} updated.`)": "Notice(`${name} → ${query} updated.`)",
+    "Notice(`${name} → ${query} added.`)": "Notice(`${name} → ${query} added.`)",
+    "Notice(`${displayQ(removedQ)": "Notice(`${displayQ(removedQ)",
+    "Notice(`Something went wrong when deleting that query. Check the console for errors.`)": "Notice(`Something went wrong when deleting that query. Check the console for errors.`)",
+    "Notice(`${matches.length} matches found.`)": "Notice(`${matches.length} matches found.`)",
+    "Notice(`No instance of '${toSelect}' found anywhere in note (that isn't already selected)": "Notice(`No instance of '${toSelect}' found anywhere in note (that isn't already selected)",
+    ".log({ reason })": ".log({ reason })",
+    ".log({ savedQs: settings.savedQueries, removedQ })": ".log({ savedQs: settings.savedQueries, removedQ })",
+    ".log(error)": ".log(error)",
+    ".log(\"Loading advanced cursors\")": ".log(\"Loading advanced cursors\")",
+    "name: `Obsidian.md.md`": "name: `Obsidian.md.md`",
+    "name: \"\", query: \"": "name: \"\", query: \"",
+    "name: \"\", query, flags: \"": "name: \"\", query, flags: \"",
+    "name: \"\",\n\t\t\t\tquery: queryEl.value,\n\t\t\t\tflags: flagsEl.value,\n\t\t\t\tregexQ: regexQEl.checked\n\t\t\t};\n\n\t\t\tmodal.close();\n\t\t\tplugin.selectInstance(ed, false, \"": "name: \"\",\n\t\t\t\tquery: queryEl.value,\n\t\t\t\tflags: flagsEl.value,\n\t\t\t\tregexQ: regexQEl.checked\n\t\t\t};\n\n\t\t\tmodal.close();\n\t\t\tplugin.selectInstance(ed, false, \"",
+    "name: \"Open Regex Match Modal\"": "name: \"Open Regex Match Modal\"",
+    "name: \"Move to next instance of current selection\"": "name: \"Move to next instance of current selection\"",
+    "name: \"Move to previous instance of current selection\"": "name: \"Move to previous instance of current selection\"",
+    "name: \"Add next instance of current selection to selections\"": "name: \"Add next instance of current selection to selections\"",
+    "name: \"Add previous instance of current selection to selections\"": "name: \"Add previous instance of current selection to selections\"",
+    "name: \"Copy Current Line Upwards\"": "name: \"Copy Current Line Upwards\"",
+    "name: \"Copy Current Line Downwards\"": "name: \"Copy Current Line Downwards\"",
+    "name: \"Add a cursor on the line above\"": "name: \"Add a cursor on the line above\"",
+    "name: \"Add a cursor on the line below\"": "name: \"Add a cursor on the line below\"",
+    "name: \"Insert an incrementing value at each cursor\"": "name: \"Insert an incrementing value at each cursor\"",
+    "name: \"Open Saved Query View\"": "name: \"Open Saved Query View\"",
+    "text: `Waiting for content from: '${source}'`": "text: `Waiting for content from: '${source}'`",
+    "text: \" → \"": "text: \" → \"",
+    "text: \"❌\"": "text: \"❌\"",
+    "text: \"✏️\"": "text: \"✏️\"",
+    "text: \"Advanced Cursors Settings\"": "text: \"Advanced Cursors Settings\"",
+    "text: \"Saved Queries\"": "text: \"Saved Queries\"",
+    "text: \"Add Query\"": "text: \"Add Query\"",
+    ".setName(\"Open Saved Query View on Load\")": ".setName(\"Open Saved Query View on Load\")",
+    ".setName(\"Show Command Notifications\")": ".setName(\"Show Command Notifications\")",
+    ".setDesc(\"If off, disables all notifications that are not caused by errors or changing settings.\")": ".setDesc(\"If off, disables all notifications that are not caused by errors or changing settings.\")"
+  }
+}
