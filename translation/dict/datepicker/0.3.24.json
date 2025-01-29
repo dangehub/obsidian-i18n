@@ -1,0 +1,52 @@
+{
+  "manifest": {
+    "translationVersion": 1730105964210,
+    "pluginVersion": "0.3.24"
+  },
+  "description": {
+    "original": "Use a date picker to modify and insert date/time anywhere in your markdown notes.",
+    "translation": "Use a date picker to modify and insert date/time anywhere in your markdown notes."
+  },
+  "dict": {
+    "Notice(\"Please select a date/time\")": "Notice(\"Please select a date/time\")",
+    "Notice(\"Please enter a valid date\")": "Notice(\"Please enter a valid date\")",
+    "Notice(\"Please enter a valid time\")": "Notice(\"Please enter a valid time\")",
+    "Notice(\"Please enter a valid date and time\")": "Notice(\"Please enter a valid date and time\")",
+    "Notice(\"No next date/time found\")": "Notice(\"No next date/time found\")",
+    "Notice(\"No previous date/time found\")": "Notice(\"No previous date/time found\")",
+    "Notice(\"Please enter a valid date/time\")": "Notice(\"Please enter a valid date/time\")",
+    ".error(\"position is undefined\")": ".error(\"position is undefined\")",
+    ".error(\"Could not find view container\")": ".error(\"Could not find view container\")",
+    "name: \"Edit date/time\"": "name: \"Edit date/time\"",
+    "name: \"Insert new date\"": "name: \"Insert new date\"",
+    "name: \"Insert new time\"": "name: \"Insert new time\"",
+    "name: \"Insert new date and time\"": "name: \"Insert new date and time\"",
+    "name: \"Insert current time\"": "name: \"Insert current time\"",
+    "name: \"Insert current date and time\"": "name: \"Insert current date and time\"",
+    "name: \"Insert current date\"": "name: \"Insert current date\"",
+    "name: \"Select next date/time\"": "name: \"Select next date/time\"",
+    "name: \"Select previous date/time\"": "name: \"Select previous date/time\"",
+    "\"Date Format\"": "\"Date Format\"",
+    "\"Use date format when modifying existing dates\"": "\"Use date format when modifying existing dates\"",
+    "\"Insert new time in 24 hour format\"": "\"Insert new time in 24 hour format\"",
+    "\"Show a picker button for dates\"": "\"Show a picker button for dates\"",
+    "\"Show a picker button for times\"": "\"Show a picker button for times\"",
+    "\"Show automatically\"": "\"Show automatically\"",
+    "\"Auto apply edits\"": "\"Auto apply edits\"",
+    "\"Immediately show calendar\"": "\"Immediately show calendar\"",
+    "\"Autofocus\"": "\"Autofocus\"",
+    "\"Focus on pressing down arrow key\"": "\"Focus on pressing down arrow key\"",
+    "\"Select date/time text\"": "\"Select date/time text\"",
+    "\"Choose your preferred date format for inserting new dates\"": "\"Choose your preferred date format for inserting new dates\"",
+    "\"Use the selected date format when modifying existing dates\"": "\"Use the selected date format when modifying existing dates\"",
+    "'Insert time in 24 hour format when performing \"Insert new time\" and \"Insert new date and time\" commands'": "'Insert time in 24 hour format when performing \"Insert new time\" and \"Insert new date and time\" commands'",
+    "\"Shows a button with a calendar icon associated with date values, select it to open the picker (Reloading Obsidian may be required)\"": "\"Shows a button with a calendar icon associated with date values, select it to open the picker (Reloading Obsidian may be required)\"",
+    "\"Shows a button with a clock icon associated with time values, select it to open the picker (Reloading Obsidian may be required)\"": "\"Shows a button with a clock icon associated with time values, select it to open the picker (Reloading Obsidian may be required)\"",
+    "\"Datepicker will show automatically whenever a date/time value is selected\"": "\"Datepicker will show automatically whenever a date/time value is selected\"",
+    "\"Will automatically apply edits made to the date when the datepicker closes or loses focus\"": "\"Will automatically apply edits made to the date when the datepicker closes or loses focus\"",
+    "\"Immediately show the calendar when the datepicker opens\"": "\"Immediately show the calendar when the datepicker opens\"",
+    "\"Automatically focus the datepicker whenever the datepicker opens\"": "\"Automatically focus the datepicker whenever the datepicker opens\"",
+    "\"Focuses the datepicker when the down arrow keyboard key is pressed\"": "\"Focuses the datepicker when the down arrow keyboard key is pressed\"",
+    "\"Automatically select the entire date/time text when a date/time is selected\"": "\"Automatically select the entire date/time text when a date/time is selected\""
+  }
+}
