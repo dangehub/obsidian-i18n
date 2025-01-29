@@ -1,0 +1,28 @@
+{
+  "manifest": {
+    "translationVersion": 1734069898158,
+    "pluginVersion": "1.1.1"
+  },
+  "description": {
+    "original": "Colorful, customizable toolbar, designed for mobile.",
+    "translation": "Colorful, customizable toolbar, designed for mobile."
+  },
+  "dict": {
+    ".setName(\"Mobile only\")": ".setName(\"Mobile only\")",
+    ".setDesc(\"Restart to apply changes\")": ".setDesc(\"Restart to apply changes\")",
+    ".setPlaceholder(\"Choose a command to add\")": ".setPlaceholder(\"Choose a command to add\")",
+    ".setPlaceholder(\"Choose an icon\")": ".setPlaceholder(\"Choose an icon\")",
+    ".createEl(\"h2\", { text: \"Gay Toolbar Settings\" })": ".createEl(\"h2\", { text: \"Gay Toolbar Settings\" })",
+    "{ label: \"Columns\", name: \"numCols\"": "{ label: \"Columns\", name: \"numCols\"",
+    "{ label: \"Rows\", name: \"numRows\"": "{ label: \"Rows\", name: \"numRows\"",
+    "{ label: \"Row height\", name: \"rowHeight\"": "{ label: \"Row height\", name: \"rowHeight\"",
+    "{ label: \"Gap\", name: \"gridGap\"": "{ label: \"Gap\", name: \"gridGap\"",
+    "{ label: \"Padding\", name: \"gridPadding\"": "{ label: \"Padding\", name: \"gridPadding\"",
+    "{ label: \"Long-press delay\", name: \"pressDelayMs\"": "{ label: \"Long-press delay\", name: \"pressDelayMs\"",
+    ": \"Background\" })": ": \"Background\" })",
+    "children: \"Custom CSS\"": "children: \"Custom CSS\"",
+    "children: \"Mobile only\"": "children: \"Mobile only\"",
+    "\"Buy me a plane ticket\"": "\"Buy me a plane ticket\"",
+    "children: \"Delete\"": "children: \"Delete\""
+  }
+}
