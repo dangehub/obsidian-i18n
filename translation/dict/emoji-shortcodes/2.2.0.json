@@ -1,0 +1,24 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "2.2.0"
+  },
+  "description": {
+    "original": "This Plugin enables the use of Markdown Emoji Shortcodes :smile:",
+    "translation": "This Plugin enables the use of Markdown Emoji Shortcodes :smile:"
+  },
+  "dict": {
+    ".setButtonText(\"Clear\")": ".setButtonText(\"Clear\")",
+    ".setName('Immediate Emoji Replace')": ".setName('Immediate Emoji Replace')",
+    ".setName('Emoji Suggester')": ".setName('Emoji Suggester')",
+    ".setName('Use History Priority')": ".setName('Use History Priority')",
+    ".setName('History Limit')": ".setName('History Limit')",
+    ".setName('Clear History')": ".setName('Clear History')",
+    ".setName('Donate')": ".setName('Donate')",
+    ".setDesc('If this is turned on, Emoji shortcodes will be immediately replaced after typing. Otherwise they are still stored as a shortcode and you only see the Emoji in Preview Mode.')": ".setDesc('If this is turned on, Emoji shortcodes will be immediately replaced after typing. Otherwise they are still stored as a shortcode and you only see the Emoji in Preview Mode.')",
+    ".setDesc('If this is turned on, a Suggester will appear everytime you type : followed by a letter. This will help you insert Emojis. (Doesn\\'t work on mobile)')": ".setDesc('If this is turned on, a Suggester will appear everytime you type : followed by a letter. This will help you insert Emojis. (Doesn\\'t work on mobile)')",
+    ".setDesc('Suggester gives priority to recently used emoji.')": ".setDesc('Suggester gives priority to recently used emoji.')",
+    ".setDesc('If you like this Plugin, consider donating to support continued development:')": ".setDesc('If you like this Plugin, consider donating to support continued development:')",
+    ".createEl('h2', { text: 'Emoji Shortcodes Plugin' })": ".createEl('h2', { text: 'Emoji Shortcodes Plugin' })"
+  }
+}
