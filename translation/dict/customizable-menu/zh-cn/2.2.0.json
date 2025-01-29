@@ -5,18 +5,18 @@
   },
   "description": {
     "original": "Allows you to add any command to Obsidian's right-click menu.",
-    "translation": "Allows you to add any command to Obsidian's right-click menu."
+    "translation": "允许你向Obsidian的右键菜单添加或隐藏任何命令"
   },
   "dict": {
-    ".setButtonText(\"Add Command\")": ".setButtonText(\"Add Command\")",
-    ".setName(\"Add command to menu\")": ".setName(\"Add command to menu\")",
-    ".setDesc(\"Add a new command to the right-click menu\")": ".setDesc(\"Add a new command to the right-click menu\")",
-    ".setDesc(\"Enter the names of the commands as a comma-separated list. Commands are case-sensitive. You will need to restart Obsidian for the changes to take effect.\")": ".setDesc(\"Enter the names of the commands as a comma-separated list. Commands are case-sensitive. You will need to restart Obsidian for the changes to take effect.\")",
-    ".setPlaceholder(\"Pick an icon\")": ".setPlaceholder(\"Pick an icon\")",
-    ".setPlaceholder('Enter commands to hide')": ".setPlaceholder('Enter commands to hide')",
-    ".setTooltip(\"Remove command\")": ".setTooltip(\"Remove command\")",
-    ".setTooltip(\"Edit icon\")": ".setTooltip(\"Edit icon\")",
-    ".createEl('h2', { text: 'Add commands' })": ".createEl('h2', { text: 'Add commands' })",
-    ".createEl('h2', { text: 'Hide commands' })": ".createEl('h2', { text: 'Hide commands' })"
+    ".setButtonText(\"Add Command\")": ".setButtonText(\"添加命令\")",
+    ".setName(\"Add command to menu\")": ".setName(\"将命令添加到菜单\")",
+    ".setDesc(\"Add a new command to the right-click menu\")": ".setDesc(\"向右键菜单添加一个新的命令\")",
+    ".setDesc(\"Enter the names of the commands as a comma-separated list. Commands are case-sensitive. You will need to restart Obsidian for the changes to take effect.\")": ".setDesc(\"输入你需要隐藏的命令，多条命令用逗号隔开。命令区分大小写。你需要重启Obsidian以使更改生效。\")",
+    ".setPlaceholder(\"Pick an icon\")": ".setPlaceholder(\"选择一个图标\")",
+    ".setPlaceholder('Enter commands to hide')": ".setPlaceholder('输入要隐藏的命令')",
+    ".setTooltip(\"Remove command\")": ".setTooltip(\"移除命令\")",
+    ".setTooltip(\"Edit icon\")": ".setTooltip(\"编辑图标\")",
+    ".createEl('h2', { text: 'Add commands' })": ".createEl('h2', { text: '添加命令' })",
+    ".createEl('h2', { text: 'Hide commands' })": ".createEl('h2', { text: '隐藏命令' })"
   }
 }
