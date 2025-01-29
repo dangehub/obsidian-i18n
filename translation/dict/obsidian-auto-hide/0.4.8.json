@@ -1,0 +1,20 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "0.4.8"
+  },
+  "description": {
+    "original": "Collapse sidebars when clicking on the editor/viewer panel",
+    "translation": "Collapse sidebars when clicking on the editor/viewer panel"
+  },
+  "dict": {
+    "text: \"Settings for Auto Hide plugin.\"": "text: \"Settings for Auto Hide plugin.\"",
+    "text: \"EXPERIMENTAL!\"": "text: \"EXPERIMENTAL!\"",
+    ".setName(\"Expand the sidebar with a ribbon\")": ".setName(\"Expand the sidebar with a ribbon\")",
+    ".setName(\"Expand the sidebar with a note title\")": ".setName(\"Expand the sidebar with a note title\")",
+    ".setName(\"Lock sidebar collapse\")": ".setName(\"Lock sidebar collapse\")",
+    ".setDesc(\"Click on the blank area of ribbon to expand the sidebar.\")": ".setDesc(\"Click on the blank area of ribbon to expand the sidebar.\")",
+    ".setDesc(\"Click on the note title to expand the left sidebar.\")": ".setDesc(\"Click on the note title to expand the left sidebar.\")",
+    ".setDesc(\"Add a pin that can temporarily lock the sidebar collapse.\")": ".setDesc(\"Add a pin that can temporarily lock the sidebar collapse.\")"
+  }
+}
