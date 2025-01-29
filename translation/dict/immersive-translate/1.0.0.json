@@ -1,0 +1,13 @@
+{
+  "manifest": {
+    "translationVersion": 1730692079686,
+    "pluginVersion": "1.0.0"
+  },
+  "description": {
+    "original": "Translate plugin setting page.",
+    "translation": "Translate plugin setting page."
+  },
+  "dict": {
+    ".addRibbonIcon(\"languages\", \"Translate\"": ".addRibbonIcon(\"languages\", \"Translate\""
+  }
+}
