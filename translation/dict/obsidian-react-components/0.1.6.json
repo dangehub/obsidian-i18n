@@ -1,0 +1,20 @@
+{
+  "manifest": {
+    "translationVersion": 1729410221634,
+    "pluginVersion": "0.1.6"
+  },
+  "description": {
+    "original": "This is a plugin for Obsidian. It allows you to write and use React components with Jsx inside your Obsidian notes.",
+    "translation": "This is a plugin for Obsidian. It allows you to write and use React components with Jsx inside your Obsidian notes."
+  },
+  "dict": {
+    "Notice(`\"${file.basename}.${file.extension}\" is not a markdown file`)": "Notice(`\"${file.basename}.${file.extension}\" is not a markdown file`)",
+    "Notice(`\"${file.basename}\" is not a valid function name`)": "Notice(`\"${file.basename}\" is not a valid function name`)",
+    "text: 'React Components Settings'": "text: 'React Components Settings'",
+    ".setName('Components folder location')": ".setName('Components folder location')",
+    ".setName('Automatically Refresh Components')": ".setName('Automatically Refresh Components')",
+    ".setDesc('Files in this folder will be available as components/functions.')": ".setDesc('Files in this folder will be available as components/functions.')",
+    ".setDesc('Useful to disable if reloading components is costly (like if they perform api calls or read a lot of files). To refresh the components manually, run the `Refresh React Components` command')": ".setDesc('Useful to disable if reloading components is costly (like if they perform api calls or read a lot of files). To refresh the components manually, run the `Refresh React Components` command')",
+    ".setPlaceholder('Example: folder 1/folder 2')": ".setPlaceholder('Example: folder 1/folder 2')"
+  }
+}
