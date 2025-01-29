@@ -1,0 +1,17 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "1.0.0"
+  },
+  "description": {
+    "original": "换回原来的保险库转换器。",
+    "translation": "换回原来的保险库转换器。"
+  },
+  "dict": {
+    "text: \"Ribbon Button Settings\"": "text: \"Ribbon Button Settings\"",
+    "": "",
+    ".addToggle(\"Vault Switcher\", \"restoreVaultSwitcher\", \"Show or hide the vault switcher button\");": ".addToggle(\"Vault Switcher\", \"restoreVaultSwitcher\", \"Show or hide the vault switcher button\");",
+    ".addToggle(\"Help\", \"restoreVaultActionsHelp\", \"Show or hide the help button\");": ".addToggle(\"Help\", \"restoreVaultActionsHelp\", \"Show or hide the help button\");",
+    ".addToggle(\"Settings\", \"restoreVaultActionsSettings\", \"Show or hide the settings button\");": ".addToggle(\"Settings\", \"restoreVaultActionsSettings\", \"Show or hide the settings button\");"
+  }
+}
