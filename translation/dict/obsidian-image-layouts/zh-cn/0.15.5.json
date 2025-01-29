@@ -9,9 +9,9 @@
   },
   "dict": {
     ".log(f.detail.type)": ".log(f.detail.type)",
-    ".log(\"unloading plugin\")": ".log(\"unloading plugin\")",
+    ".log(\"unloading plugin\")": ".log(\"卸载插件\")",
     "link:\"https://via.placeholder.com/640x480\"": "link:\"https://via.placeholder.com/640x480\"",
-    ".setName(\"Should Overlay Permanently\")": ".setName(\"Should Overlay Permanently\")",
-    ".setDesc(\"Image overlays don't require hovering\")": ".setDesc(\"Image overlays don't require hovering\")"
+    ".setName(\"Should Overlay Permanently\")": ".setName(\"应该永久叠加\")",
+    ".setDesc(\"Image overlays don't require hovering\")": ".setDesc(\"图像叠加不需要悬停\")"
   }
 }
