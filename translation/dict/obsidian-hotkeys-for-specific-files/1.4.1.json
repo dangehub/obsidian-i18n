@@ -1,0 +1,29 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "1.4.1"
+  },
+  "description": {
+    "original": "Set hotkeys for specific files and open them just with your keyboard.",
+    "translation": "Set hotkeys for specific files and open them just with your keyboard."
+  },
+  "dict": {
+    ".setButtonText(\"Add\")": ".setButtonText(\"Add\")",
+    ".setButtonText(\"Create\")": ".setButtonText(\"Create\")",
+    ".setName(\"Prefer existing panes\")": ".setName(\"Prefer existing panes\")",
+    ".setName(\"Add command to open file in Hover Editor\")": ".setName(\"Add command to open file in Hover Editor\")",
+    ".setName(\"Add new commands (required after changes)\")": ".setName(\"Add new commands (required after changes)\")",
+    ".setName(\"Create new text field\")": ".setName(\"Create new text field\")",
+    ".setName(\"Create new text field with moment format\")": ".setName(\"Create new text field with moment format\")",
+    ".setName(\"File to open with command (with moment format)\")": ".setName(\"File to open with command (with moment format)\")",
+    ".setName(\"File to open with command\")": ".setName(\"File to open with command\")",
+    ".setDesc(\n      \"Turn on to prefer existing panes and only open it in the current pane if the files isn't opened already.\"\n    )": ".setDesc(\n      \"Turn on to prefer existing panes and only open it in the current pane if the files isn't opened already.\"\n    )",
+    ".setDesc(\n      \"Needs the Hover Editor plugin to be installed and enabled.\"\n    )": ".setDesc(\n      \"Needs the Hover Editor plugin to be installed and enabled.\"\n    )",
+    ".setDesc(\n      \"To remove already added commands, you have to reload Obsidian (or disable and enable this plugin) \"\n    )": ".setDesc(\n      \"To remove already added commands, you have to reload Obsidian (or disable and enable this plugin) \"\n    )",
+    ".setDesc(\n        \"Include file extension(e.g. .md)! Is excluded from moment format.\"\n      )": ".setDesc(\n        \"Include file extension(e.g. .md)! Is excluded from moment format.\"\n      )",
+    ".setDesc(\"Include file extension(e.g. .md)!\")": ".setDesc(\"Include file extension(e.g. .md)!\")",
+    ".setPlaceholder(\"Directory/file.md\")": ".setPlaceholder(\"Directory/file.md\")",
+    ".appendText(\"For syntax, refer to \")": ".appendText(\"For syntax, refer to \")",
+    ".appendText(\n              \"Your current syntax looks like this: \"\n            )": ".appendText(\n              \"Your current syntax looks like this: \"\n            )"
+  }
+}
