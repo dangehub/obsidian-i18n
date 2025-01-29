@@ -1,0 +1,20 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "0.5.17-1"
+  },
+  "description": {
+    "original": "Allows for rearranging the elements in the status bar and sidebar ribbon",
+    "translation": "Allows for rearranging the elements in the status bar and sidebar ribbon"
+  },
+  "dict": {
+    ".setName(\"Support collapse\")": ".setName(\"Support collapse\")",
+    ".setName(\"Auto Collapse\")": ".setName(\"Auto Collapse\")",
+    ".setName(\"Auto Collapse Delay\")": ".setName(\"Auto Collapse Delay\")",
+    ".setName(\"Drag Start Delay (ms)\")": ".setName(\"Drag Start Delay (ms)\")",
+    ".setDesc(\"Add a button to collapse the ribbon and status bar items\")": ".setDesc(\"Add a button to collapse the ribbon and status bar items\")",
+    ".setDesc(\"Automatically hide ribbon and status bar items once your mouse leaves the icon container\")": ".setDesc(\"Automatically hide ribbon and status bar items once your mouse leaves the icon container\")",
+    ".setDesc(\"How long to wait before auto collapsing hidden icons on the ribbon and status bar\")": ".setDesc(\"How long to wait before auto collapsing hidden icons on the ribbon and status bar\")",
+    ".setDesc(\"How long to wait before triggering the drag behavior after clicking. \\u26A0\\uFE0F Requires an app restart.\")": ".setDesc(\"How long to wait before triggering the drag behavior after clicking. \\u26A0\\uFE0F Requires an app restart.\")"
+  }
+}
