@@ -1,0 +1,15 @@
+{
+  "manifest": {
+    "translationVersion": 1733639239829,
+    "pluginVersion": "0.3.1"
+  },
+  "description": {
+    "original": "Wiki-like table sorting.",
+    "translation": "Wiki-like table sorting."
+  },
+  "dict": {
+    ".log(\"Sortable: loading plugin...\")": ".log(\"Sortable: loading plugin...\")",
+    ".log(\"Sortable: loaded plugin.\")": ".log(\"Sortable: loaded plugin.\")",
+    ".log(\"Sortable: unloaded plugin.\")": ".log(\"Sortable: unloaded plugin.\")"
+  }
+}
