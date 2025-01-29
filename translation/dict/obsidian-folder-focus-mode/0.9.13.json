@@ -1,0 +1,26 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "0.9.13"
+  },
+  "description": {
+    "original": "Focus file explorer on chosen folder and its files and subdirectories, while hiding all the other elements.",
+    "translation": "Focus file explorer on chosen folder and its files and subdirectories, while hiding all the other elements."
+  },
+  "dict": {
+    ".setName(\"Auto-Focus when hidden\")": ".setName(\"Auto-Focus when hidden\")",
+    ".setName(\"Auto-Focus on root\")": ".setName(\"Auto-Focus on root\")",
+    ".setName(\"Force auto-focus on parent directory\")": ".setName(\"Force auto-focus on parent directory\")",
+    ".setName(\"Simplified view\")": ".setName(\"Simplified view\")",
+    ".setName(\"Button on explorer\")": ".setName(\"Button on explorer\")",
+    ".setName(\"Show focus option on file context menu\")": ".setName(\"Show focus option on file context menu\")",
+    ".setName(\"Folder Note: External files\")": ".setName(\"Folder Note: External files\")",
+    ".setDesc(\"Ensures the plugin focuses automatically on directory of newly opened files, if they are not visible right now\")": ".setDesc(\"Ensures the plugin focuses automatically on directory of newly opened files, if they are not visible right now\")",
+    ".setDesc(\"Focus on the first folder from root if the auto focus setting is enabled\")": ".setDesc(\"Focus on the first folder from root if the auto focus setting is enabled\")",
+    ".setDesc(\"Always auto-focus on the parent directory of current file, even if it is already visible\")": ".setDesc(\"Always auto-focus on the parent directory of current file, even if it is already visible\")",
+    ".setDesc(\"Hide parent directories when focusing on a folder (saves space when using nested folders)\")": ".setDesc(\"Hide parent directories when focusing on a folder (saves space when using nested folders)\")",
+    ".setDesc(\"Add a button on the top of the file explorer\")": ".setDesc(\"Add a button on the top of the file explorer\")",
+    ".setDesc('Show \"Focus on this file\" option in file context menu')": ".setDesc('Show \"Focus on this file\" option in file context menu')",
+    ".setDesc(\"Focus on the folder linked with the folder note\")": ".setDesc(\"Focus on the folder linked with the folder note\")"
+  }
+}
