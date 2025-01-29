@@ -1,0 +1,20 @@
+{
+  "manifest": {
+    "translationVersion": 1733653826257,
+    "pluginVersion": "1.0.22"
+  },
+  "description": {
+    "original": "This plugin enables you to increase/decrease the size of an image by scrolling",
+    "translation": "This plugin enables you to increase/decrease the size of an image by scrolling"
+  },
+  "dict": {
+    ".setName('Trigger Key')": ".setName('Trigger Key')",
+    ".setName('Step size')": ".setName('Step size')",
+    ".setName('Initial Size')": ".setName('Initial Size')",
+    ".setDesc('Key that needs to be pressed down for mousewheel zoom to work.')": ".setDesc('Key that needs to be pressed down for mousewheel zoom to work.')",
+    ".setDesc('Step value by which the size of the image should be increased/decreased')": ".setDesc('Step value by which the size of the image should be increased/decreased')",
+    ".setDesc('Initial image size if no size was defined beforehand')": ".setDesc('Initial image size if no size was defined beforehand')",
+    ".log(\"Loaded: Mousewheel image zoom\")": ".log(\"Loaded: Mousewheel image zoom\")",
+    "text: 'Settings for mousewheel zoom'": "text: 'Settings for mousewheel zoom'"
+  }
+}
