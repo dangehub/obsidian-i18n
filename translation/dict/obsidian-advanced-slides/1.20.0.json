@@ -1,0 +1,49 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "1.20.0"
+  },
+  "description": {
+    "original": "Create markdown-based presentations in Obsidian",
+    "translation": "Create markdown-based presentations in Obsidian"
+  },
+  "dict": {
+    ".setName(\"Slide Preview Mode\")": ".setName(\"Slide Preview Mode\")",
+    ".setName(\"Port\")": ".setName(\"Port\")",
+    ".setName(\"Auto Reload\")": ".setName(\"Auto Reload\")",
+    ".setName(\"Auto Complete\")": ".setName(\"Auto Complete\")",
+    ".setName(\"Export Directory\")": ".setName(\"Export Directory\")",
+    ".setName(\"Theme\")": ".setName(\"Theme\")",
+    ".setName(\"Highlight Theme\")": ".setName(\"Highlight Theme\")",
+    ".setName(\"Transition Style\")": ".setName(\"Transition Style\")",
+    ".setName(\"Transition Speed\")": ".setName(\"Transition Speed\")",
+    ".setName(\"Controls\")": ".setName(\"Controls\")",
+    ".setName(\"Progress Bar\")": ".setName(\"Progress Bar\")",
+    ".setName(\"Slide Numbers\")": ".setName(\"Slide Numbers\")",
+    ".setName(\"Menu\")": ".setName(\"Menu\")",
+    ".setName(\"Overview\")": ".setName(\"Overview\")",
+    ".setName(\"Chalkboard\")": ".setName(\"Chalkboard\")",
+    ".setName(\"Elapsed Time Bar\")": ".setName(\"Elapsed Time Bar\")",
+    ".setName(\"Laser Pointer\")": ".setName(\"Laser Pointer\")",
+    ".setDesc(\"How should slide previews be displayed?\")": ".setDesc(\"How should slide previews be displayed?\")",
+    ".setDesc(\"On which port should Advanced Slides run? (default: 3000)\")": ".setDesc(\"On which port should Advanced Slides run? (default: 3000)\")",
+    ".setDesc(\"Should the slide preview window be updated when a change in source file is detected?\")": ".setDesc(\"Should the slide preview window be updated when a change in source file is detected?\")",
+    ".setDesc(\"Do you want to auto-complete inputs?\")": ".setDesc(\"Do you want to auto-complete inputs?\")",
+    ".setDesc(\"Where should Advanced Slides export presentations?\")": ".setDesc(\"Where should Advanced Slides export presentations?\")",
+    ".setDesc(\"Which theme should be used for your slides?\")": ".setDesc(\"Which theme should be used for your slides?\")",
+    ".setDesc(\"Which highlight theme should be used for your slides?\")": ".setDesc(\"Which highlight theme should be used for your slides?\")",
+    ".setDesc(\"How should the transition between slides look like?\")": ".setDesc(\"How should the transition between slides look like?\")",
+    ".setDesc(\"How fast should the transition between two slides be?\")": ".setDesc(\"How fast should the transition between two slides be?\")",
+    ".setDesc(\"Display presentation control arrows?\")": ".setDesc(\"Display presentation control arrows?\")",
+    ".setDesc(\"Display presentation progress bar?\")": ".setDesc(\"Display presentation progress bar?\")",
+    ".setDesc(\"Display the page number of the current slide?\")": ".setDesc(\"Display the page number of the current slide?\")",
+    ".setDesc(\"Display presentation menu button?\")": ".setDesc(\"Display presentation menu button?\")",
+    ".setDesc(\"Display presentation  overview button?\")": ".setDesc(\"Display presentation  overview button?\")",
+    ".setDesc(\"Should the slides contain a chalkboard ?\")": ".setDesc(\"Should the slides contain a chalkboard ?\")",
+    ".setDesc(\"Display elapsed time bar?\")": ".setDesc(\"Display elapsed time bar?\")",
+    ".setDesc(\"Changes your mouse into a laser pointer (Toggle with Q)\")": ".setDesc(\"Changes your mouse into a laser pointer (Toggle with Q)\")",
+    ".setPlaceholder(\"Folder\")": ".setPlaceholder(\"Folder\")",
+    ".createEl(\"h2\",{text:\"Slide Settings\"})": ".createEl(\"h2\",{text:\"Slide Settings\"})",
+    ".createEl(\"h2\",{text:\"Plugins\"})": ".createEl(\"h2\",{text:\"Plugins\"})"
+  }
+}
