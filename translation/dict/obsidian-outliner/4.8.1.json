@@ -1,0 +1,35 @@
+{
+  "manifest": {
+    "translationVersion": 1731939329689,
+    "pluginVersion": "4.8.1"
+  },
+  "description": {
+    "original": "Work with your lists like in Workflowy or RoamResearch.",
+    "translation": "Work with your lists like in Workflowy or RoamResearch."
+  },
+  "dict": {
+    ".setText(\"System Information\")": ".setText(\"System Information\")",
+    ".setText(\"Copy and Close\")": ".setText(\"Copy and Close\")",
+    ".setName(\"Stick the cursor to the content\")": ".setName(\"Stick the cursor to the content\")",
+    ".setName(\"Enhance the Tab key\")": ".setName(\"Enhance the Tab key\")",
+    ".setName(\"Enhance the Enter key\")": ".setName(\"Enhance the Enter key\")",
+    ".setName(\"Enhance the Ctrl+A or Cmd+A behavior\")": ".setName(\"Enhance the Ctrl+A or Cmd+A behavior\")",
+    ".setName(\"Improve the style of your lists\")": ".setName(\"Improve the style of your lists\")",
+    ".setName(\"Draw vertical indentation lines\")": ".setName(\"Draw vertical indentation lines\")",
+    ".setName(\"Drag-and-Drop\")": ".setName(\"Drag-and-Drop\")",
+    ".setName(\"Debug mode\")": ".setName(\"Debug mode\")",
+    ".setDesc(\"Don't let the cursor move to the bullet position.\")": ".setDesc(\"Don't let the cursor move to the bullet position.\")",
+    ".setDesc(\"Make Tab and Shift-Tab behave the same as other outliners.\")": ".setDesc(\"Make Tab and Shift-Tab behave the same as other outliners.\")",
+    ".setDesc(\"Make the Enter key behave the same as other outliners.\")": ".setDesc(\"Make the Enter key behave the same as other outliners.\")",
+    ".setDesc(\"Press the hotkey once to select the current list item. Press the hotkey twice to select the entire list.\")": ".setDesc(\"Press the hotkey once to select the current list item. Press the hotkey twice to select the entire list.\")",
+    ".setDesc(\"Styles are only compatible with built-in Obsidian themes and may not be compatible with other themes.\")": ".setDesc(\"Styles are only compatible with built-in Obsidian themes and may not be compatible with other themes.\")",
+    ".setDesc(\"Open DevTools (Command+Option+I or Control+Shift+I) to copy the debug logs.\")": ".setDesc(\"Open DevTools (Command+Option+I or Control+Shift+I) to copy the debug logs.\")",
+    ".setName(\"Vertical indentation line click action\")": ".setName(\"Vertical indentation line click action\")",
+    "none: \"None\"": "none: \"None\"",
+    "\"zoom-in\": \"Zoom In\"": "\"zoom-in\": \"Zoom In\"",
+    "\"toggle-folding\": \"Toggle Folding\"": "\"toggle-folding\": \"Toggle Folding\"",
+    "never: \"Never\"": "never: \"Never\"",
+    "\"bullet-only\": \"Stick cursor out of bullets\"": "\"bullet-only\": \"Stick cursor out of bullets\"",
+    "\"bullet-and-checkbox\": \"Stick cursor out of bullets and checkboxes\"": "\"bullet-and-checkbox\": \"Stick cursor out of bullets and checkboxes\""
+  }
+}
