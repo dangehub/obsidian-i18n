@@ -1,0 +1,41 @@
+{
+  "manifest": {
+    "translationVersion": 1733638923621,
+    "pluginVersion": "0.0.11"
+  },
+  "description": {
+    "original": "Use number-prefixes in your file names to define a custom order, and drag-and-drop the files to update that order",
+    "translation": "Use number-prefixes in your file names to define a custom order, and drag-and-drop the files to update that order"
+  },
+  "dict": {
+    "Notice(\"Prefix min length must be a number above or equal zero.\")": "Notice(\"Prefix min length must be a number above or equal zero.\")",
+    "Notice(\"Starting index must be a number above or equal zero.\")": "Notice(\"Starting index must be a number above or equal zero.\")",
+    ".error(r.value)": ".error(r.value)",
+    ".error(e)": ".error(e)",
+    ".error(l)": ".error(l)",
+    ".error(A)": ".error(A)",
+    ".error(t)": ".error(t)",
+    ".error(r)": ".error(r)",
+    ".setName(\"Delimiter\")": ".setName(\"Delimiter\")",
+    ".setName(\"Starting Index\")": ".setName(\"Starting Index\")",
+    ".setName(\"Ignore Pattern\")": ".setName(\"Ignore Pattern\")",
+    ".setName(\"Ignore folder file\")": ".setName(\"Ignore folder file\")",
+    ".setDesc(\"Starting index for prefix numbers.\")": ".setDesc(\"Starting index for prefix numbers.\")",
+    "Notice(`Fixed name to: \"${o}\"`)": "Notice(`Fixed name to: \"${o}\"`)",
+    ".error(\"forceFrameRate takes a positive int between 0 and 125, forcing frame rates higher than 125 fps is not supported\")": ".error(\"forceFrameRate takes a positive int between 0 and 125, forcing frame rates higher than 125 fps is not supported\")",
+    "name:\"className\"": "name:\"className\"",
+    "name:\"attributeName\"": "name:\"attributeName\"",
+    "name:\"react-beautiful-dnd\"": "name:\"react-beautiful-dnd\"",
+    "name:\"Reorder items in top folder\"": "name:\"Reorder items in top folder\"",
+    "text:\"File Order default config\"": "text:\"File Order default config\"",
+    "text:'To reorder files, right click on any file in the file explorer, and click on \"Reorder items\".'": "text:'To reorder files, right click on any file in the file explorer, and click on \"Reorder items\".'",
+    ".setName(\"Prefix number minimum length\")": ".setName(\"Prefix number minimum length\")",
+    ".setDesc(\"Prefix numbers will be padded to that length if they are shorted, i.e. 001 instead of 1\")": ".setDesc(\"Prefix numbers will be padded to that length if they are shorted, i.e. 001 instead of 1\")",
+    ".setDesc(\"Delimiter between prefix number and title. May be multiple characters.\")": ".setDesc(\"Delimiter between prefix number and title. May be multiple characters.\")",
+    ".setDesc(\"RegEx of files and folder to ignore. Eg: ^index\\\\.md$ to ignore index.md files\")": ".setDesc(\"RegEx of files and folder to ignore. Eg: ^index\\\\.md$ to ignore index.md files\")",
+    ".setDesc(\"In a folder named MyFolderName, ignore MyFolderName.md\")": ".setDesc(\"In a folder named MyFolderName, ignore MyFolderName.md\")",
+    ".setTitle(\"Reorder items\")": ".setTitle(\"Reorder items\")",
+    ".setTitle(\"Fix name to ordering convention\")": ".setTitle(\"Fix name to ordering convention\")",
+    "text:'The following settings are defaults for when items are reordered for the first time in a folder. Subsequent reorders will always reuse the existing settings for the respective folder, and the settings can be changed per folder by clicking the down-icon-button in the reorder view next to the \"Files\" or \"Folders\" headers.'": "text:'The following settings are defaults for when items are reordered for the first time in a folder. Subsequent reorders will always reuse the existing settings for the respective folder, and the settings can be changed per folder by clicking the down-icon-button in the reorder view next to the \"Files\" or \"Folders\" headers.'"
+  }
+}
