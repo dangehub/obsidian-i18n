@@ -1,0 +1,45 @@
+{
+  "manifest": {
+    "translationVersion": 1731312632718,
+    "pluginVersion": "1.2.3"
+  },
+  "description": {
+    "original": "MySnippets is a plugin that adds a status bar menu allowing the user to quickly toggle their snippets on and off 🖌.",
+    "translation": "MySnippets is a plugin that adds a status bar menu allowing the user to quickly toggle their snippets on and off 🖌."
+  },
+  "dict": {
+    "name: `Open snippets in status bar`": "name: `Open snippets in status bar`",
+    "name: `Create new CSS snippet`": "name: `Create new CSS snippet`",
+    ".setText(\"Create a CSS Snippet\")": ".setText(\"Create a CSS Snippet\")",
+    ".setButtonText(\"Create Snippet\")": ".setButtonText(\"Create Snippet\")",
+    ".setName(\"CSS Snippet Title\")": ".setName(\"CSS Snippet Title\")",
+    ".setName(\"CSS Snippet Styles\")": ".setName(\"CSS Snippet Styles\")",
+    ".setName(\"Glass menu effect\")": ".setName(\"Glass menu effect\")",
+    ".setName(\"Auto open new snippet\")": ".setName(\"Auto open new snippet\")",
+    ".setName(\"Set new snippet status\")": ".setName(\"Set new snippet status\")",
+    ".setName(\"CSS snippet template\")": ".setName(\"CSS snippet template\")",
+    ".setDesc(\"Write the title for this CSS snippet file.\")": ".setDesc(\"Write the title for this CSS snippet file.\")",
+    ".setDesc(\"Add in styling for this CSS snippet file.\")": ".setDesc(\"Add in styling for this CSS snippet file.\")",
+    ".setDesc(\"Choose to change the background from the secondary background color of your theme to a glass background.\")": ".setDesc(\"Choose to change the background from the secondary background color of your theme to a glass background.\")",
+    ".setDesc(\"Choose whether or not to open CSS snippet files immeditaley after creating them. It will open in your default app.\")": ".setDesc(\"Choose whether or not to open CSS snippet files immeditaley after creating them. It will open in your default app.\")",
+    ".setDesc(\"Choose whether or not to have newly created CSS snippet files toggled on automatically upon creation.\")": ".setDesc(\"Choose whether or not to have newly created CSS snippet files toggled on automatically upon creation.\")",
+    ".setDesc(\"Set default CSS styling as a template for new CSS files you choose to create.\")": ".setDesc(\"Set default CSS styling as a template for new CSS files you choose to create.\")",
+    ".setTooltip(`Open snippet`)": ".setTooltip(`Open snippet`)",
+    ".setTooltip(\"Reload snippets\")": ".setTooltip(\"Reload snippets\")",
+    ".setTooltip(\"Open snippets folder\")": ".setTooltip(\"Open snippets folder\")",
+    ".setTooltip(\"Create new snippet\")": ".setTooltip(\"Create new snippet\")",
+    ".appendText(\"If you like this Plugin and are considering donating to support continued development, use the buttons below!\")": ".appendText(\"If you like this Plugin and are considering donating to support continued development, use the buttons below!\")",
+    ".setTitle(\"Actions\")": ".setTitle(\"Actions\")",
+    ".createEl(\"h1\", { text: \"MySnippets\" })": ".createEl(\"h1\", { text: \"MySnippets\" })",
+    ".createEl(\"p\", { text: \"Created by \" })": ".createEl(\"p\", { text: \"Created by \" })",
+    "Notice(`\"${fileName}.css\" already exists.`)": "Notice(`\"${fileName}.css\" already exists.`)",
+    "Notice(\"Missing name for file\")": "Notice(\"Missing name for file\")",
+    "Notice(\"Snippets reloaded\")": "Notice(\"Snippets reloaded\")",
+    ".log(`%c\"${fileName}.css\" has been created!`, \"color: Violet\")": ".log(`%c\"${fileName}.css\" has been created!`, \"color: Violet\")",
+    ".log(`MySnippets v${this.manifest.version} loaded`)": ".log(`MySnippets v${this.manifest.version} loaded`)",
+    ".log(\"MySnippets unloaded\")": ".log(\"MySnippets unloaded\")",
+    "text: \"Created by \"": "text: \"Created by \"",
+    "text: \"Plugin Settings\"": "text: \"Plugin Settings\"",
+    "\"Configure Snippets\"": "\"Configure Snippets\""
+  }
+}
