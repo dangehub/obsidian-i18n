@@ -1,0 +1,30 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "2.0.0"
+  },
+  "description": {
+    "original": "A task progress bar plugin for tasks in Obsidian.",
+    "translation": "A task progress bar plugin for tasks in Obsidian."
+  },
+  "dict": {
+    ".setDesc(\"Toggle this to allow this plugin to add progress bar for Task below the headings.\"": ".setDesc(\"Toggle this to allow this plugin to add progress bar for Task below the headings.\"",
+    ".setDesc(\"Toggle this to allow this plugin to add tasks number to progress bar.\"": ".setDesc(\"Toggle this to allow this plugin to add tasks number to progress bar.\"",
+    ".setDesc(\"Toggle this to allow this plugin to count the tasks in one level, but not in sub-levels.\"": ".setDesc(\"Toggle this to allow this plugin to count the tasks in one level, but not in sub-levels.\"",
+    ".setDesc(\"Toggle this to allow this plugin to treat different tasks mark as completed or uncompleted tasks.\"": ".setDesc(\"Toggle this to allow this plugin to treat different tasks mark as completed or uncompleted tasks.\"",
+    ".setDesc('Set completed alternative marks here. Like \"x|X|-\"'": ".setDesc('Set completed alternative marks here. Like \"x|X|-\"'",
+    ".setDesc(\"If you like this plugin, consider donating to support continued development:\"": ".setDesc(\"If you like this plugin, consider donating to support continued development:\"",
+    ".setName(\"Add progress bar to Heading\"": ".setName(\"Add progress bar to Heading\"",
+    ".setName(\"Add number to the Progress Bar\"": ".setName(\"Add number to the Progress Bar\"",
+    ".setName(\"Only count children of current Task\"": ".setName(\"Only count children of current Task\"",
+    ".setName(\"Allow alternate task status\"": ".setName(\"Allow alternate task status\"",
+    ".setName(\"Completed alternative marks\"": ".setName(\"Completed alternative marks\"",
+    ".setName(\"Donate\"": ".setName(\"Donate\"",
+    ".setName(\"Count sub children level of current Task\")": ".setName(\"Count sub children level of current Task\")",
+    ".setDesc(\"Toggle this to allow this plugin to count sub tasks.\")": ".setDesc(\"Toggle this to allow this plugin to count sub tasks.\")",
+    ".setName(\"Show percentage\")": ".setName(\"Show percentage\")",
+    ".setDesc(\"Toggle this to allow this plugin to show percentage in the progress bar.\")": ".setDesc(\"Toggle this to allow this plugin to show percentage in the progress bar.\")",
+    "text:\"\\u{1F4CD} Task Progress Bar\"": "text:\"\\u{1F4CD} Task Progress Bar\"",
+    "text:\"Say Thank You\"": "text:\"Say Thank You\""
+  }
+}
