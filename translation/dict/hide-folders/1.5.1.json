@@ -1,0 +1,32 @@
+{
+  "manifest": {
+    "translationVersion": 1729374055861,
+    "pluginVersion": "1.5.1"
+  },
+  "description": {
+    "original": "Hides & Toggles configured folders (e.g. attachments folders).",
+    "translation": "Hides & Toggles configured folders (e.g. attachments folders)."
+  },
+  "dict": {
+    ".log(\"loading plugin hide-folders\")": ".log(\"loading plugin hide-folders\")",
+    "name: \"Toggle visibility of hidden folders\"": "name: \"Toggle visibility of hidden folders\"",
+    ".setName(\"Folders to hide\")": ".setName(\"Folders to hide\")",
+    ".setName(\"Ignore Upper/lowercase\")": ".setName(\"Ignore Upper/lowercase\")",
+    ".setName(\"Hide folders\")": ".setName(\"Hide folders\")",
+    ".setName(\"Add Hidden Folders to Obsidian Exclusion-List\")": ".setName(\"Add Hidden Folders to Obsidian Exclusion-List\")",
+    ".setName('Hide bottom status-bar \"Folders are Hidden\" indicator')": ".setName('Hide bottom status-bar \"Folders are Hidden\" indicator')",
+    ".setName(\"[EXPERIMENTAL] Compatibility: quick-explorer by pjeby\")": ".setName(\"[EXPERIMENTAL] Compatibility: quick-explorer by pjeby\")",
+    ".setName(\"GitHub\")": ".setName(\"GitHub\")",
+    ".setName(\"Donate\")": ".setName(\"Donate\")",
+    ".setDesc(\"The names of the folders to hide, one per line. Either exact folder-names, startsWith::FOLDERPREFIX, or endsWith::FOLDERSUFFIX\")": ".setDesc(\"The names of the folders to hide, one per line. Either exact folder-names, startsWith::FOLDERPREFIX, or endsWith::FOLDERSUFFIX\")",
+    ".setDesc(\"If enabled, 'SOMEFOLDER', 'someFolder', or 'sOmeFoldEr' will all be treated the same and matched.\")": ".setDesc(\"If enabled, 'SOMEFOLDER', 'someFolder', or 'sOmeFoldEr' will all be treated the same and matched.\")",
+    ".setDesc(\"If the configured folders should be hidden or not\")": ".setDesc(\"If the configured folders should be hidden or not\")",
+    ".setDesc(\"Excluded files will be hidden in Search, Graph View, and Unlinked Mentions, less noticeable in Quick Switcher and link suggestions.\")": ".setDesc(\"Excluded files will be hidden in Search, Graph View, and Unlinked Mentions, less noticeable in Quick Switcher and link suggestions.\")",
+    ".setDesc(\"If enable there will be no bottom-bar indicator-text telling you if this plugin is active.\")": ".setDesc(\"If enable there will be no bottom-bar indicator-text telling you if this plugin is active.\")",
+    ".setDesc(\"[WARNING: UNSTABLE] Also hide hidden folders in the https://github.com/pjeby/quick-explorer plugin. Not affiliated with quick-explorer's author.\")": ".setDesc(\"[WARNING: UNSTABLE] Also hide hidden folders in the https://github.com/pjeby/quick-explorer plugin. Not affiliated with quick-explorer's author.\")",
+    ".setDesc(\"Report Issues or Ideas, see the Source Code and Contribute.\")": ".setDesc(\"Report Issues or Ideas, see the Source Code and Contribute.\")",
+    ".setDesc(\"If you like this open-source plugin, consider a small tip to support my unpaid work.\")": ".setDesc(\"If you like this open-source plugin, consider a small tip to support my unpaid work.\")",
+    ".setPlaceholder(\"attachments\\nendsWith::_attachments\")": ".setPlaceholder(\"attachments\\nendsWith::_attachments\")",
+    ".innerText = \"Experimental & Unstable Settings\"": ".innerText = \"Experimental & Unstable Settings\""
+  }
+}
