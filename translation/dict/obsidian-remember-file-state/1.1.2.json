@@ -1,0 +1,18 @@
+{
+  "manifest": {
+    "translationVersion": 1730995532034,
+    "pluginVersion": "1.1.2"
+  },
+  "description": {
+    "original": "Remembers cursor position, selection, scrolling, and more for each file",
+    "translation": "Remembers cursor position, selection, scrolling, and more for each file"
+  },
+  "dict": {
+    ".log(\"RememberFileState: loading plugin\")": ".log(\"RememberFileState: loading plugin\")",
+    ".error(\"RememberFileState: couldn't restore file state: \", err)": ".error(\"RememberFileState: couldn't restore file state: \", err)",
+    ".setName(\"Remember files\")": ".setName(\"Remember files\")",
+    ".setName(\"Save states\")": ".setName(\"Save states\")",
+    ".setDesc(\"How many files to remember at most\")": ".setDesc(\"How many files to remember at most\")",
+    ".setDesc(\"Whether to save the state of all open files to disk\")": ".setDesc(\"Whether to save the state of all open files to disk\")"
+  }
+}
