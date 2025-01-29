@@ -1,0 +1,22 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "0.2.0"
+  },
+  "description": {
+    "original": "Add, track and easily navigate between a note's Comments",
+    "translation": "Add, track and easily navigate between a note's Comments"
+  },
+  "dict": {
+    "name: \"Open Comments Panel\"": "name: \"Open Comments Panel\"",
+    "setDesc(\"Change from the style.css in the package folder\"": "setDesc(\"Change from the style.css in the package folder\"",
+    "setDesc('Change from the style.css in the package folder'": "setDesc('Change from the style.css in the package folder'",
+    "setDesc('After changing this setting unload then reload the plugin for the change to take place'": "setDesc('After changing this setting unload then reload the plugin for the change to take place'",
+    "setName('Default text color'": "setName('Default text color'",
+    "setName('Default background color'": "setName('Default background color'",
+    "setName('Hide Comment Plugin Ribbon'": "setName('Hide Comment Plugin Ribbon'",
+    "text: 'Comments Plugin Settings'": "text: 'Comments Plugin Settings'",
+    "name: \"Add Comment\"": "name: \"Add Comment\"",
+    ".addRibbonIcon('lines-of-text', \"Show Comments Panel\"": ".addRibbonIcon('lines-of-text', \"Show Comments Panel\""
+  }
+}
