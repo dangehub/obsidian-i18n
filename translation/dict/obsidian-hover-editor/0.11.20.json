@@ -1,0 +1,50 @@
+{
+  "manifest": {
+    "translationVersion": 1731766121680,
+    "pluginVersion": "0.11.20"
+  },
+  "description": {
+    "original": "Transform the Page Preview hover popover into a fully working editor instance",
+    "translation": "Transform the Page Preview hover popover into a fully working editor instance"
+  },
+  "dict": {
+    ".setName(\"Default Mode\")": ".setName(\"Default Mode\")",
+    ".setName(\"Auto Pin\")": ".setName(\"Auto Pin\")",
+    ".setName(\"Trigger hover preview on embeds\")": ".setName(\"Trigger hover preview on embeds\")",
+    ".setName(\"Auto Focus\")": ".setName(\"Auto Focus\")",
+    ".setName(\"Minimize downwards\")": ".setName(\"Minimize downwards\")",
+    ".setName(\"Snap to edges\")": ".setName(\"Snap to edges\")",
+    ".setName(\"Show view header by default\")": ".setName(\"Show view header by default\")",
+    ".setName(\"Click to zoom image\")": ".setName(\"Click to zoom image\")",
+    ".setName(\"Initial popover width\")": ".setName(\"Initial popover width\")",
+    ".setName(\"Initial popover height\")": ".setName(\"Initial popover height\")",
+    ".setName(\"Hover Trigger Delay (ms)\")": ".setName(\"Hover Trigger Delay (ms)\")",
+    ".setName(\"Hover Close Delay (ms)\")": ".setName(\"Hover Close Delay (ms)\")",
+    ".setDesc(\"Allow hover preview to trigger when hovering over any type of rendered embed such as images or block references\")": ".setDesc(\"Allow hover preview to trigger when hovering over any type of rendered embed such as images or block references\")",
+    ".setDesc(\"Set the hover editor as the active pane when opened\")": ".setDesc(\"Set the hover editor as the active pane when opened\")",
+    ".setDesc(\"When double clicking to minimize, the window will roll down instead of rolling up\")": ".setDesc(\"When double clicking to minimize, the window will roll down instead of rolling up\")",
+    ".setDesc(`Show the view header by default when triggering a hover editor.\n         When disabled, view headers will only show if you click the view header icon to the left of the minimize button.`)": ".setDesc(`Show the view header by default when triggering a hover editor.\n         When disabled, view headers will only show if you click the view header icon to the left of the minimize button.`)",
+    ".setDesc(`Click and hold an image within a hover editor to temporarily maximize the popover and image to fill the entire viewport. \n        On mouse up, the hover editor will restore to its original size.`)": ".setDesc(`Click and hold an image within a hover editor to temporarily maximize the popover and image to fill the entire viewport. \n        On mouse up, the hover editor will restore to its original size.`)",
+    ".setDesc(\"Enter any valid CSS unit\")": ".setDesc(\"Enter any valid CSS unit\")",
+    ".setDesc(\"How long to wait before showing a Hover Editor when hovering over a link\")": ".setDesc(\"How long to wait before showing a Hover Editor when hovering over a link\")",
+    ".setDesc(\"How long to wait before closing a Hover Editor once the mouse leaves\")": ".setDesc(\"How long to wait before closing a Hover Editor once the mouse leaves\")",
+    ".appendText(\" \"+a.name)}),v.addEventListener(\"click\",()=>this.plugin.app.openWithDefaultApp(a.path)),v.setAttribute(\"aria-label\",i18next.t(\"interface.embed-open-in-default-app-tooltip\")": ".appendText(\" \"+a.name)}),v.addEventListener(\"click\",()=>this.plugin.app.openWithDefaultApp(a.path)),v.setAttribute(\"aria-label\",i18next.t(\"interface.embed-open-in-default-app-tooltip\")",
+    ".setTitle(\"Dock Hover Editor to workspace\")": ".setTitle(\"Dock Hover Editor to workspace\")",
+    ".setTitle(\"Open in Hover Editor\")": ".setTitle(\"Open in Hover Editor\")",
+    ".setTitle(\"Convert to Hover Editor\")": ".setTitle(\"Convert to Hover Editor\")",
+    ".textContent=`${a} is not yet created. Click to create.`": ".textContent=`${a} is not yet created. Click to create.`",
+    "name:\"Toggle bouncing popovers\"": "name:\"Toggle bouncing popovers\"",
+    "name:\"Open new Hover Editor\"": "name:\"Open new Hover Editor\"",
+    "name:\"Open link under cursor in new Hover Editor\"": "name:\"Open link under cursor in new Hover Editor\"",
+    "name:\"Open current file in new Hover Editor\"": "name:\"Open current file in new Hover Editor\"",
+    "name:\"Convert active pane to Hover Editor\"": "name:\"Convert active pane to Hover Editor\"",
+    "name:\"Dock active Hover Editor to workspace\"": "name:\"Dock active Hover Editor to workspace\"",
+    "name:\"Restore active Hover Editor\"": "name:\"Restore active Hover Editor\"",
+    "name:\"Minimize active Hover Editor\"": "name:\"Minimize active Hover Editor\"",
+    "name:\"Snap active Hover Editor to ${a}\"": "name:\"Snap active Hover Editor to ${a}\"",
+    "Na={preview:\"Reading view\",source:\"Editing view\",match:\"Match current view\"},qa={onMove:\"On drag or resize\",always:\"Always\"}": "Na={preview:\"Reading view\",source:\"Editing view\",match:\"Match current view\"},qa={onMove:\"On drag or resize\",always:\"Always\"}",
+    "重要提示：这个影响功能，不要翻译\"name:\"drag\"": "重要提示：这个影响功能，不要翻译\"name:\"drag\"",
+    "重要提示：这个影响功能，不要翻译\"name:\"gesture\"": "重要提示：这个影响功能，不要翻译\"name:\"gesture\"",
+    "重要提示：这个影响功能，不要翻译\"name:\"resize\"": "重要提示：这个影响功能，不要翻译\"name:\"resize\""
+  }
+}
