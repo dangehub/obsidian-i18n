@@ -1,0 +1,22 @@
+{
+  "manifest": {
+    "translationVersion": 1732891889437,
+    "pluginVersion": "5.0.5"
+  },
+  "description": {
+    "original": "Simultaneously generate, update, and maintain a table of contents for your notes.",
+    "translation": "Simultaneously generate, update, and maintain a table of contents for your notes."
+  },
+  "dict": {
+    ".log(\"Loading Insta TOC Plugin\")": ".log(\"Loading Insta TOC Plugin\")",
+    ".log(\"Unloading Insta TOC Plugin\")": ".log(\"Unloading Insta TOC Plugin\")",
+    ".setName(\"List bullet style\")": ".setName(\"List bullet style\")",
+    ".setName(\"Indentation width\")": ".setName(\"Indentation width\")",
+    ".setName(\"Update delay\")": ".setName(\"Update delay\")",
+    ".setName(\"Excluded characters\")": ".setName(\"Excluded characters\")",
+    ".setDesc(\"Select the global list bullet type.\")": ".setDesc(\"Select the global list bullet type.\")",
+    ".setDesc(\"Select the global indentation size.\")": ".setDesc(\"Select the global indentation size.\")",
+    ".setDesc(\"The delay for each TOC update.\")": ".setDesc(\"The delay for each TOC update.\")",
+    ".setDesc(\"Characters to exclude in headings.\")": ".setDesc(\"Characters to exclude in headings.\")"
+  }
+}
