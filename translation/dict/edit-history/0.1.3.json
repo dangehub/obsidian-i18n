@@ -1,0 +1,40 @@
+{
+  "manifest": {
+    "translationVersion": 1733382024170,
+    "pluginVersion": "0.1.3"
+  },
+  "description": {
+    "original": "Automatically saves the history of edits of a file when Obsidian saves the file, and allows viewing the differences between edits, copying text from a previous edit, or fully rolling back to a previous edit.",
+    "translation": "Automatically saves the history of edits of a file when Obsidian saves the file, and allows viewing the differences between edits, copying text from a previous edit, or fully rolling back to a previous edit."
+  },
+  "dict": {
+    ".error(e3)": ".error(e3)",
+    ".error(e2)": ".error(e2)",
+    ".error(this.generatedError)": ".error(this.generatedError)",
+    "name: \"Open edit history for this file\"": "name: \"Open edit history for this file\"",
+    "name: \"Save current edit in the edit history\"": "name: \"Save current edit in the edit history\"",
+    "text: \"No edit history\"": "text: \"No edit history\"",
+    "text: \"Created by \"": "text: \"Created by \"",
+    "text: \"Antonio Tejada\"": "text: \"Antonio Tejada\"",
+    "text: \"General\"": "text: \"General\"",
+    "text: \"Appearance\"": "text: \"Appearance\"",
+    "text: \"Debugging\"": "text: \"Debugging\"",
+    ".setText(\"? edits\")": ".setText(\"? edits\")",
+    ".setText(\"Edits for \")": ".setText(\"Edits for \")",
+    ".setButtonText(\"Copy\")": ".setButtonText(\"Copy\")",
+    ".setName(\"Minimum seconds between edits\")": ".setName(\"Minimum seconds between edits\")",
+    ".setName(\"Maximum number of edits\")": ".setName(\"Maximum number of edits\")",
+    ".setName(\"Maximum age of edits\")": ".setName(\"Maximum age of edits\")",
+    ".setName(\"Maximum size of the history file (KB)\")": ".setName(\"Maximum size of the history file (KB)\")",
+    ".setName(\"File extension whitelist\")": ".setName(\"File extension whitelist\")",
+    ".setName(\"Show on status bar\")": ".setName(\"Show on status bar\")",
+    ".setName(\"Debug level\")": ".setName(\"Debug level\")",
+    ".setDesc(\"Minimum number of seconds that must pass from the previous edit to store a new edit. Modifications done between those seconds will be merged into the next edit, reducing the edit history file size at the expense of less history granularity.\")": ".setDesc(\"Minimum number of seconds that must pass from the previous edit to store a new edit. Modifications done between those seconds will be merged into the next edit, reducing the edit history file size at the expense of less history granularity.\")",
+    ".setDesc(\"Maximum number of edits to keep, set to 0 for no limit. Older edits will be deleted from the history in the next update, reducing the edit history file size at the expense of less history.\")": ".setDesc(\"Maximum number of edits to keep, set to 0 for no limit. Older edits will be deleted from the history in the next update, reducing the edit history file size at the expense of less history.\")",
+    ".setDesc(\"Oldest edit to keep in seconds, eg set to 3600 to delete edits that are more than one hour old, set to 0 for no limit. Older edits will be deleted from the history in the next update, reducing the edit history file size at the expense of less history.\")": ".setDesc(\"Oldest edit to keep in seconds, eg set to 3600 to delete edits that are more than one hour old, set to 0 for no limit. Older edits will be deleted from the history in the next update, reducing the edit history file size at the expense of less history.\")",
+    ".setDesc(\"Maximum size of the history file in kilobytes, set to 0 for no limit. When over the size, edits will be deleted from the history in the next update, older edits first, reducing the edit history file size at the expense of less history.\")": ".setDesc(\"Maximum size of the history file in kilobytes, set to 0 for no limit. When over the size, edits will be deleted from the history in the next update, older edits first, reducing the edit history file size at the expense of less history.\")",
+    ".setDesc(\"List of file extensions to store edits for. Empty to store edits for all files.\\nNote if an extension is removed, old edit history files will need to be removed manually.\")": ".setDesc(\"List of file extensions to store edits for. Empty to store edits for all files.\\nNote if an extension is removed, old edit history files will need to be removed manually.\")",
+    ".setDesc(\"Show edit history file information on the status bar. Click the status bar to show the edit history for the current file.\")": ".setDesc(\"Show edit history file information on the status bar. Click the status bar to show the edit history for the current file.\")",
+    ".setDesc(\"Messages to show in the javascript console.\")": ".setDesc(\"Messages to show in the javascript console.\")"
+  }
+}
