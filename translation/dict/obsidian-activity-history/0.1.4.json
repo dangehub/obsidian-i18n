@@ -1,0 +1,38 @@
+{
+  "manifest": {
+    "translationVersion": 1734756167532,
+    "pluginVersion": "0.1.4"
+  },
+  "description": {
+    "original": "Track activity of specified projects, Github like activity board",
+    "translation": "Track activity of specified projects, Github like activity board"
+  },
+  "dict": {
+    ".log('Loaded Activity Plugin')": ".log('Loaded Activity Plugin')",
+    ".log('unloading activity plugin')": ".log('unloading activity plugin')",
+    "text: 'Activity History Settings'": "text: 'Activity History Settings'",
+    ".setText(`Specified project ${source} is not a tracked project.`)": ".setText(`Specified project ${source} is not a tracked project.`)",
+    ".setName('Tracked Projects:')": ".setName('Tracked Projects:')",
+    ".setName('Track Project:')": ".setName('Track Project:')",
+    ".setName('Stop Tracking Project:')": ".setName('Stop Tracking Project:')",
+    ".setName('Activity 1 Color:')": ".setName('Activity 1 Color:')",
+    ".setName('Activity 2 Color:')": ".setName('Activity 2 Color:')",
+    ".setName('Activity 3 Color:')": ".setName('Activity 3 Color:')",
+    ".setName('Activity 4 Color:')": ".setName('Activity 4 Color:')",
+    ".setName('Text color:')": ".setName('Text color:')",
+    ".setName('Empty color:')": ".setName('Empty color:')",
+    ".setName('Cell Radius:')": ".setName('Cell Radius:')",
+    ".setDesc('Add project to tracking list. e.g. write `Project 1` to track the project located in `/Project 1`')": ".setDesc('Add project to tracking list. e.g. write `Project 1` to track the project located in `/Project 1`')",
+    ".setDesc('Remove project from the tracking list. e.g. `Project 1`')": ".setDesc('Remove project from the tracking list. e.g. `Project 1`')",
+    ".setDesc('Color for lowest activity. Placeholder shows current color.')": ".setDesc('Color for lowest activity. Placeholder shows current color.')",
+    ".setDesc('Color for low activity. Placeholder shows current color.')": ".setDesc('Color for low activity. Placeholder shows current color.')",
+    ".setDesc('Color for medium activity. Placeholder shows current color.')": ".setDesc('Color for medium activity. Placeholder shows current color.')",
+    ".setDesc('Color for highest activity. Placeholder shows current color.')": ".setDesc('Color for highest activity. Placeholder shows current color.')",
+    ".setDesc('Text color. Placeholder shows current color.')": ".setDesc('Text color. Placeholder shows current color.')",
+    ".setDesc('Empty color. Placeholder shows current color.')": ".setDesc('Empty color. Placeholder shows current color.')",
+    ".setDesc('Cell Radius. integer, default is 1 = square, the higher the more round.')": ".setDesc('Cell Radius. integer, default is 1 = square, the higher the more round.')",
+    ".setPlaceholder(`Project Example`)": ".setPlaceholder(`Project Example`)",
+    ".addOption('yearly', 'Yearly')": ".addOption('yearly', 'Yearly')",
+    ".addOption('monthly', 'Monthly')": ".addOption('monthly', 'Monthly')"
+  }
+}
