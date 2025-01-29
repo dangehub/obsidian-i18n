@@ -1,0 +1,25 @@
+{
+  "manifest": {
+    "translationVersion": 1737031095325,
+    "pluginVersion": "4.0.0"
+  },
+  "description": {
+    "original": "You can use search view in modal/leaf/popout window now.",
+    "translation": "You can use search view in modal/leaf/popout window now."
+  },
+  "dict": {
+    "name:\"Show/hide file path\"": "name:\"Show/hide file path\"",
+    "name:\"Search obsidian globally\"": "name:\"Search obsidian globally\"",
+    "name:\"Search Obsidian Globally (With Last State)\"": "name:\"Search Obsidian Globally (With Last State)\"",
+    "name:\"Search in backlink Of current file\"": "name:\"Search in backlink Of current file\"",
+    "name:\"Search in current file\"": "name:\"Search in current file\"",
+    "name:`Open search view (${t})`": "name:`Open search view (${t})`",
+    ".setName(\"Show file path\")": ".setName(\"Show file path\")",
+    ".setName(\"Show instructions\")": ".setName(\"Show instructions\")",
+    ".setName(\"Default view type\")": ".setName(\"Default view type\")",
+    ".setTooltip(\"Switch to File View\")": ".setTooltip(\"Switch to File View\")",
+    ".setTitle(`${l.type} view`)": ".setTitle(`${l.type} view`)",
+    ".setTitle('Search \"'+s+'\" in Float Search')": ".setTitle('Search \"'+s+'\" in Float Search')",
+    ".setTitle(\"Open in Float Preview\")": ".setTitle(\"Open in Float Preview\")"
+  }
+}
