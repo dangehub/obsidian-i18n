@@ -1,0 +1,35 @@
+{
+  "manifest": {
+    "translationVersion": 1730185145138,
+    "pluginVersion": "2.1.4"
+  },
+  "description": {
+    "original": "This is a plugin for Obsidian that adds a button to scroll to the top of the current note.",
+    "translation": "This is a plugin for Obsidian that adds a button to scroll to the top of the current note."
+  },
+  "dict": {
+    "text: \"Scroll To Top Settings\"": "text: \"Scroll To Top Settings\"",
+    ".setName(\"Show scroll to top button\")": ".setName(\"Show scroll to top button\")",
+    ".setName(\"Show scroll to bottom button\")": ".setName(\"Show scroll to bottom button\")",
+    ".setName(\"Show scroll to cursor button\")": ".setName(\"Show scroll to cursor button\")",
+    ".setName(\"Show Tooltip\")": ".setName(\"Show Tooltip\")",
+    ".setName(\"Scroll on WebView (Beta)\")": ".setName(\"Scroll on WebView (Beta)\")",
+    ".setName(\"Resize buttons\")": ".setName(\"Resize buttons\")",
+    ".setName(\"tooltip config for top button\")": ".setName(\"tooltip config for top button\")",
+    ".setName(\"tooltip config for bottom button\")": ".setName(\"tooltip config for bottom button\")",
+    ".setName(\"tooltip config for cursor button\")": ".setName(\"tooltip config for cursor button\")",
+    ".setName(\"Change icon of scroll to top button\")": ".setName(\"Change icon of scroll to top button\")",
+    ".setName(\"Change icon of scroll to bottom button\")": ".setName(\"Change icon of scroll to bottom button\")",
+    ".setName(\"Change icon of scroll to cursor button\")": ".setName(\"Change icon of scroll to cursor button\")",
+    ".setDesc(\"Show scroll to top button in the right bottom corner.\")": ".setDesc(\"Show scroll to top button in the right bottom corner.\")",
+    ".setDesc(\"Show scroll to bottom button in the right bottom corner.\")": ".setDesc(\"Show scroll to bottom button in the right bottom corner.\")",
+    ".setDesc(\"Show scroll to cursor button in the right bottom corner.\")": ".setDesc(\"Show scroll to cursor button in the right bottom corner.\")",
+    ".setDesc(\"Show tooltip when hover on the button.\")": ".setDesc(\"Show tooltip when hover on the button.\")",
+    ".setDesc(\"Scroll on WebView (Should work with Surfing Plugin).\")": ".setDesc(\"Scroll on WebView (Should work with Surfing Plugin).\")",
+    ".setDesc(\"Change size of buttons.\")": ".setDesc(\"Change size of buttons.\")",
+    ".setDesc(\"Change tooltip text of scroll to top button.\")": ".setDesc(\"Change tooltip text of scroll to top button.\")",
+    ".setDesc(\"Change tooltip text of scroll to bottom button.\")": ".setDesc(\"Change tooltip text of scroll to bottom button.\")",
+    ".setDesc(\"Change tooltip text of scroll to cursor button.\")": ".setDesc(\"Change tooltip text of scroll to cursor button.\")",
+    ".setTooltip(\"Reset to default\")": ".setTooltip(\"Reset to default\")"
+  }
+}
