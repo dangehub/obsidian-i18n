@@ -1,0 +1,50 @@
+{
+  "manifest": {
+    "translationVersion": -639075600000,
+    "pluginVersion": "1.1.2"
+  },
+  "description": {
+    "original": "cMenu is a plugin that adds a minimal text editor modal for a smoother writing/editing experience ✍🏽.",
+    "translation": "cMenu is a plugin that adds a minimal text editor modal for a smoother writing/editing experience ✍🏽."
+  },
+  "dict": {
+    ".setName(\"cMenu append method\")": ".setName(\"cMenu append method\")",
+    ".setDesc(\"Choose where cMenu will append upon regeneration. To see the change, hit the refresh button below, or in the status bar menu.\")": ".setDesc(\"Choose where cMenu will append upon regeneration. To see the change, hit the refresh button below, or in the status bar menu.\")",
+    ".setName(\"cMenu aesthetic\")": ".setName(\"cMenu aesthetic\")",
+    ".setDesc(\"Choose between a glass morphism and default style for cMenu. To see the change, hit the refresh button below, or in the status bar menu.\")": ".setDesc(\"Choose between a glass morphism and default style for cMenu. To see the change, hit the refresh button below, or in the status bar menu.\")",
+    ".setName(\"cMenu columns\")": ".setName(\"cMenu columns\")",
+    ".setDesc(\"Choose the number of columns per row to display on cMenu. To see the change, hit the refresh button below, or in the status bar menu.\")": ".setDesc(\"Choose the number of columns per row to display on cMenu. To see the change, hit the refresh button below, or in the status bar menu.\")",
+    ".setName(\"cMenu refresh\")": ".setName(\"cMenu refresh\")",
+    ".setName(\"cMenu commands\")": ".setName(\"cMenu commands\")",
+    ".setDesc(\"Add a command onto cMenu from Obsidian's commands library. To reorder the commands, drag and drop the command items. To delete them, use the delete buttom to the right of the command item. cMenu will not automaticaly refresh after reordering commands. Use the refresh button above.\")": ".setDesc(\"Add a command onto cMenu from Obsidian's commands library. To reorder the commands, drag and drop the command items. To delete them, use the delete buttom to the right of the command item. cMenu will not automaticaly refresh after reordering commands. Use the refresh button above.\")",
+    "  name: \"cMenu: Toggle bold\",": "  name: \"cMenu: Toggle bold\",",
+    "  name: \"cMenu: Toggle italics\",": "  name: \"cMenu: Toggle italics\",",
+    "  name: \"cMenu: Toggle strikethrough\",": "  name: \"cMenu: Toggle strikethrough\",",
+    "  name: \"cMenu: Toggle underline\",": "  name: \"cMenu: Toggle underline\",",
+    "  name: \"cMenu: Toggle superscript\",": "  name: \"cMenu: Toggle superscript\",",
+    "  name: \"cMenu: Toggle subscript\",": "  name: \"cMenu: Toggle subscript\",",
+    "  name: \"cMenu: Toggle code\",": "  name: \"cMenu: Toggle code\",",
+    "  name: \"cMenu: Toggle codeblock\",": "  name: \"cMenu: Toggle codeblock\",",
+    "  name: \"cMenu: Toggle blockquote\",": "  name: \"cMenu: Toggle blockquote\",",
+    "  name: \"Add embed\",": "  name: \"Add embed\",",
+    "  name: \"Insert markdown link\",": "  name: \"Insert markdown link\",",
+    "  name: \"Add tag\",": "  name: \"Add tag\",",
+    "  name: \"Add internal link\",": "  name: \"Add internal link\",",
+    "  name: \"Toggle bold\",": "  name: \"Toggle bold\",",
+    "  name: \"Toggle italics\",": "  name: \"Toggle italics\",",
+    "  name: \"Toggle strikethrough\",": "  name: \"Toggle strikethrough\",",
+    "  name: \"Toggle code\",": "  name: \"Toggle code\",",
+    "  name: \"Toggle blockquote\",": "  name: \"Toggle blockquote\",",
+    "  name: \"Toggle bullet\",": "  name: \"Toggle bullet\",",
+    "  name: \"Toggle checklist status\",": "  name: \"Toggle checklist status\",",
+    "  name: \"Toggle comment\",": "  name: \"Toggle comment\",",
+    "  name: \"Toggle highlight\",": "  name: \"Toggle highlight\",",
+    "  name: \"Toggle numbered list\",": "  name: \"Toggle numbered list\",",
+    "  name: \"Hide/show \",": "  name: \"Hide/show \",",
+    ".setTitle(\"Hide & Show\");": ".setTitle(\"Hide & Show\");",
+    "cMenu will only refresh automatically after you have either added or deleted a command from it. To see UI changes to cMenu (above settings changes) use the refresh button. If you forget to refresh in settings, no worries. There is also a refresh button in the cMenu status bar menu.": "cMenu will only refresh automatically after you have either added or deleted a command from it. To see UI changes to cMenu (above settings changes) use the refresh button. If you forget to refresh in settings, no worries. There is also a refresh button in the cMenu status bar menu.",
+    "Created by ": "Created by ",
+    "Plugin Settings": "Plugin Settings",
+    "If you like this Plugin and are considering donating to support continued development, use the button below!": "If you like this Plugin and are considering donating to support continued development, use the button below!"
+  }
+}
