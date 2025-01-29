@@ -1,0 +1,36 @@
+{
+  "manifest": {
+    "translationVersion": 1733912516869,
+    "pluginVersion": "1.1.2"
+  },
+  "description": {
+    "original": "Add the current note's reading time to Obsidian's status bar.",
+    "translation": "Add the current note's reading time to Obsidian's status bar."
+  },
+  "dict": {
+    "name: \"Selected Text\"": "name: \"Selected Text\"",
+    ".setText(\"0 min read\")": ".setText(\"0 min read\")",
+    ".setName(\"Reading speed\")": ".setName(\"Reading speed\")",
+    ".setName(\"Format\")": ".setName(\"Format\")",
+    ".setName(\"Append Text\")": ".setName(\"Append Text\")",
+    ".setDesc(\"Words per minute used for reading speed (default: 200).\")": ".setDesc(\"Words per minute used for reading speed (default: 200).\")",
+    ".setDesc(\"Choose the output format\")": ".setDesc(\"Choose the output format\")",
+    ".setDesc(\"Append 'read' to formatted string.\")": ".setDesc(\"Append 'read' to formatted string.\")",
+    ".setPlaceholder(\"Example: 200\")": ".setPlaceholder(\"Example: 200\")",
+    "addOption(\"compact\", \"Compact (10m)\")": "addOption(\"compact\", \"Compact (10m)\")",
+    "addOption(\"simple\", \"Simple (10m 4s)\")": "addOption(\"simple\", \"Simple (10m 4s)\")",
+    "addOption(\"verbose\", \"Verbose (10 minutes 4 seconds)\")": "addOption(\"verbose\", \"Verbose (10 minutes 4 seconds)\")",
+    "addOption(\"digital\", \"Colon Notation (10:04)\")": "addOption(\"digital\", \"Colon Notation (10:04)\")",
+    "return plugin.settings.appendText ? `${result.minutes} min read` : `${result.minutes} min`;": "return plugin.settings.appendText ? `${result.minutes} min read` : `${result.minutes} min`;",
+    "add(parsed.days % 365, \"day\", \"d\");": "add(parsed.days % 365, \"day\", \"d\");",
+    "add(parsed.hours, \"hour\", \"h\");": "add(parsed.hours, \"hour\", \"h\");",
+    "add(parsed.minutes, \"minute\", \"m\");": "add(parsed.minutes, \"minute\", \"m\");",
+    "add(parsed.seconds, \"second\", \"s\");": "add(parsed.seconds, \"second\", \"s\");",
+    "add(parsed.milliseconds, \"millisecond\", \"ms\");": "add(parsed.milliseconds, \"millisecond\", \"ms\");",
+    "add(parsed.microseconds, \"microsecond\", \"\\xB5s\");": "add(parsed.microseconds, \"microsecond\", \"\\xB5s\");",
+    "add(parsed.nanoseconds, \"nanosecond\", \"ns\");": "add(parsed.nanoseconds, \"nanosecond\", \"ns\");",
+    "add(Number.parseFloat(secondsString, 10), \"second\", \"s\", secondsString);": "add(Number.parseFloat(secondsString, 10), \"second\", \"s\", secondsString);",
+    "var pluralize = (word, count) => (count === 1 ? word : `${word}s`);": "var pluralize = (word, count) => (count === 1 ? word : `${word}s`);",
+    ".addOption(\"default\", \"Default (10 min)\")": ".addOption(\"default\", \"Default (10 min)\")"
+  }
+}
